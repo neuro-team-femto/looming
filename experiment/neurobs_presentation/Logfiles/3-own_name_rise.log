@@ -1,0 +1,2395 @@
+Scenario - Own_name
+Logfile written - 10/25/2021 12:02:50
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+3	1	Response	1	78365	77997	2
+3	2	Sound	std	85117	0	2588			0		other	0
+3	3	Sound	std	94477	0	3			0		other	0
+3	4	Sound	std	100268	0	3			0		other	0
+3	5	Sound	std	107478	0	3			0		other	0
+3	6	Sound	std	115107	0	2			0		other	0
+3	7	Sound	std	121858	0	3			0		other	0
+3	8	Sound	std	128157	0	3			0		other	0
+3	9	Sound	std	135378	0	3			0		other	0
+3	10	Sound	std	142879	0	3			0		other	0
+3	11	Sound	std	149817	0	2			0		other	0
+3	12	Sound	std	155847	0	3			0		other	0
+3	13	Sound	std	162197	0	2			0		other	0
+3	14	Sound	deviant_fall	169857	0	3			0		other	0
+3	14	Sound	0	181857	12000	3			12000		other	0
+3	15	Sound	std	187647	0	3			0		other	0
+3	16	Sound	std	194897	0	3			0		other	0
+3	17	Sound	std	201107	0	3			0		other	0
+3	18	Sound	deviant_fall	207317	0	3			0		other	0
+3	18	Sound	0	219317	12000	3			12000		other	0
+3	19	Sound	deviant_fall	227057	0	4			0		other	0
+3	19	Sound	0	239057	12000	3			12000		other	0
+3	20	Sound	std	246017	0	2			0		other	0
+3	21	Sound	std	252317	0	3			0		other	0
+3	22	Sound	std	259747	0	3			0		other	0
+3	23	Sound	std	266347	0	3			0		other	0
+3	24	Sound	std	273298	0	3			0		other	0
+3	25	Sound	deviant_flat	279747	0	3			0		other	0
+3	25	Sound	0	291747	12000	3			12000		other	0
+3	26	Sound	std	297517	0	3			0		other	0
+3	27	Sound	std	303567	0	2			0		other	0
+3	28	Sound	std	310827	0	4			0		other	0
+3	29	Sound	deviant_flat	318277	0	3			0		other	0
+3	29	Sound	0	330277	12000	3			12000		other	0
+3	30	Sound	std	337777	0	3			0		other	0
+3	31	Sound	std	344397	0	3			0		other	0
+3	32	Sound	std	351107	0	3			0		other	0
+3	33	Sound	std	358307	0	3			0		other	0
+3	34	Sound	std	364756	0	3			0		other	0
+3	35	Sound	std	371137	0	3			0		other	0
+3	36	Sound	std	377086	0	3			0		other	0
+3	37	Sound	std	384417	0	3			0		other	0
+3	38	Sound	std	390756	0	2			0		other	0
+3	39	Sound	std	398227	0	3			0		other	0
+3	40	Sound	std	404166	0	3			0		other	0
+3	41	Sound	std	411437	0	3			0		other	0
+3	42	Sound	std	417616	0	3			0		other	0
+3	43	Sound	std	424346	0	3			0		other	0
+3	44	Sound	std	430906	0	3			0		other	0
+3	45	Sound	std	437626	0	2			0		other	0
+3	46	Sound	std	445006	0	3			0		other	0
+3	47	Sound	deviant_rise	452066	0	3			0		other	0
+3	47	Sound	0	464066	12000	3			12000		other	0
+3	48	Sound	deviant_rise	471707	0	3			0		other	0
+3	48	Sound	0	483707	12000	3			12000		other	0
+3	49	Sound	std	490737	0	3			0		other	0
+3	50	Sound	std	497766	0	3			0		other	0
+3	51	Sound	std	504487	0	3			0		other	0
+3	52	Sound	std	511287	0	3			0		other	0
+3	53	Sound	deviant_fall	518576	0	3			0		other	0
+3	53	Sound	0	530576	12000	3			12000		other	0
+3	54	Sound	deviant_flat	537156	0	3			0		other	0
+3	54	Sound	0	549156	12000	3			12000		other	0
+3	55	Sound	std	556197	0	3			0		other	0
+3	56	Sound	std	563206	0	3			0		other	0
+3	57	Sound	std	569706	0	3			0		other	0
+3	58	Sound	std	576816	0	2			0		other	0
+3	59	Sound	deviant_rise	584327	0	3			0		other	0
+3	59	Sound	0	596327	12000	3			12000		other	0
+3	60	Sound	std	603906	0	3			0		other	0
+3	61	Sound	std	611296	0	3			0		other	0
+3	62	Sound	std	618996	0	3			0		other	0
+3	63	Sound	deviant_flat	625266	0	3			0		other	0
+3	63	Sound	0	637266	12000	2			12000		other	0
+3	64	Sound	std	643316	0	4			0		other	0
+3	65	Sound	deviant_flat	650886	0	2			0		other	0
+3	65	Sound	0	662886	12000	2			12000		other	0
+3	66	Sound	std	670525	0	3			0		other	0
+3	67	Sound	std	677275	0	3			0		other	0
+3	68	Sound	deviant_fall	684736	0	2			0		other	0
+3	68	Sound	0	696736	12000	3			12000		other	0
+3	69	Sound	std	703856	0	2			0		other	0
+3	70	Sound	std	711595	0	3			0		other	0
+3	71	Sound	std	719395	0	3			0		other	0
+3	72	Sound	std	726905	0	3			0		other	0
+3	73	Sound	deviant_rise	734165	0	3			0		other	0
+3	73	Sound	0	746165	12000	2			12000		other	0
+3	74	Sound	std	753695	0	3			0		other	0
+3	75	Sound	std	761265	0	3			0		other	0
+3	76	Sound	std	768985	0	3			0		other	0
+3	77	Sound	std	776275	0	2			0		other	0
+3	78	Sound	deviant_fall	782995	0	2			0		other	0
+3	78	Sound	0	794995	12000	2			12000		other	0
+3	79	Sound	std	801367	0	7			0		other	0
+3	80	Sound	std	808276	0	2			0		other	0
+3	81	Sound	std	814686	0	3			0		other	0
+3	82	Sound	std	820955	0	2			0		other	0
+3	83	Sound	deviant_fall	827744	0	2			0		other	0
+3	83	Sound	0	839744	12000	2			12000		other	0
+3	84	Sound	std	847125	0	3			0		other	0
+3	85	Sound	std	853715	0	12			0		other	0
+3	86	Sound	std	859785	0	2			0		other	0
+3	87	Sound	std	866325	0	3			0		other	0
+3	88	Sound	std	874035	0	3			0		other	0
+3	89	Sound	std	881385	0	3			0		other	0
+3	90	Sound	std	887186	0	3			0		other	0
+3	91	Sound	std	894725	0	3			0		other	0
+3	92	Sound	deviant_rise	901216	0	3			0		other	0
+3	92	Sound	0	913216	12000	3			12000		other	0
+3	93	Sound	std	920326	0	3			0		other	0
+3	94	Sound	std	926475	0	3			0		other	0
+3	95	Sound	deviant_fall	932466	0	3			0		other	0
+3	95	Sound	0	944466	12000	3			12000		other	0
+3	96	Sound	std	952135	0	3			0		other	0
+3	97	Sound	std	958535	0	3			0		other	0
+3	98	Sound	std	965215	0	6			0		other	0
+3	99	Sound	std	971026	0	2			0		other	0
+3	100	Sound	std	978155	0	3			0		other	0
+3	101	Sound	std	984757	0	3			0		other	0
+3	102	Sound	std	990915	0	2			0		other	0
+3	103	Sound	std	997825	0	3			0		other	0
+3	104	Sound	deviant_flat	1003595	0	3			0		other	0
+3	104	Sound	0	1015595	12000	3			12000		other	0
+3	105	Sound	std	1022215	0	3			0		other	0
+3	106	Sound	std	1028915	0	3			0		other	0
+3	107	Sound	std	1036035	0	3			0		other	0
+3	108	Sound	std	1042726	0	3			0		other	0
+3	109	Sound	std	1050485	0	3			0		other	0
+3	110	Sound	std	1056915	0	3			0		other	0
+3	111	Sound	deviant_fall	1063635	0	3			0		other	0
+3	111	Sound	0	1075635	12000	3			12000		other	0
+3	112	Sound	std	1081464	0	3			0		other	0
+3	113	Sound	deviant_fall	1087915	0	5			0		other	0
+3	113	Sound	0	1099915	12000	3			12000		other	0
+3	114	Sound	std	1106744	0	3			0		other	0
+3	115	Sound	std	1112575	0	3			0		other	0
+3	116	Sound	std	1119185	0	3			0		other	0
+3	117	Sound	std	1126675	0	3			0		other	0
+3	118	Sound	std	1132585	0	3			0		other	0
+3	119	Sound	deviant_fall	1140085	0	3			0		other	0
+3	119	Sound	0	1152085	12000	3			12000		other	0
+3	120	Sound	std	1158305	0	3			0		other	0
+3	121	Sound	std	1164325	0	4			0		other	0
+3	122	Sound	deviant_flat	1171045	0	3			0		other	0
+3	122	Sound	0	1183045	12000	3			12000		other	0
+3	123	Sound	std	1189814	0	3			0		other	0
+3	124	Sound	deviant_fall	1197435	0	3			0		other	0
+3	124	Sound	0	1209435	12000	3			12000		other	0
+3	125	Sound	deviant_flat	1216605	0	3			0		other	0
+3	125	Sound	0	1228605	12000	3			12000		other	0
+3	126	Sound	deviant_fall	1235164	0	3			0		other	0
+3	126	Sound	0	1247164	12000	2			12000		other	0
+3	127	Sound	deviant_flat	1253174	0	3			0		other	0
+3	127	Sound	0	1265174	12000	3			12000		other	0
+3	128	Sound	std	1271444	0	3			0		other	0
+3	129	Sound	deviant_fall	1279194	0	3			0		other	0
+3	129	Sound	0	1291194	12000	3			12000		other	0
+3	130	Sound	std	1297794	0	3			0		other	0
+3	131	Sound	std	1304475	0	3			0		other	0
+3	132	Sound	deviant_rise	1310655	0	2			0		other	0
+3	132	Sound	0	1322655	12000	3			12000		other	0
+3	133	Sound	std	1328894	0	2			0		other	0
+3	134	Sound	std	1336124	0	3			0		other	0
+3	135	Sound	std	1343214	0	2			0		other	0
+3	136	Sound	deviant_rise	1350754	0	2			0		other	0
+3	136	Sound	0	1362754	12000	3			12000		other	0
+3	137	Sound	std	1370073	0	3			0		other	0
+3	138	Sound	deviant_fall	1377684	0	2			0		other	0
+3	138	Sound	0	1389684	12000	3			12000		other	0
+3	139	Sound	std	1395554	0	3			0		other	0
+3	140	Sound	std	1402694	0	3			0		other	0
+3	141	Sound	std	1409384	0	3			0		other	0
+3	142	Sound	std	1415184	0	2			0		other	0
+3	143	Sound	deviant_rise	1422064	0	3			0		other	0
+3	143	Sound	0	1434064	12000	3			12000		other	0
+3	144	Sound	std	1441163	0	3			0		other	0
+3	145	Sound	deviant_rise	1447764	0	3			0		other	0
+3	145	Sound	0	1459764	12000	2			12000		other	0
+3	146	Sound	deviant_flat	1466894	0	2			0		other	0
+3	146	Sound	0	1478894	12000	3			12000		other	0
+3	147	Sound	std	1485783	0	3			0		other	0
+3	148	Sound	std	1493474	0	3			0		other	0
+3	149	Sound	std	1500174	0	3			0		other	0
+3	150	Sound	deviant_fall	1506034	0	3			0		other	0
+3	150	Sound	0	1518034	12000	3			12000		other	0
+3	151	Sound	deviant_fall	1524034	0	3			0		other	0
+3	151	Sound	0	1536034	12000	3			12000		other	0
+3	152	Sound	std	1542914	0	3			0		other	0
+3	153	Sound	std	1548794	0	3			0		other	0
+3	154	Sound	std	1555114	0	3			0		other	0
+3	155	Sound	std	1562564	0	3			0		other	0
+3	156	Sound	std	1570294	0	3			0		other	0
+3	157	Sound	std	1577064	0	3			0		other	0
+3	158	Sound	std	1584164	0	3			0		other	0
+3	159	Sound	std	1591534	0	3			0		other	0
+3	160	Sound	std	1597474	0	3			0		other	0
+3	161	Sound	deviant_rise	1603674	0	3			0		other	0
+3	161	Sound	0	1615674	12000	3			12000		other	0
+3	162	Sound	std	1623104	0	3			0		other	0
+3	163	Sound	std	1630153	0	3			0		other	0
+3	164	Sound	std	1636294	0	3			0		other	0
+3	165	Sound	deviant_rise	1643313	0	3			0		other	0
+3	165	Sound	0	1655313	12000	3			12000		other	0
+3	166	Sound	std	1661683	0	3			0		other	0
+3	167	Sound	std	1668373	0	3			0		other	0
+3	168	Sound	std	1674823	0	3			0		other	0
+3	169	Sound	std	1682223	0	3			0		other	0
+3	170	Sound	std	1687994	0	3			0		other	0
+3	171	Sound	deviant_rise	1694444	0	3			0		other	0
+3	171	Sound	0	1706444	12000	3			12000		other	0
+3	172	Sound	std	1713603	0	3			0		other	0
+3	173	Sound	std	1720774	0	3			0		other	0
+3	174	Sound	std	1727703	0	3			0		other	0
+3	175	Sound	std	1733994	0	3			0		other	0
+3	176	Sound	deviant_fall	1741234	0	3			0		other	0
+3	176	Sound	0	1753234	12000	3			12000		other	0
+3	177	Sound	std	1759883	0	3			0		other	0
+3	178	Sound	std	1766683	0	3			0		other	0
+3	179	Sound	std	1773913	0	3			0		other	0
+3	180	Sound	deviant_flat	1781462	0	3			0		other	0
+3	180	Sound	0	1793462	12000	3			12000		other	0
+3	181	Sound	std	1799313	0	3			0		other	0
+3	182	Sound	deviant_rise	1806883	0	2			0		other	0
+3	182	Sound	0	1818883	12000	2			12000		other	0
+3	183	Sound	std	1824984	0	3			0		other	0
+3	184	Sound	std	1831033	0	3			0		other	0
+3	185	Sound	deviant_rise	1837143	0	3			0		other	0
+3	185	Sound	0	1849143	12000	3			12000		other	0
+3	186	Sound	deviant_fall	1856263	0	2			0		other	0
+3	186	Sound	0	1868263	12000	3			12000		other	0
+3	187	Sound	std	1875673	0	3			0		other	0
+3	188	Sound	std	1881663	0	3			0		other	0
+3	189	Sound	std	1888813	0	3			0		other	0
+3	190	Sound	std	1896153	0	3			0		other	0
+3	191	Sound	std	1903213	0	3			0		other	0
+3	192	Sound	std	1910574	0	3			0		other	0
+3	193	Sound	std	1917513	0	3			0		other	0
+3	194	Sound	std	1925203	0	3			0		other	0
+3	195	Sound	std	1932714	0	3			0		other	0
+3	196	Sound	deviant_flat	1939343	0	3			0		other	0
+3	196	Sound	0	1951343	12000	3			12000		other	0
+3	197	Sound	deviant_rise	1958172	0	3			0		other	0
+3	197	Sound	0	1970172	12000	3			12000		other	0
+3	198	Sound	std	1976573	0	3			0		other	0
+3	199	Sound	std	1982843	0	3			0		other	0
+3	200	Sound	std	1988803	0	3			0		other	0
+3	201	Sound	deviant_flat	1995933	0	3			0		other	0
+3	201	Sound	0	2007933	12000	3			12000		other	0
+3	202	Sound	std	2015443	0	3			0		other	0
+3	203	Sound	std	2022202	0	3			0		other	0
+3	204	Sound	std	2029152	0	3			0		other	0
+3	205	Sound	deviant_fall	2036613	0	3			0		other	0
+3	205	Sound	0	2048629	12016	3			12000		other	0
+3	206	Sound	deviant_flat	2055273	0	3			0		other	0
+3	206	Sound	0	2067273	12000	2			12000		other	0
+3	207	Sound	std	2074113	0	3			0		other	0
+3	208	Sound	deviant_fall	2081722	0	3			0		other	0
+3	208	Sound	0	2093722	12000	2			12000		other	0
+3	209	Sound	std	2101032	0	3			0		other	0
+3	210	Sound	std	2108183	0	3			0		other	0
+3	211	Sound	deviant_flat	2115733	0	7			0		other	0
+3	211	Sound	0	2127733	12000	3			12000		other	0
+3	212	Sound	std	2133793	0	3			0		other	0
+3	213	Sound	std	2140003	0	3			0		other	0
+3	214	Sound	std	2146063	0	2			0		other	0
+3	215	Sound	std	2151862	0	2			0		other	0
+3	216	Sound	deviant_rise	2157912	0	2			0		other	0
+3	216	Sound	0	2169912	12000	3			12000		other	0
+3	217	Sound	std	2177683	0	2			0		other	0
+3	218	Sound	deviant_flat	2184823	0	3			0		other	0
+3	218	Sound	0	2196823	12000	3			12000		other	0
+3	219	Sound	std	2203613	0	3			0		other	0
+3	220	Sound	deviant_rise	2211332	0	3			0		other	0
+3	220	Sound	0	2223332	12000	2			12000		other	0
+3	221	Sound	std	2229483	0	3			0		other	0
+3	222	Sound	std	2237103	0	3			0		other	0
+3	223	Sound	std	2243622	0	3			0		other	0
+3	224	Sound	std	2251192	0	2			0		other	0
+3	225	Sound	std	2257412	0	3			0		other	0
+3	226	Sound	std	2264933	0	3			0		other	0
+3	227	Sound	std	2270962	0	3			0		other	0
+3	228	Sound	std	2278352	0	3			0		other	0
+3	229	Sound	std	2284482	0	3			0		other	0
+3	230	Sound	std	2291663	0	3			0		other	0
+3	231	Sound	std	2298212	0	3			0		other	0
+3	232	Sound	std	2304732	0	3			0		other	0
+3	233	Sound	std	2311022	0	3			0		other	0
+3	234	Sound	std	2317592	0	3			0		other	0
+3	235	Sound	std	2324072	0	3			0		other	0
+3	236	Sound	std	2331062	0	3			0		other	0
+3	237	Sound	deviant_rise	2338202	0	3			0		other	0
+3	237	Sound	0	2350202	12000	3			12000		other	0
+3	238	Sound	std	2356722	0	2			0		other	0
+3	239	Sound	std	2363402	0	2			0		other	0
+3	240	Sound	std	2369332	0	3			0		other	0
+3	241	Sound	deviant_rise	2376592	0	3			0		other	0
+3	241	Sound	0	2388592	12000	2			12000		other	0
+3	242	Sound	deviant_fall	2396171	0	2			0		other	0
+3	242	Sound	0	2408171	12000	3			12000		other	0
+3	243	Sound	std	2415191	0	3			0		other	0
+3	244	Sound	deviant_fall	2421872	0	3			0		other	0
+3	244	Sound	0	2433872	12000	2			12000		other	0
+3	245	Sound	std	2440611	0	3			0		other	0
+3	246	Sound	std	2446772	0	3			0		other	0
+3	247	Sound	std	2453261	0	3			0		other	0
+3	248	Sound	deviant_fall	2459371	0	2			0		other	0
+3	248	Sound	0	2471371	12000	2			12000		other	0
+3	249	Sound	std	2478251	0	2			0		other	0
+3	250	Sound	deviant_rise	2484341	0	3			0		other	0
+3	250	Sound	0	2496341	12000	11			12000		other	0
+3	251	Sound	std	2503651	0	2			0		other	0
+3	252	Sound	std	2510381	0	2			0		other	0
+3	253	Sound	std	2517282	0	2			0		other	0
+3	254	Sound	std	2523101	0	3			0		other	0
+3	255	Sound	deviant_fall	2529121	0	2			0		other	0
+3	255	Sound	0	2541121	12000	3			12000		other	0
+3	256	Sound	std	2547991	0	3			0		other	0
+3	257	Sound	deviant_fall	2555551	0	2			0		other	0
+3	257	Sound	0	2567551	12000	2			12000		other	0
+3	258	Sound	deviant_flat	2574601	0	3			0		other	0
+3	258	Sound	0	2586601	12000	2			12000		other	0
+3	259	Sound	deviant_fall	2593181	0	2			0		other	0
+3	259	Sound	0	2605181	12000	3			12000		other	0
+3	260	Sound	std	2612232	0	3			0		other	0
+3	261	Sound	std	2618541	0	3			0		other	0
+3	262	Sound	std	2624591	0	3			0		other	0
+3	263	Sound	deviant_rise	2631951	0	2			0		other	0
+3	263	Sound	0	2643951	12000	2			12000		other	0
+3	264	Sound	std	2650021	0	3			0		other	0
+3	265	Sound	deviant_rise	2657201	0	2			0		other	0
+3	265	Sound	0	2669201	12000	2			12000		other	0
+3	266	Sound	std	2676201	0	3			0		other	0
+3	267	Sound	std	2683261	0	3			0		other	0
+3	268	Sound	deviant_fall	2690391	0	2			0		other	0
+3	268	Sound	0	2702391	12000	2			12000		other	0
+3	269	Sound	std	2708950	0	3			0		other	0
+3	270	Sound	std	2714700	0	3			0		other	0
+3	271	Sound	deviant_rise	2721792	0	2			0		other	0
+3	271	Sound	0	2733792	12000	2			12000		other	0
+3	272	Sound	std	2739861	0	3			0		other	0
+3	273	Sound	deviant_fall	2746710	0	2			0		other	0
+3	273	Sound	0	2758710	12000	2			12000		other	0
+3	274	Sound	deviant_rise	2765280	0	3			0		other	0
+3	274	Sound	0	2777280	12000	3			12000		other	0
+3	275	Sound	std	2783720	0	2			0		other	0
+3	276	Sound	std	2789791	0	2			0		other	0
+3	277	Sound	std	2795941	0	3			0		other	0
+3	278	Sound	std	2801930	0	3			0		other	0
+3	279	Sound	deviant_fall	2809081	0	3			0		other	0
+3	279	Sound	0	2821081	12000	3			12000		other	0
+3	280	Sound	std	2827010	0	2			0		other	0
+3	281	Sound	std	2833350	0	3			0		other	0
+3	282	Sound	std	2840631	0	2			0		other	0
+3	283	Sound	deviant_rise	2846600	0	3			0		other	0
+3	283	Sound	0	2858600	12000	3			12000		other	0
+3	284	Sound	deviant_fall	2864950	0	2			0		other	0
+3	284	Sound	0	2876950	12000	8			12000		other	0
+3	285	Sound	std	2884460	0	3			0		other	0
+3	286	Sound	std	2891861	0	2			0		other	0
+3	287	Sound	std	2897631	0	3			0		other	0
+3	288	Sound	std	2904230	0	2			0		other	0
+3	289	Sound	std	2911721	0	3			0		other	0
+3	290	Sound	std	2918262	0	2			0		other	0
+3	291	Sound	std	2924081	0	3			0		other	0
+3	292	Sound	deviant_flat	2930920	0	3			0		other	0
+3	292	Sound	0	2942920	12000	4			12000		other	0
+3	293	Sound	deviant_flat	2949681	0	3			0		other	0
+3	293	Sound	0	2961681	12000	3			12000		other	0
+3	294	Sound	std	2967670	0	2			0		other	0
+3	295	Sound	std	2973811	0	3			0		other	0
+3	296	Sound	std	2980040	0	2			0		other	0
+3	297	Sound	std	2987060	0	3			0		other	0
+3	298	Sound	deviant_flat	2992790	0	2			0		other	0
+3	298	Sound	0	3004790	12000	3			12000		other	0
+3	299	Sound	deviant_rise	3011902	0	2			0		other	0
+3	299	Sound	0	3023902	12000	2			12000		other	0
+3	300	Sound	deviant_flat	3031370	0	3			0		other	0
+3	300	Sound	0	3043370	12000	2			12000		other	0
+3	301	Sound	std	3049570	0	3			0		other	0
+3	302	Sound	std	3055880	0	3			0		other	0
+3	303	Sound	std	3063430	0	2			0		other	0
+3	304	Sound	deviant_rise	3070220	0	3			0		other	0
+3	304	Sound	0	3082220	12000	2			12000		other	0
+3	305	Sound	std	3088720	0	3			0		other	0
+3	306	Sound	deviant_rise	3095180	0	2			0		other	0
+3	306	Sound	0	3107180	12000	3			12000		other	0
+3	307	Sound	deviant_rise	3114400	0	2			0		other	0
+3	307	Sound	0	3126400	12000	3			12000		other	0
+3	308	Sound	deviant_fall	3132950	0	3			0		other	0
+3	308	Sound	0	3144950	12000	2			12000		other	0
+3	309	Sound	std	3151039	0	2			0		other	0
+3	310	Sound	std	3158449	0	2			0		other	0
+3	311	Sound	std	3164710	0	3			0		other	0
+3	312	Sound	std	3171249	0	3			0		other	0
+3	313	Sound	std	3177709	0	2			0		other	0
+3	314	Sound	std	3184899	0	3			0		other	0
+3	315	Sound	std	3191779	0	2			0		other	0
+3	316	Sound	std	3198269	0	2			0		other	0
+3	317	Sound	std	3205389	0	3			0		other	0
+3	318	Sound	std	3211349	0	3			0		other	0
+3	319	Sound	std	3218030	0	2			0		other	0
+3	320	Sound	std	3225270	0	3			0		other	0
+3	321	Sound	std	3231160	0	2			0		other	0
+3	322	Sound	std	3238879	0	3			0		other	0
+3	323	Sound	std	3246459	0	3			0		other	0
+3	324	Sound	std	3252660	0	2			0		other	0
+3	325	Sound	deviant_flat	3259120	0	2			0		other	0
+3	325	Sound	0	3271120	12000	2			12000		other	0
+3	326	Sound	std	3278500	0	3			0		other	0
+3	327	Sound	std	3286139	0	2			0		other	0
+3	328	Sound	std	3292939	0	2			0		other	0
+3	329	Sound	deviant_rise	3299229	0	2			0		other	0
+3	329	Sound	0	3311229	12000	3			12000		other	0
+3	330	Sound	std	3318559	0	2			0		other	0
+3	331	Sound	std	3324509	0	2			0		other	0
+3	332	Sound	std	3331190	0	3			0		other	0
+3	333	Sound	std	3338260	0	3			0		other	0
+3	334	Sound	std	3345859	0	3			0		other	0
+3	335	Sound	std	3351909	0	2			0		other	0
+3	336	Sound	std	3358189	0	3			0		other	0
+3	337	Sound	std	3365409	0	2			0		other	0
+3	338	Sound	std	3371829	0	2			0		other	0
+3	339	Sound	std	3379409	0	2			0		other	0
+3	340	Sound	std	3386999	0	2			0		other	0
+3	341	Sound	std	3393890	0	3			0		other	0
+3	342	Sound	std	3400239	0	3			0		other	0
+3	343	Sound	std	3407199	0	3			0		other	0
+3	344	Sound	std	3414369	0	3			0		other	0
+3	345	Sound	std	3422010	0	2			0		other	0
+3	346	Sound	deviant_fall	3429329	0	3			0		other	0
+3	346	Sound	0	3441329	12000	3			12000		other	0
+3	347	Sound	std	3447749	0	3			0		other	0
+3	348	Sound	std	3454809	0	3			0		other	0
+3	349	Sound	std	3461239	0	3			0		other	0
+3	350	Sound	std	3468299	0	2			0		other	0
+3	351	Sound	std	3475180	0	3			0		other	0
+3	352	Sound	std	3481719	0	3			0		other	0
+3	353	Sound	std	3489380	0	3			0		other	0
+3	354	Sound	std	3496959	0	3			0		other	0
+3	355	Sound	std	3504689	0	3			0		other	0
+3	356	Sound	std	3512289	0	3			0		other	0
+3	357	Sound	std	3519659	0	3			0		other	0
+3	358	Sound	deviant_flat	3525709	0	3			0		other	0
+3	358	Sound	0	3537709	12000	3			12000		other	0
+3	359	Sound	std	3544429	0	3			0		other	0
+3	360	Sound	std	3552048	0	3			0		other	0
+3	361	Sound	deviant_rise	3558579	0	3			0		other	0
+3	361	Sound	0	3570579	12000	3			12000		other	0
+3	362	Sound	deviant_rise	3576339	0	3			0		other	0
+3	362	Sound	0	3588339	12000	3			12000		other	0
+3	363	Sound	deviant_flat	3595429	0	2			0		other	0
+3	363	Sound	0	3607429	12000	3			12000		other	0
+3	364	Sound	std	3614828	0	3			0		other	0
+3	365	Sound	deviant_flat	3621220	0	3			0		other	0
+3	365	Sound	0	3633220	12000	3			12000		other	0
+3	366	Sound	std	3639089	0	3			0		other	0
+3	367	Sound	std	3645629	0	3			0		other	0
+3	368	Sound	std	3653208	0	3			0		other	0
+3	369	Sound	std	3660479	0	3			0		other	0
+3	370	Sound	std	3666339	0	3			0		other	0
+3	371	Sound	deviant_rise	3672109	0	3			0		other	0
+3	371	Sound	0	3684109	12000	3			12000		other	0
+3	372	Sound	deviant_fall	3690028	0	3			0		other	0
+3	372	Sound	0	3702028	12000	3			12000		other	0
+3	373	Sound	std	3708450	0	3			0		other	0
+3	374	Sound	std	3715779	0	3			0		other	0
+3	375	Sound	deviant_flat	3722668	0	3			0		other	0
+3	375	Sound	0	3734668	12000	3			12000		other	0
+3	376	Sound	deviant_flat	3742119	0	2			0		other	0
+3	376	Sound	0	3754119	12000	3			12000		other	0
+3	377	Sound	deviant_fall	3759998	0	3			0		other	0
+3	377	Sound	0	3771998	12000	3			12000		other	0
+3	378	Sound	std	3778848	0	3			0		other	0
+3	379	Sound	std	3784999	0	2			0		other	0
+3	380	Sound	std	3791689	0	3			0		other	0
+3	381	Sound	std	3798898	0	3			0		other	0
+3	382	Sound	std	3806449	0	3			0		other	0
+3	383	Sound	deviant_rise	3812668	0	3			0		other	0
+3	383	Sound	0	3824668	12000	3			12000		other	0
+3	384	Sound	std	3830459	0	3			0		other	0
+3	385	Sound	std	3837428	0	3			0		other	0
+3	386	Sound	deviant_fall	3844608	0	3			0		other	0
+3	386	Sound	0	3856608	12000	3			12000		other	0
+3	387	Sound	std	3863758	0	3			0		other	0
+3	388	Sound	std	3870799	0	3			0		other	0
+3	389	Sound	deviant_flat	3876638	0	3			0		other	0
+3	389	Sound	0	3888638	12000	3			12000		other	0
+3	390	Sound	std	3894408	0	3			0		other	0
+3	391	Sound	std	3902023	0	3			0		other	0
+3	392	Sound	deviant_flat	3909258	0	3			0		other	0
+3	392	Sound	0	3921258	12000	3			12000		other	0
+3	393	Sound	std	3928028	0	3			0		other	0
+3	394	Sound	std	3934318	0	3			0		other	0
+3	395	Sound	std	3941038	0	3			0		other	0
+3	396	Sound	deviant_rise	3946938	0	3			0		other	0
+3	396	Sound	0	3958938	12000	3			12000		other	0
+3	397	Sound	std	3965358	0	3			0		other	0
+3	398	Sound	std	3972218	0	3			0		other	0
+3	399	Sound	std	3979128	0	3			0		other	0
+3	400	Sound	deviant_rise	3985168	0	3			0		other	0
+3	400	Sound	0	3997168	12000	3			12000		other	0
+3	401	Sound	std	4003310	0	3			0		other	0
+3	402	Sound	std	4010898	0	3			0		other	0
+3	403	Sound	deviant_rise	4017438	0	3			0		other	0
+3	403	Sound	0	4029438	12000	3			12000		other	0
+3	404	Sound	std	4036117	0	3			0		other	0
+3	405	Sound	deviant_fall	4043588	0	3			0		other	0
+3	405	Sound	0	4055588	12000	3			12000		other	0
+3	406	Sound	std	4063158	0	3			0		other	0
+3	407	Sound	std	4070598	0	2			0		other	0
+3	408	Sound	std	4077359	0	3			0		other	0
+3	409	Sound	std	4084237	0	3			0		other	0
+3	410	Sound	std	4091688	0	3			0		other	0
+3	411	Sound	std	4098108	0	3			0		other	0
+3	412	Sound	deviant_rise	4104107	0	3			0		other	0
+3	412	Sound	0	4116107	12000	3			12000		other	0
+3	413	Sound	deviant_fall	4123787	0	3			0		other	0
+3	413	Sound	0	4135787	12000	3			12000		other	0
+3	414	Sound	std	4143308	0	3			0		other	0
+3	415	Sound	std	4150278	0	2			0		other	0
+3	416	Sound	deviant_flat	4157468	0	3			0		other	0
+3	416	Sound	0	4169468	12000	3			12000		other	0
+3	417	Sound	deviant_flat	4176057	0	3			0		other	0
+3	417	Sound	0	4188057	12000	3			12000		other	0
+3	418	Sound	std	4194007	0	3			0		other	0
+3	419	Sound	std	4200528	0	3			0		other	0
+3	420	Sound	std	4207877	0	3			0		other	0
+3	421	Sound	std	4215357	0	2			0		other	0
+3	422	Sound	std	4221788	0	2			0		other	0
+3	423	Sound	std	4227958	0	3			0		other	0
+3	424	Sound	std	4235187	0	3			0		other	0
+3	425	Sound	std	4241148	0	3			0		other	0
+3	426	Sound	std	4248677	0	3			0		other	0
+3	427	Sound	std	4255007	0	3			0		other	0
+3	428	Sound	std	4262757	0	3			0		other	0
+3	429	Sound	std	4269547	0	2			0		other	0
+3	430	Sound	std	4276747	0	2			0		other	0
+3	431	Sound	std	4282817	0	2			0		other	0
+3	432	Sound	deviant_fall	4290317	0	3			0		other	0
+3	432	Sound	0	4302317	12000	3			12000		other	0
+3	433	Sound	std	4308167	0	4			0		other	0
+3	434	Sound	deviant_flat	4314087	0	2			0		other	0
+3	434	Sound	0	4326087	12000	3			12000		other	0
+3	435	Sound	std	4333847	0	2			0		other	0
+3	436	Sound	std	4340387	0	2			0		other	0
+3	437	Sound	std	4347907	0	3			0		other	0
+3	438	Sound	deviant_fall	4355586	0	3			0		other	0
+3	438	Sound	0	4367586	12000	3			12000		other	0
+3	439	Sound	std	4373567	0	3			0		other	0
+3	440	Sound	std	4380447	0	2			0		other	0
+3	441	Sound	deviant_rise	4386426	0	55			0		other	0
+3	441	Sound	0	4398426	12000	3			12000		other	0
+3	442	Sound	std	4406136	0	2			0		other	0
+3	443	Sound	deviant_rise	4413167	0	3			0		other	0
+3	443	Sound	0	4425167	12000	3			12000		other	0
+3	444	Sound	std	4430906	0	3			0		other	0
+3	445	Sound	deviant_flat	4437096	0	2			0		other	0
+3	445	Sound	0	4449096	12000	2			12000		other	0
+3	446	Sound	deviant_flat	4455477	0	2			0		other	0
+3	446	Sound	0	4467477	12000	2			12000		other	0
+3	447	Sound	std	4474156	0	3			0		other	0
+3	448	Sound	std	4481166	0	3			0		other	0
+3	449	Sound	std	4486976	0	2			0		other	0
+3	450	Sound	std	4493486	0	3			0		other	0
+3	451	Sound	std	4499927	0	2			0		other	0
+3	452	Sound	deviant_rise	4506356	0	3			0		other	0
+3	452	Sound	0	4518356	12000	2			12000		other	0
+3	453	Sound	std	4525426	0	3			0		other	0
+3	454	Sound	std	4531477	0	3			0		other	0
+3	455	Sound	deviant_rise	4538027	0	2			0		other	0
+3	455	Sound	0	4550027	12000	38			12000		other	0
+3	456	Sound	std	4556376	0	3			0		other	0
+3	457	Sound	deviant_flat	4562956	0	2			0		other	0
+3	457	Sound	0	4574956	12000	2			12000		other	0
+3	458	Sound	deviant_flat	4581066	0	2			0		other	0
+3	458	Sound	0	4593066	12000	2			12000		other	0
+3	459	Sound	std	4599136	0	3			0		other	0
+3	460	Sound	std	4606376	0	2			0		other	0
+3	461	Sound	deviant_rise	4613976	0	3			0		other	0
+3	461	Sound	0	4625976	12000	2			12000		other	0
+3	462	Sound	std	4632156	0	3			0		other	0
+3	463	Sound	std	4638896	0	3			0		other	0
+3	464	Sound	std	4645466	0	3			0		other	0
+3	465	Sound	std	4651326	0	2			0		other	0
+3	466	Sound	std	4657129	0	3			0		other	0
+3	467	Sound	deviant_flat	4663146	0	2			0		other	0
+3	467	Sound	0	4675146	12000	3			12000		other	0
+3	468	Sound	deviant_rise	4680976	0	3			0		other	0
+3	468	Sound	0	4692976	12000	4			12000		other	0
+3	469	Sound	std	4699326	0	2			0		other	0
+3	470	Sound	std	4705446	0	3			0		other	0
+3	471	Sound	std	4711846	0	3			0		other	0
+3	472	Sound	std	4719076	0	3			0		other	0
+3	473	Sound	deviant_flat	4725156	0	3			0		other	0
+3	473	Sound	0	4737156	12000	2			12000		other	0
+3	474	Sound	std	4744876	0	3			0		other	0
+3	475	Sound	std	4750805	0	2			0		other	0
+3	476	Sound	deviant_fall	4758076	0	2			0		other	0
+3	476	Sound	0	4770076	12000	3			12000		other	0
+3	477	Sound	std	4776616	0	2			0		other	0
+3	478	Sound	std	4782575	0	2			0		other	0
+3	479	Sound	deviant_fall	4789466	0	3			0		other	0
+3	479	Sound	0	4801466	12000	3			12000		other	0
+3	480	Sound	std	4809116	0	3			0		other	0
+3	481	Sound	std	4816766	0	3			0		other	0
+3	482	Sound	std	4823696	0	3			0		other	0
+3	483	Sound	std	4830396	0	2			0		other	0
+3	484	Sound	std	4836467	0	3			0		other	0
+3	485	Sound	std	4843246	0	3			0		other	0
+3	486	Sound	std	4849977	0	3			0		other	0
+3	487	Sound	deviant_flat	4857146	0	2			0		other	0
+3	487	Sound	0	4869146	12000	3			12000		other	0
+3	488	Sound	std	4876255	0	3			0		other	0
+3	489	Sound	std	4883306	0	3			0		other	0
+3	490	Sound	std	4890096	0	3			0		other	0
+3	491	Sound	std	4897225	0	3			0		other	0
+3	492	Sound	deviant_flat	4904856	0	2			0		other	0
+3	492	Sound	0	4916856	12000	3			12000		other	0
+3	493	Sound	std	4922826	0	3			0		other	0
+3	494	Sound	deviant_fall	4929046	0	3			0		other	0
+3	494	Sound	0	4941046	12000	3			12000		other	0
+3	495	Sound	std	4948355	0	2			0		other	0
+3	496	Sound	deviant_rise	4954466	0	3			0		other	0
+3	496	Sound	0	4966466	12000	3			12000		other	0
+3	497	Sound	std	4972925	0	3			0		other	0
+3	498	Sound	std	4980036	0	3			0		other	0
+3	499	Sound	std	4985855	0	3			0		other	0
+3	500	Sound	std	4991795	0	3			0		other	0
+3	501	Sound	std	4998995	0	3			0		other	0
+3	502	Sound	std	5005736	0	3			0		other	0
+3	503	Sound	std	5012236	0	3			0		other	0
+3	504	Sound	std	5018666	0	3			0		other	0
+3	505	Sound	std	5024705	0	4			0		other	0
+3	506	Sound	deviant_fall	5031725	0	3			0		other	0
+3	506	Sound	0	5043725	12000	3			12000		other	0
+3	507	Sound	std	5051316	0	2			0		other	0
+3	508	Sound	std	5057576	0	3			0		other	0
+3	509	Sound	std	5065266	0	3			0		other	0
+3	510	Sound	std	5071456	0	3			0		other	0
+3	511	Sound	std	5078885	0	3			0		other	0
+3	512	Sound	std	5085385	0	2			0		other	0
+3	513	Sound	deviant_fall	5092875	0	2			0		other	0
+3	513	Sound	0	5104875	12000	2			12000		other	0
+3	514	Sound	std	5111426	0	3			0		other	0
+3	515	Sound	std	5117996	0	3			0		other	0
+3	516	Sound	std	5125385	0	3			0		other	0
+3	517	Sound	std	5131696	0	2			0		other	0
+3	518	Sound	std	5138865	0	3			0		other	0
+3	519	Sound	std	5146285	0	3			0		other	0
+3	520	Sound	std	5152546	0	5			0		other	0
+3	521	Sound	std	5159355	0	3			0		other	0
+3	522	Sound	std	5166845	0	3			0		other	0
+3	523	Sound	std	5173605	0	3			0		other	0
+3	524	Sound	std	5179475	0	2			0		other	0
+3	525	Sound	std	5185305	0	3			0		other	0
+3	526	Sound	deviant_rise	5192265	0	3			0		other	0
+3	526	Sound	0	5204265	12000	2			12000		other	0
+3	527	Sound	std	5211905	0	3			0		other	0
+3	528	Sound	std	5219555	0	3			0		other	0
+3	529	Sound	std	5225462	0	2			0		other	0
+3	530	Sound	std	5232255	0	3			0		other	0
+3	531	Sound	std	5239515	0	3			0		other	0
+3	532	Sound	std	5245685	0	3			0		other	0
+3	533	Sound	std	5251635	0	3			0		other	0
+3	534	Sound	std	5257745	0	3			0		other	0
+3	535	Sound	std	5264695	0	3			0		other	0
+3	536	Sound	std	5270676	0	3			0		other	0
+3	537	Sound	std	5276665	0	3			0		other	0
+3	538	Sound	std	5282475	0	3			0		other	0
+3	539	Sound	std	5289525	0	3			0		other	0
+3	540	Sound	std	5296404	0	3			0		other	0
+3	541	Sound	std	5303785	0	2			0		other	0
+3	542	Sound	deviant_rise	5310967	0	3			0		other	0
+3	542	Sound	0	5322967	12000	3			12000		other	0
+3	543	Sound	deviant_rise	5329804	0	3			0		other	0
+3	543	Sound	0	5341804	12000	3			12000		other	0
+3	544	Sound	std	5348354	0	3			0		other	0
+3	545	Sound	std	5354295	0	3			0		other	0
+3	546	Sound	deviant_rise	5360905	0	3			0		other	0
+3	546	Sound	0	5372905	12000	3			12000		other	0
+3	547	Sound	std	5379754	0	3			0		other	0
+3	548	Sound	std	5385495	0	3			0		other	0
+3	549	Sound	std	5391285	0	3			0		other	0
+3	550	Sound	std	5397655	0	3			0		other	0
+3	551	Sound	std	5405204	0	3			0		other	0
+3	552	Sound	std	5411684	0	3			0		other	0
+3	553	Sound	std	5418884	0	2			0		other	0
+3	554	Sound	std	5426604	0	2			0		other	0
+3	555	Sound	deviant_flat	5432895	0	3			0		other	0
+3	555	Sound	0	5444895	12000	3			12000		other	0
+3	556	Sound	std	5451724	0	3			0		other	0
+3	557	Sound	std	5458964	0	3			0		other	0
+3	558	Sound	deviant_fall	5466214	0	3			0		other	0
+3	558	Sound	0	5478214	12000	3			12000		other	0
+3	559	Sound	std	5485485	0	3			0		other	0
+3	560	Sound	std	5492094	0	3			0		other	0
+3	561	Sound	std	5499004	0	3			0		other	0
+3	562	Sound	std	5506105	0	3			0		other	0
+3	563	Sound	std	5513545	0	2			0		other	0
+3	564	Sound	std	5519915	0	2			0		other	0
+3	565	Sound	std	5526294	0	3			0		other	0
+3	566	Sound	std	5533874	0	3			0		other	0
+3	567	Sound	std	5540725	0	2			0		other	0
+3	568	Sound	std	5546985	0	3			0		other	0
+3	569	Sound	std	5552944	0	3			0		other	0
+3	570	Sound	deviant_flat	5559644	0	3			0		other	0
+3	570	Sound	0	5571644	12000	3			12000		other	0
+3	571	Sound	std	5579074	0	3			0		other	0
+3	572	Sound	std	5584985	0	3			0		other	0
+3	573	Sound	std	5591194	0	3			0		other	0
+3	574	Sound	std	5598734	0	3			0		other	0
+3	575	Sound	std	5606194	0	2			0		other	0
+3	576	Sound	std	5612544	0	2			0		other	0
+3	577	Sound	deviant_fall	5619234	0	3			0		other	0
+3	577	Sound	0	5631234	12000	3			12000		other	0
+3	578	Sound	std	5638584	0	3			0		other	0
+3	579	Sound	std	5645524	0	3			0		other	0
+3	580	Sound	std	5651484	0	3			0		other	0
+3	581	Sound	std	5658954	0	3			0		other	0
+3	582	Sound	std	5665924	0	3			0		other	0
+3	583	Sound	std	5673654	0	3			0		other	0
+3	584	Sound	std	5680975	0	3			0		other	0
+3	585	Sound	std	5687994	0	3			0		other	0
+3	586	Sound	deviant_fall	5694464	0	3			0		other	0
+3	586	Sound	0	5706464	12000	3			12000		other	0
+3	587	Sound	std	5713074	0	3			0		other	0
+3	588	Sound	std	5719975	0	3			0		other	0
+3	589	Sound	deviant_rise	5725854	0	3			0		other	0
+3	589	Sound	0	5737854	12000	3			12000		other	0
+3	590	Sound	deviant_fall	5744814	0	2			0		other	0
+3	590	Sound	0	5756814	12000	3			12000		other	0
+3	591	Sound	std	5764054	0	3			0		other	0
+3	592	Sound	std	5771097	0	3			0		other	0
+3	593	Sound	std	5778353	0	3			0		other	0
+3	594	Sound	std	5784484	0	3			0		other	0
+3	595	Sound	deviant_rise	5792273	0	3			0		other	0
+3	595	Sound	0	5804273	12000	3			12000		other	0
+3	596	Sound	deviant_rise	5811894	0	3			0		other	0
+3	596	Sound	0	5823894	12000	3			12000		other	0
+3	597	Sound	std	5830303	0	3			0		other	0
+3	598	Sound	std	5837054	0	3			0		other	0
+3	599	Sound	std	5844133	0	2			0		other	0
+3	600	Sound	std	5850343	0	3			0		other	0
+3	601	Sound	deviant_flat	5856844	0	2			0		other	0
+3	601	Sound	0	5868844	12000	3			12000		other	0
+3	602	Sound	deviant_rise	5875544	0	3			0		other	0
+3	602	Sound	0	5887544	12000	3			12000		other	0
+3	603	Sound	deviant_flat	5894313	0	3			0		other	0
+3	603	Sound	0	5906313	12000	3			12000		other	0
+3	604	Sound	std	5912233	0	3			0		other	0
+3	605	Sound	deviant_rise	5919783	0	3			0		other	0
+3	605	Sound	0	5931783	12000	3			12000		other	0
+3	606	Sound	std	5938923	0	2			0		other	0
+3	607	Sound	std	5945014	0	3			0		other	0
+3	608	Sound	std	5951443	0	3			0		other	0
+3	609	Sound	std	5958903	0	3			0		other	0
+3	610	Sound	std	5966183	0	3			0		other	0
+3	611	Sound	std	5973403	0	3			0		other	0
+3	612	Sound	std	5980043	0	3			0		other	0
+3	613	Sound	std	5986623	0	3			0		other	0
+3	614	Sound	std	5992933	0	3			0		other	0
+3	615	Sound	std	5999013	0	3			0		other	0
+3	616	Sound	std	6006523	0	3			0		other	0
+3	617	Sound	std	6012643	0	3			0		other	0
+3	618	Sound	deviant_flat	6020003	0	2			0		other	0
+3	618	Sound	0	6032003	12000	3			12000		other	0
+3	619	Sound	std	6038013	0	2			0		other	0
+3	620	Sound	std	6044152	0	3			0		other	0
+3	621	Sound	std	6050483	0	3			0		other	0
+3	622	Sound	deviant_rise	6057743	0	3			0		other	0
+3	622	Sound	0	6069743	12000	3			12000		other	0
+3	623	Sound	deviant_flat	6076734	0	3			0		other	0
+3	623	Sound	0	6088734	12000	3			12000		other	0
+3	624	Sound	deviant_rise	6095962	0	3			0		other	0
+3	624	Sound	0	6107962	12000	3			12000		other	0
+3	625	Sound	std	6114323	0	3			0		other	0
+3	626	Sound	std	6120293	0	3			0		other	0
+3	627	Sound	std	6126193	0	3			0		other	0
+3	628	Sound	deviant_fall	6132163	0	2			0		other	0
+3	628	Sound	0	6144163	12000	3			12000		other	0
+3	629	Sound	std	6151283	0	3			0		other	0
+3	630	Sound	std	6157332	0	3			0		other	0
+3	631	Sound	std	6163542	0	3			0		other	0
+3	632	Sound	std	6170903	0	3			0		other	0
+3	633	Sound	deviant_rise	6178153	0	3			0		other	0
+3	633	Sound	0	6190153	12000	3			12000		other	0
+3	634	Sound	deviant_fall	6197813	0	3			0		other	0
+3	634	Sound	0	6209813	12000	3			12000		other	0
+3	635	Sound	std	6217503	0	3			0		other	0
+3	636	Sound	std	6224902	0	3			0		other	0
+3	637	Sound	std	6231613	0	3			0		other	0
+3	638	Sound	std	6237832	0	3			0		other	0
+3	639	Sound	std	6244393	0	3			0		other	0
+3	640	Sound	std	6250952	0	3			0		other	0
+3	641	Sound	std	6258613	0	3			0		other	0
+3	642	Sound	std	6264502	0	2			0		other	0
+3	643	Sound	std	6271643	0	3			0		other	0
+3	644	Sound	std	6278833	0	3			0		other	0
+3	645	Sound	std	6284972	0	3			0		other	0
+3	646	Sound	std	6290843	0	3			0		other	0
+3	647	Sound	std	6296782	0	3			0		other	0
+3	648	Sound	std	6304452	0	3			0		other	0
+3	649	Sound	deviant_rise	6310362	0	3			0		other	0
+3	649	Sound	0	6322362	12000	3			12000		other	0
+3	650	Sound	std	6329212	0	3			0		other	0
+3	651	Sound	deviant_rise	6335242	0	4			0		other	0
+3	651	Sound	0	6347242	12000	3			12000		other	0
+3	652	Sound	std	6353332	0	3			0		other	0
+3	653	Sound	std	6360922	0	3			0		other	0
+3	654	Sound	deviant_fall	6366862	0	3			0		other	0
+3	654	Sound	0	6378862	12000	3			12000		other	0
+3	655	Sound	std	6385492	0	3			0		other	0
+3	656	Sound	deviant_flat	6392012	0	3			0		other	0
+3	656	Sound	0	6404012	12000	3			12000		other	0
+3	657	Sound	std	6410512	0	2			0		other	0
+3	658	Sound	std	6418072	0	3			0		other	0
+3	659	Sound	deviant_flat	6424982	0	3			0		other	0
+3	659	Sound	0	6436982	12000	3			12000		other	0
+3	660	Sound	std	6443012	0	3			0		other	0
+3	661	Sound	std	6450322	0	3			0		other	0
+3	662	Sound	deviant_fall	6456942	0	3			0		other	0
+3	662	Sound	0	6468942	12000	3			12000		other	0
+3	663	Sound	std	6475462	0	3			0		other	0
+3	664	Sound	std	6481332	0	3			0		other	0
+3	665	Sound	std	6487773	0	3			0		other	0
+3	666	Sound	std	6493962	0	3			0		other	0
+3	667	Sound	std	6500372	0	3			0		other	0
+3	668	Sound	std	6507772	0	3			0		other	0
+3	669	Sound	std	6513873	0	2			0		other	0
+3	670	Sound	std	6521253	0	3			0		other	0
+3	671	Sound	std	6528322	0	2			0		other	0
+3	672	Sound	std	6534712	0	3			0		other	0
+3	673	Sound	std	6541052	0	2			0		other	0
+3	674	Sound	std	6547622	0	3			0		other	0
+3	675	Sound	std	6553802	0	3			0		other	0
+3	676	Sound	deviant_rise	6560051	0	3			0		other	0
+3	676	Sound	0	6572051	12000	3			12000		other	0
+3	677	Sound	std	6579573	0	3			0		other	0
+3	678	Sound	deviant_flat	6585542	0	3			0		other	0
+3	678	Sound	0	6597542	12000	3			12000		other	0
+3	679	Sound	std	6603541	0	3			0		other	0
+3	680	Sound	deviant_flat	6611003	0	3			0		other	0
+3	680	Sound	0	6623003	12000	2			12000		other	0
+3	681	Sound	std	6629832	0	3			0		other	0
+3	682	Sound	std	6636012	0	3			0		other	0
+3	683	Sound	deviant_fall	6642661	0	3			0		other	0
+3	683	Sound	0	6654661	12000	2			12000		other	0
+3	684	Sound	deviant_fall	6661262	0	3			0		other	0
+3	684	Sound	0	6673262	12000	3			12000		other	0
+3	685	Sound	std	6679591	0	3			0		other	0
+3	686	Sound	std	6686711	0	3			0		other	0
+3	687	Sound	std	6694011	0	3			0		other	0
+3	688	Sound	std	6700502	0	3			0		other	0
+3	689	Sound	std	6707351	0	3			0		other	0
+3	690	Sound	std	6713611	0	3			0		other	0
+3	691	Sound	std	6720741	0	3			0		other	0
+3	692	Sound	std	6727841	0	2			0		other	0
+3	693	Sound	std	6735021	0	3			0		other	0
+3	694	Sound	std	6742341	0	3			0		other	0
+3	695	Sound	std	6748671	0	3			0		other	0
+3	696	Sound	std	6754571	0	3			0		other	0
+3	697	Sound	std	6761711	0	3			0		other	0
+3	698	Sound	deviant_rise	6769411	0	3			0		other	0
+3	698	Sound	0	6781411	12000	3			12000		other	0
+3	699	Sound	std	6788181	0	3			0		other	0
+3	700	Sound	std	6794311	0	3			0		other	0
+3	701	Sound	std	6800491	0	3			0		other	0
+3	702	Sound	std	6807332	0	2			0		other	0
+3	703	Sound	deviant_flat	6814542	0	3			0		other	0
+3	703	Sound	0	6826542	12000	3			12000		other	0
+3	704	Sound	std	6833591	0	3			0		other	0
+3	705	Sound	deviant_fall	6839862	0	3			0		other	0
+3	705	Sound	0	6851862	12000	3			12000		other	0
+3	706	Sound	std	6859051	0	3			0		other	0
+3	707	Sound	std	6865471	0	3			0		other	0
+3	708	Sound	std	6872551	0	3			0		other	0
+3	709	Sound	std	6878761	0	2			0		other	0
+3	710	Sound	std	6886291	0	3			0		other	0
+3	711	Sound	deviant_flat	6892401	0	3			0		other	0
+3	711	Sound	0	6904401	12000	3			12000		other	0
+3	712	Sound	std	6911791	0	3			0		other	0
+3	713	Sound	deviant_flat	6918251	0	3			0		other	0
+3	713	Sound	0	6930251	12000	3			12000		other	0
+3	714	Sound	std	6936370	0	3			0		other	0
+3	715	Sound	deviant_flat	6943161	0	4			0		other	0
+3	715	Sound	0	6955161	12000	3			12000		other	0
+3	716	Sound	deviant_flat	6962650	0	3			0		other	0
+3	716	Sound	0	6974650	12000	3			12000		other	0
+3	717	Sound	std	6981381	0	3			0		other	0
+3	718	Sound	std	6988631	0	3			0		other	0
+3	719	Sound	std	6995290	0	3			0		other	0
+3	720	Sound	std	7001181	0	3			0		other	0
+3	721	Sound	std	7008230	0	3			0		other	0
+3	722	Sound	deviant_rise	7015881	0	3			0		other	0
+3	722	Sound	0	7027881	12000	3			12000		other	0
+3	723	Sound	deviant_flat	7035281	0	3			0		other	0
+3	723	Sound	0	7047281	12000	3			12000		other	0
+3	724	Sound	deviant_flat	7053441	0	63			0		other	0
+3	724	Sound	0	7065441	12000	3			12000		other	0
+3	725	Sound	std	7073101	0	3			0		other	0
+3	726	Sound	deviant_fall	7080531	0	3			0		other	0
+3	726	Sound	0	7092531	12000	3			12000		other	0
+3	727	Sound	std	7098350	0	3			0		other	0
+3	728	Sound	std	7105640	0	3			0		other	0
+3	729	Sound	std	7112021	0	3			0		other	0
+3	730	Sound	std	7118520	0	3			0		other	0
+3	731	Sound	std	7125400	0	3			0		other	0
+3	732	Sound	std	7132561	0	3			0		other	0
+3	733	Sound	deviant_rise	7138390	0	3			0		other	0
+3	733	Sound	0	7150390	12000	3			12000		other	0
+3	734	Sound	std	7158010	0	3			0		other	0
+3	735	Sound	std	7164460	0	3			0		other	0
+3	736	Sound	std	7171490	0	3			0		other	0
+3	737	Sound	std	7179200	0	3			0		other	0
+3	738	Sound	std	7186420	0	3			0		other	0
+3	739	Sound	std	7193060	0	3			0		other	0
+3	740	Sound	deviant_fall	7198800	0	3			0		other	0
+3	740	Sound	0	7210800	12000	3			12000		other	0
+3	741	Sound	std	7217440	0	3			0		other	0
+3	742	Sound	std	7223441	0	3			0		other	0
+3	743	Sound	std	7230821	0	2			0		other	0
+3	744	Sound	deviant_fall	7238300	0	3			0		other	0
+3	744	Sound	0	7250300	12000	3			12000		other	0
+3	745	Sound	std	7256820	0	3			0		other	0
+3	746	Sound	std	7263560	0	3			0		other	0
+3	747	Sound	std	7271280	0	3			0		other	0
+3	748	Sound	deviant_rise	7278820	0	3			0		other	0
+3	748	Sound	0	7290820	12000	3			12000		other	0
+3	749	Sound	deviant_rise	7298130	0	5			0		other	0
+3	749	Sound	0	7310130	12000	2			12000		other	0
+3	750	Sound	deviant_rise	7316380	0	3			0		other	0
+3	750	Sound	0	7328380	12000	3			12000		other	0
+3	751	Sound	std	7334270	0	3			0		other	0
+3	752	Sound	deviant_rise	7341240	0	3			0		other	0
+3	752	Sound	0	7353240	12000	3			12000		other	0
+3	753	Sound	deviant_flat	7360430	0	3			0		other	0
+3	753	Sound	0	7372430	12000	3			12000		other	0
+3	754	Sound	deviant_flat	7379899	0	3			0		other	0
+3	754	Sound	0	7391899	12000	3			12000		other	0
+3	755	Sound	deviant_flat	7398240	0	3			0		other	0
+3	755	Sound	0	7410240	12000	2			12000		other	0
+3	756	Sound	deviant_flat	7417229	0	3			0		other	0
+3	756	Sound	0	7429229	12000	3			12000		other	0
+3	757	Sound	std	7436659	0	3			0		other	0
+3	758	Sound	std	7443990	0	3			0		other	0
+3	759	Sound	std	7451560	0	3			0		other	0
+3	760	Sound	std	7457699	0	3			0		other	0
+3	761	Sound	deviant_fall	7463840	0	3			0		other	0
+3	761	Sound	0	7475840	12000	3			12000		other	0
+3	762	Sound	std	7481699	0	3			0		other	0
+3	763	Sound	std	7488909	0	3			0		other	0
+3	764	Sound	std	7496139	0	3			0		other	0
+3	765	Sound	deviant_rise	7503239	0	2			0		other	0
+3	765	Sound	0	7515239	12000	3			12000		other	0
+3	766	Sound	deviant_fall	7521269	0	3			0		other	0
+3	766	Sound	0	7533269	12000	3			12000		other	0
+3	767	Sound	std	7540309	0	3			0		other	0
+3	768	Sound	deviant_flat	7547940	0	3			0		other	0
+3	768	Sound	0	7559940	12000	3			12000		other	0
+3	769	Sound	std	7566049	0	3			0		other	0
+3	770	Sound	std	7572579	0	3			0		other	0
+3	771	Sound	deviant_flat	7580380	0	3			0		other	0
+3	771	Sound	0	7592380	12000	3			12000		other	0
+3	772	Sound	std	7599600	0	3			0		other	0
+3	773	Sound	std	7607300	0	3			0		other	0
+3	774	Sound	std	7614250	0	3			0		other	0
+3	775	Sound	std	7620131	0	3			0		other	0
+3	776	Sound	std	7627789	0	3			0		other	0
+3	777	Sound	std	7634990	0	3			0		other	0
+3	778	Sound	std	7642340	0	3			0		other	0
+3	779	Sound	std	7648289	0	3			0		other	0
+3	780	Sound	std	7656029	0	2			0		other	0
+3	781	Sound	std	7662539	0	3			0		other	0
+3	782	Sound	std	7668549	0	3			0		other	0
+3	783	Sound	std	7674489	0	3			0		other	0
+3	784	Sound	std	7682149	0	3			0		other	0
+3	785	Sound	deviant_flat	7688719	0	3			0		other	0
+3	785	Sound	0	7700719	12000	3			12000		other	0
+3	786	Sound	deviant_rise	7706569	0	3			0		other	0
+3	786	Sound	0	7718569	12000	3			12000		other	0
+3	787	Sound	deviant_fall	7725169	0	2			0		other	0
+3	787	Sound	0	7737169	12000	3			12000		other	0
+3	788	Sound	std	7743959	0	2			0		other	0
+3	789	Sound	std	7750340	0	3			0		other	0
+3	790	Sound	std	7757199	0	3			0		other	0
+3	791	Sound	std	7763569	0	3			0		other	0
+3	792	Sound	std	7769619	0	3			0		other	0
+3	793	Sound	std	7776089	0	3			0		other	0
+3	794	Sound	std	7782700	0	3			0		other	0
+3	795	Sound	std	7789549	0	3			0		other	0
+3	796	Sound	std	7795589	0	3			0		other	0
+3	797	Sound	std	7801878	0	3			0		other	0
+3	798	Sound	std	7807709	0	2			0		other	0
+3	799	Sound	std	7814639	0	3			0		other	0
+3	800	Sound	std	7820759	0	3			0		other	0
+3	801	Sound	deviant_fall	7827939	0	3			0		other	0
+3	801	Sound	0	7839939	12000	3			12000		other	0
+3	802	Sound	std	7847048	0	3			0		other	0
+3	803	Sound	std	7853928	0	3			0		other	0
+3	804	Sound	deviant_fall	7861268	0	3			0		other	0
+3	804	Sound	0	7873268	12000	2			12000		other	0
+3	805	Sound	deviant_fall	7880289	0	3			0		other	0
+3	805	Sound	0	7892289	12000	3			12000		other	0
+3	806	Sound	std	7899378	0	3			0		other	0
+3	807	Sound	std	7906848	0	3			0		other	0
+3	808	Sound	deviant_fall	7913869	0	3			0		other	0
+3	808	Sound	0	7925869	12000	3			12000		other	0
+3	809	Sound	std	7931599	0	3			0		other	0
+3	810	Sound	std	7938299	0	3			0		other	0
+3	811	Sound	deviant_fall	7945798	0	3			0		other	0
+3	811	Sound	0	7957798	12000	3			12000		other	0
+3	812	Sound	std	7963689	0	3			0		other	0
+3	813	Sound	std	7971078	0	3			0		other	0
+3	814	Sound	std	7978238	0	3			0		other	0
+3	815	Sound	deviant_rise	7985258	0	3			0		other	0
+3	815	Sound	0	7997258	12000	3			12000		other	0
+3	816	Sound	std	8002978	0	3			0		other	0
+3	817	Sound	deviant_flat	8008858	0	3			0		other	0
+3	817	Sound	0	8020858	12000	3			12000		other	0
+3	818	Sound	std	8026908	0	3			0		other	0
+3	819	Sound	deviant_flat	8033268	0	3			0		other	0
+3	819	Sound	0	8045268	12000	3			12000		other	0
+3	820	Sound	deviant_rise	8052508	0	2			0		other	0
+3	820	Sound	0	8064508	12000	3			12000		other	0
+3	821	Sound	std	8071248	0	3			0		other	0
+3	822	Sound	std	8076989	0	3			0		other	0
+3	823	Sound	std	8084478	0	3			0		other	0
+3	824	Sound	std	8091149	0	3			0		other	0
+3	825	Sound	std	8098790	0	3			0		other	0
+3	826	Sound	std	8106338	0	3			0		other	0
+3	827	Sound	std	8112358	0	3			0		other	0
+3	828	Sound	std	8119478	0	3			0		other	0
+3	829	Sound	std	8126728	0	2			0		other	0
+3	830	Sound	deviant_flat	8134397	0	3			0		other	0
+3	830	Sound	0	8146397	12000	3			12000		other	0
+3	831	Sound	std	8152638	0	2			0		other	0
+3	832	Sound	std	8160358	0	3			0		other	0
+3	833	Sound	std	8167618	0	2			0		other	0
+3	834	Sound	std	8175098	0	3			0		other	0
+3	835	Sound	deviant_fall	8181358	0	3			0		other	0
+3	835	Sound	0	8193358	12000	3			12000		other	0
+3	836	Sound	std	8199627	0	3			0		other	0
+3	837	Sound	deviant_fall	8206228	0	3			0		other	0
+3	837	Sound	0	8218228	12000	3			12000		other	0
+3	838	Sound	std	8224078	0	3			0		other	0
+3	839	Sound	std	8231008	0	3			0		other	0
+3	840	Sound	std	8237098	0	3			0		other	0
+3	841	Sound	deviant_rise	8244478	0	3			0		other	0
+3	841	Sound	0	8256478	12000	3			12000		other	0
+3	842	Sound	std	8262867	0	3			0		other	0
+3	843	Sound	std	8270367	0	3			0		other	0
+3	844	Sound	std	8276288	0	3			0		other	0
+3	845	Sound	std	8282407	0	3			0		other	0
+3	846	Sound	deviant_rise	8288538	0	3			0		other	0
+3	846	Sound	0	8300538	12000	3			12000		other	0
+3	847	Sound	std	8306887	0	3			0		other	0
+3	848	Sound	deviant_rise	8314448	0	3			0		other	0
+3	848	Sound	0	8326448	12000	3			12000		other	0
+3	849	Sound	std	8332557	0	3			0		other	0
+3	850	Sound	deviant_fall	8339947	0	3			0		other	0
+3	850	Sound	0	8351947	12000	3			12000		other	0
+3	851	Sound	std	8358107	0	2			0		other	0
+3	852	Sound	std	8365227	0	3			0		other	0
+3	853	Sound	deviant_rise	8371747	0	3			0		other	0
+3	853	Sound	0	8383747	12000	3			12000		other	0
+3	854	Sound	deviant_flat	8391317	0	3			0		other	0
+3	854	Sound	0	8403317	12000	3			12000		other	0
+3	855	Sound	std	8410597	0	3			0		other	0
+3	856	Sound	std	8416888	0	2			0		other	0
+3	857	Sound	std	8422978	0	3			0		other	0
+3	858	Sound	std	8429137	0	3			0		other	0
+3	859	Sound	std	8435977	0	3			0		other	0
+3	860	Sound	std	8442887	0	2			0		other	0
+3	861	Sound	std	8448798	0	3			0		other	0
+3	862	Sound	std	8455917	0	3			0		other	0
+3	863	Sound	std	8463497	0	3			0		other	0
+3	864	Sound	std	8470147	0	3			0		other	0
+3	865	Sound	deviant_fall	8476467	0	3			0		other	0
+3	865	Sound	0	8488467	12000	3			12000		other	0
+3	866	Sound	std	8495737	0	3			0		other	0
+3	867	Sound	std	8502598	0	3			0		other	0
+3	868	Sound	std	8510297	0	3			0		other	0
+3	869	Sound	std	8516376	0	3			0		other	0
+3	870	Sound	deviant_fall	8523807	0	3			0		other	0
+3	870	Sound	0	8535807	12000	3			12000		other	0
+3	871	Sound	std	8543547	0	3			0		other	0
+3	872	Sound	std	8549427	0	3			0		other	0
+3	873	Sound	std	8556218	0	2			0		other	0
+3	874	Sound	std	8562097	0	3			0		other	0
+3	875	Sound	std	8568647	0	3			0		other	0
+3	876	Sound	std	8574716	0	3			0		other	0
+3	877	Sound	std	8581117	0	3			0		other	0
+3	878	Sound	std	8586928	0	3			0		other	0
+3	879	Sound	deviant_fall	8593227	0	3			0		other	0
+3	879	Sound	0	8605227	12000	3			12000		other	0
+3	880	Sound	std	8612627	0	3			0		other	0
+3	881	Sound	std	8620217	0	3			0		other	0
+3	882	Sound	std	8626827	0	3			0		other	0
+3	883	Sound	deviant_flat	8634297	0	3			0		other	0
+3	883	Sound	0	8646297	12000	3			12000		other	0
+3	884	Sound	std	8652117	0	3			0		other	0
+3	885	Sound	std	8658947	0	3			0		other	0
+3	886	Sound	deviant_flat	8666006	0	3			0		other	0
+3	886	Sound	0	8678006	12000	3			12000		other	0
+3	887	Sound	std	8683858	0	3			0		other	0
+3	888	Sound	std	8690786	0	3			0		other	0
+3	889	Sound	std	8698276	0	3			0		other	0
+3	890	Sound	deviant_fall	8705758	0	6			0		other	0
+3	890	Sound	0	8717758	12000	3			12000		other	0
+3	891	Sound	deviant_flat	8723817	0	3			0		other	0
+3	891	Sound	0	8735817	12000	6			12000		other	0
+3	892	Sound	std	8743037	0	3			0		other	0
+3	893	Sound	std	8749346	0	3			0		other	0
+3	894	Sound	deviant_fall	8755266	0	3			0		other	0
+3	894	Sound	0	8767266	12000	3			12000		other	0
+3	895	Sound	std	8774216	0	2			0		other	0
+3	896	Sound	std	8781317	0	3			0		other	0
+3	897	Sound	std	8788576	0	2			0		other	0
+3	898	Sound	std	8795016	0	3			0		other	0
+3	899	Sound	std	8801746	0	3			0		other	0
+3	900	Sound	std	8809156	0	3			0		other	0
+3	901	Sound	std	8815907	0	4			0		other	0
+3	902	Sound	std	8823307	0	2			0		other	0
+3	903	Sound	std	8830906	0	2			0		other	0
+3	904	Sound	deviant_fall	8838266	0	3			0		other	0
+3	904	Sound	0	8850266	12000	3			12000		other	0
+3	905	Sound	std	8857816	0	3			0		other	0
+3	906	Sound	std	8865296	0	3			0		other	0
+3	907	Sound	std	8871944	0	3			0		other	0
+3	908	Sound	std	8879326	0	3			0		other	0
+3	909	Sound	std	8886166	0	2			0		other	0
+3	910	Sound	std	8893176	0	2			0		other	0
+3	911	Sound	deviant_rise	8899916	0	2			0		other	0
+3	911	Sound	0	8911916	12000	3			12000		other	0
+3	912	Sound	std	8919076	0	3			0		other	0
+3	913	Sound	std	8926735	0	3			0		other	0
+3	914	Sound	deviant_flat	8932696	0	2			0		other	0
+3	914	Sound	0	8944696	12000	2			12000		other	0
+3	915	Sound	std	8951466	0	3			0		other	0
+3	916	Sound	std	8957215	0	3			0		other	0
+3	917	Sound	std	8964266	0	3			0		other	0
+3	918	Sound	std	8970066	0	3			0		other	0
+3	919	Sound	std	8975986	0	2			0		other	0
+3	920	Sound	std	8983376	0	5			0		other	0
+3	921	Sound	std	8990326	0	2			0		other	0
+3	922	Sound	std	8996236	0	7			0		other	0
+3	923	Sound	std	9002555	0	3			0		other	0
+3	924	Sound	deviant_flat	9009915	0	3			0		other	0
+3	924	Sound	0	9021915	12000	3			12000		other	0
+3	925	Sound	std	9029186	0	3			0		other	0
+3	926	Sound	std	9036015	0	3			0		other	0
+3	927	Sound	std	9042395	0	2			0		other	0
+3	928	Sound	deviant_flat	9049365	0	2			0		other	0
+3	928	Sound	0	9061365	12000	3			12000		other	0
+3	929	Sound	deviant_flat	9068146	0	3			0		other	0
+3	929	Sound	0	9080146	12000	2			12000		other	0
+3	930	Sound	deviant_flat	9087216	0	3			0		other	0
+3	930	Sound	0	9099216	12000	3			12000		other	0
+3	931	Sound	std	9106636	0	5			0		other	0
+3	932	Sound	deviant_rise	9112736	0	3			0		other	0
+3	932	Sound	0	9124736	12000	2			12000		other	0
+3	933	Sound	std	9131425	0	2			0		other	0
+3	934	Sound	std	9139166	0	2			0		other	0
+3	935	Sound	std	9145525	0	3			0		other	0
+3	936	Sound	deviant_flat	9151535	0	2			0		other	0
+3	936	Sound	0	9163535	12000	3			12000		other	0
+3	937	Sound	std	9169775	0	2			0		other	0
+3	938	Sound	std	9176155	0	3			0		other	0
+3	939	Sound	deviant_flat	9183428	0	3			0		other	0
+3	939	Sound	0	9195428	12000	3			12000		other	0
+3	940	Sound	std	9202715	0	3			0		other	0
+3	941	Sound	std	9209245	0	3			0		other	0
+3	942	Sound	deviant_flat	9215995	0	2			0		other	0
+3	942	Sound	0	9227995	12000	3			12000		other	0
+3	943	Sound	std	9235675	0	2			0		other	0
+3	944	Sound	deviant_fall	9242235	0	2			0		other	0
+3	944	Sound	0	9254235	12000	3			12000		other	0
+3	945	Sound	std	9260385	0	2			0		other	0
+3	946	Sound	std	9268125	0	2			0		other	0
+3	947	Sound	deviant_rise	9275215	0	3			0		other	0
+3	947	Sound	0	9287215	12000	2			12000		other	0
+3	948	Sound	std	9294445	0	3			0		other	0
+3	949	Sound	std	9301745	0	2			0		other	0
+3	950	Sound	std	9308305	0	2			0		other	0
+3	951	Sound	std	9314475	0	2			0		other	0
+3	952	Sound	deviant_fall	9321145	0	2			0		other	0
+3	952	Sound	0	9333145	12000	3			12000		other	0
+3	953	Sound	std	9339135	0	2			0		other	0
+3	954	Sound	deviant_fall	9346484	0	2			0		other	0
+3	954	Sound	0	9358484	12000	3			12000		other	0
+3	955	Sound	deviant_rise	9364985	0	3			0		other	0
+3	955	Sound	0	9376985	12000	5			12000		other	0
+3	956	Sound	std	9383304	0	2			0		other	0
+3	957	Response	1	9584639	200290	3
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	std	other				85117	2588			0
+Sound	std	other				94477	3			0
+Sound	std	other				100268	3			0
+Sound	std	other				107478	3			0
+Sound	std	other				115107	2			0
+Sound	std	other				121858	3			0
+Sound	std	other				128157	3			0
+Sound	std	other				135378	3			0
+Sound	std	other				142879	3			0
+Sound	std	other				149817	2			0
+Sound	std	other				155847	3			0
+Sound	std	other				162197	2			0
+Sound	deviant_fall	other				169857	3			0
+Sound	0	other				181857	3			12000
+Sound	std	other				187647	3			0
+Sound	std	other				194897	3			0
+Sound	std	other				201107	3			0
+Sound	deviant_fall	other				207317	3			0
+Sound	0	other				219317	3			12000
+Sound	deviant_fall	other				227057	4			0
+Sound	0	other				239057	3			12000
+Sound	std	other				246017	2			0
+Sound	std	other				252317	3			0
+Sound	std	other				259747	3			0
+Sound	std	other				266347	3			0
+Sound	std	other				273298	3			0
+Sound	deviant_flat	other				279747	3			0
+Sound	0	other				291747	3			12000
+Sound	std	other				297517	3			0
+Sound	std	other				303567	2			0
+Sound	std	other				310827	4			0
+Sound	deviant_flat	other				318277	3			0
+Sound	0	other				330277	3			12000
+Sound	std	other				337777	3			0
+Sound	std	other				344397	3			0
+Sound	std	other				351107	3			0
+Sound	std	other				358307	3			0
+Sound	std	other				364756	3			0
+Sound	std	other				371137	3			0
+Sound	std	other				377086	3			0
+Sound	std	other				384417	3			0
+Sound	std	other				390756	2			0
+Sound	std	other				398227	3			0
+Sound	std	other				404166	3			0
+Sound	std	other				411437	3			0
+Sound	std	other				417616	3			0
+Sound	std	other				424346	3			0
+Sound	std	other				430906	3			0
+Sound	std	other				437626	2			0
+Sound	std	other				445006	3			0
+Sound	deviant_rise	other				452066	3			0
+Sound	0	other				464066	3			12000
+Sound	deviant_rise	other				471707	3			0
+Sound	0	other				483707	3			12000
+Sound	std	other				490737	3			0
+Sound	std	other				497766	3			0
+Sound	std	other				504487	3			0
+Sound	std	other				511287	3			0
+Sound	deviant_fall	other				518576	3			0
+Sound	0	other				530576	3			12000
+Sound	deviant_flat	other				537156	3			0
+Sound	0	other				549156	3			12000
+Sound	std	other				556197	3			0
+Sound	std	other				563206	3			0
+Sound	std	other				569706	3			0
+Sound	std	other				576816	2			0
+Sound	deviant_rise	other				584327	3			0
+Sound	0	other				596327	3			12000
+Sound	std	other				603906	3			0
+Sound	std	other				611296	3			0
+Sound	std	other				618996	3			0
+Sound	deviant_flat	other				625266	3			0
+Sound	0	other				637266	2			12000
+Sound	std	other				643316	4			0
+Sound	deviant_flat	other				650886	2			0
+Sound	0	other				662886	2			12000
+Sound	std	other				670525	3			0
+Sound	std	other				677275	3			0
+Sound	deviant_fall	other				684736	2			0
+Sound	0	other				696736	3			12000
+Sound	std	other				703856	2			0
+Sound	std	other				711595	3			0
+Sound	std	other				719395	3			0
+Sound	std	other				726905	3			0
+Sound	deviant_rise	other				734165	3			0
+Sound	0	other				746165	2			12000
+Sound	std	other				753695	3			0
+Sound	std	other				761265	3			0
+Sound	std	other				768985	3			0
+Sound	std	other				776275	2			0
+Sound	deviant_fall	other				782995	2			0
+Sound	0	other				794995	2			12000
+Sound	std	other				801367	7			0
+Sound	std	other				808276	2			0
+Sound	std	other				814686	3			0
+Sound	std	other				820955	2			0
+Sound	deviant_fall	other				827744	2			0
+Sound	0	other				839744	2			12000
+Sound	std	other				847125	3			0
+Sound	std	other				853715	12			0
+Sound	std	other				859785	2			0
+Sound	std	other				866325	3			0
+Sound	std	other				874035	3			0
+Sound	std	other				881385	3			0
+Sound	std	other				887186	3			0
+Sound	std	other				894725	3			0
+Sound	deviant_rise	other				901216	3			0
+Sound	0	other				913216	3			12000
+Sound	std	other				920326	3			0
+Sound	std	other				926475	3			0
+Sound	deviant_fall	other				932466	3			0
+Sound	0	other				944466	3			12000
+Sound	std	other				952135	3			0
+Sound	std	other				958535	3			0
+Sound	std	other				965215	6			0
+Sound	std	other				971026	2			0
+Sound	std	other				978155	3			0
+Sound	std	other				984757	3			0
+Sound	std	other				990915	2			0
+Sound	std	other				997825	3			0
+Sound	deviant_flat	other				1003595	3			0
+Sound	0	other				1015595	3			12000
+Sound	std	other				1022215	3			0
+Sound	std	other				1028915	3			0
+Sound	std	other				1036035	3			0
+Sound	std	other				1042726	3			0
+Sound	std	other				1050485	3			0
+Sound	std	other				1056915	3			0
+Sound	deviant_fall	other				1063635	3			0
+Sound	0	other				1075635	3			12000
+Sound	std	other				1081464	3			0
+Sound	deviant_fall	other				1087915	5			0
+Sound	0	other				1099915	3			12000
+Sound	std	other				1106744	3			0
+Sound	std	other				1112575	3			0
+Sound	std	other				1119185	3			0
+Sound	std	other				1126675	3			0
+Sound	std	other				1132585	3			0
+Sound	deviant_fall	other				1140085	3			0
+Sound	0	other				1152085	3			12000
+Sound	std	other				1158305	3			0
+Sound	std	other				1164325	4			0
+Sound	deviant_flat	other				1171045	3			0
+Sound	0	other				1183045	3			12000
+Sound	std	other				1189814	3			0
+Sound	deviant_fall	other				1197435	3			0
+Sound	0	other				1209435	3			12000
+Sound	deviant_flat	other				1216605	3			0
+Sound	0	other				1228605	3			12000
+Sound	deviant_fall	other				1235164	3			0
+Sound	0	other				1247164	2			12000
+Sound	deviant_flat	other				1253174	3			0
+Sound	0	other				1265174	3			12000
+Sound	std	other				1271444	3			0
+Sound	deviant_fall	other				1279194	3			0
+Sound	0	other				1291194	3			12000
+Sound	std	other				1297794	3			0
+Sound	std	other				1304475	3			0
+Sound	deviant_rise	other				1310655	2			0
+Sound	0	other				1322655	3			12000
+Sound	std	other				1328894	2			0
+Sound	std	other				1336124	3			0
+Sound	std	other				1343214	2			0
+Sound	deviant_rise	other				1350754	2			0
+Sound	0	other				1362754	3			12000
+Sound	std	other				1370073	3			0
+Sound	deviant_fall	other				1377684	2			0
+Sound	0	other				1389684	3			12000
+Sound	std	other				1395554	3			0
+Sound	std	other				1402694	3			0
+Sound	std	other				1409384	3			0
+Sound	std	other				1415184	2			0
+Sound	deviant_rise	other				1422064	3			0
+Sound	0	other				1434064	3			12000
+Sound	std	other				1441163	3			0
+Sound	deviant_rise	other				1447764	3			0
+Sound	0	other				1459764	2			12000
+Sound	deviant_flat	other				1466894	2			0
+Sound	0	other				1478894	3			12000
+Sound	std	other				1485783	3			0
+Sound	std	other				1493474	3			0
+Sound	std	other				1500174	3			0
+Sound	deviant_fall	other				1506034	3			0
+Sound	0	other				1518034	3			12000
+Sound	deviant_fall	other				1524034	3			0
+Sound	0	other				1536034	3			12000
+Sound	std	other				1542914	3			0
+Sound	std	other				1548794	3			0
+Sound	std	other				1555114	3			0
+Sound	std	other				1562564	3			0
+Sound	std	other				1570294	3			0
+Sound	std	other				1577064	3			0
+Sound	std	other				1584164	3			0
+Sound	std	other				1591534	3			0
+Sound	std	other				1597474	3			0
+Sound	deviant_rise	other				1603674	3			0
+Sound	0	other				1615674	3			12000
+Sound	std	other				1623104	3			0
+Sound	std	other				1630153	3			0
+Sound	std	other				1636294	3			0
+Sound	deviant_rise	other				1643313	3			0
+Sound	0	other				1655313	3			12000
+Sound	std	other				1661683	3			0
+Sound	std	other				1668373	3			0
+Sound	std	other				1674823	3			0
+Sound	std	other				1682223	3			0
+Sound	std	other				1687994	3			0
+Sound	deviant_rise	other				1694444	3			0
+Sound	0	other				1706444	3			12000
+Sound	std	other				1713603	3			0
+Sound	std	other				1720774	3			0
+Sound	std	other				1727703	3			0
+Sound	std	other				1733994	3			0
+Sound	deviant_fall	other				1741234	3			0
+Sound	0	other				1753234	3			12000
+Sound	std	other				1759883	3			0
+Sound	std	other				1766683	3			0
+Sound	std	other				1773913	3			0
+Sound	deviant_flat	other				1781462	3			0
+Sound	0	other				1793462	3			12000
+Sound	std	other				1799313	3			0
+Sound	deviant_rise	other				1806883	2			0
+Sound	0	other				1818883	2			12000
+Sound	std	other				1824984	3			0
+Sound	std	other				1831033	3			0
+Sound	deviant_rise	other				1837143	3			0
+Sound	0	other				1849143	3			12000
+Sound	deviant_fall	other				1856263	2			0
+Sound	0	other				1868263	3			12000
+Sound	std	other				1875673	3			0
+Sound	std	other				1881663	3			0
+Sound	std	other				1888813	3			0
+Sound	std	other				1896153	3			0
+Sound	std	other				1903213	3			0
+Sound	std	other				1910574	3			0
+Sound	std	other				1917513	3			0
+Sound	std	other				1925203	3			0
+Sound	std	other				1932714	3			0
+Sound	deviant_flat	other				1939343	3			0
+Sound	0	other				1951343	3			12000
+Sound	deviant_rise	other				1958172	3			0
+Sound	0	other				1970172	3			12000
+Sound	std	other				1976573	3			0
+Sound	std	other				1982843	3			0
+Sound	std	other				1988803	3			0
+Sound	deviant_flat	other				1995933	3			0
+Sound	0	other				2007933	3			12000
+Sound	std	other				2015443	3			0
+Sound	std	other				2022202	3			0
+Sound	std	other				2029152	3			0
+Sound	deviant_fall	other				2036613	3			0
+Sound	0	other				2048629	3			12000
+Sound	deviant_flat	other				2055273	3			0
+Sound	0	other				2067273	2			12000
+Sound	std	other				2074113	3			0
+Sound	deviant_fall	other				2081722	3			0
+Sound	0	other				2093722	2			12000
+Sound	std	other				2101032	3			0
+Sound	std	other				2108183	3			0
+Sound	deviant_flat	other				2115733	7			0
+Sound	0	other				2127733	3			12000
+Sound	std	other				2133793	3			0
+Sound	std	other				2140003	3			0
+Sound	std	other				2146063	2			0
+Sound	std	other				2151862	2			0
+Sound	deviant_rise	other				2157912	2			0
+Sound	0	other				2169912	3			12000
+Sound	std	other				2177683	2			0
+Sound	deviant_flat	other				2184823	3			0
+Sound	0	other				2196823	3			12000
+Sound	std	other				2203613	3			0
+Sound	deviant_rise	other				2211332	3			0
+Sound	0	other				2223332	2			12000
+Sound	std	other				2229483	3			0
+Sound	std	other				2237103	3			0
+Sound	std	other				2243622	3			0
+Sound	std	other				2251192	2			0
+Sound	std	other				2257412	3			0
+Sound	std	other				2264933	3			0
+Sound	std	other				2270962	3			0
+Sound	std	other				2278352	3			0
+Sound	std	other				2284482	3			0
+Sound	std	other				2291663	3			0
+Sound	std	other				2298212	3			0
+Sound	std	other				2304732	3			0
+Sound	std	other				2311022	3			0
+Sound	std	other				2317592	3			0
+Sound	std	other				2324072	3			0
+Sound	std	other				2331062	3			0
+Sound	deviant_rise	other				2338202	3			0
+Sound	0	other				2350202	3			12000
+Sound	std	other				2356722	2			0
+Sound	std	other				2363402	2			0
+Sound	std	other				2369332	3			0
+Sound	deviant_rise	other				2376592	3			0
+Sound	0	other				2388592	2			12000
+Sound	deviant_fall	other				2396171	2			0
+Sound	0	other				2408171	3			12000
+Sound	std	other				2415191	3			0
+Sound	deviant_fall	other				2421872	3			0
+Sound	0	other				2433872	2			12000
+Sound	std	other				2440611	3			0
+Sound	std	other				2446772	3			0
+Sound	std	other				2453261	3			0
+Sound	deviant_fall	other				2459371	2			0
+Sound	0	other				2471371	2			12000
+Sound	std	other				2478251	2			0
+Sound	deviant_rise	other				2484341	3			0
+Sound	0	other				2496341	11			12000
+Sound	std	other				2503651	2			0
+Sound	std	other				2510381	2			0
+Sound	std	other				2517282	2			0
+Sound	std	other				2523101	3			0
+Sound	deviant_fall	other				2529121	2			0
+Sound	0	other				2541121	3			12000
+Sound	std	other				2547991	3			0
+Sound	deviant_fall	other				2555551	2			0
+Sound	0	other				2567551	2			12000
+Sound	deviant_flat	other				2574601	3			0
+Sound	0	other				2586601	2			12000
+Sound	deviant_fall	other				2593181	2			0
+Sound	0	other				2605181	3			12000
+Sound	std	other				2612232	3			0
+Sound	std	other				2618541	3			0
+Sound	std	other				2624591	3			0
+Sound	deviant_rise	other				2631951	2			0
+Sound	0	other				2643951	2			12000
+Sound	std	other				2650021	3			0
+Sound	deviant_rise	other				2657201	2			0
+Sound	0	other				2669201	2			12000
+Sound	std	other				2676201	3			0
+Sound	std	other				2683261	3			0
+Sound	deviant_fall	other				2690391	2			0
+Sound	0	other				2702391	2			12000
+Sound	std	other				2708950	3			0
+Sound	std	other				2714700	3			0
+Sound	deviant_rise	other				2721792	2			0
+Sound	0	other				2733792	2			12000
+Sound	std	other				2739861	3			0
+Sound	deviant_fall	other				2746710	2			0
+Sound	0	other				2758710	2			12000
+Sound	deviant_rise	other				2765280	3			0
+Sound	0	other				2777280	3			12000
+Sound	std	other				2783720	2			0
+Sound	std	other				2789791	2			0
+Sound	std	other				2795941	3			0
+Sound	std	other				2801930	3			0
+Sound	deviant_fall	other				2809081	3			0
+Sound	0	other				2821081	3			12000
+Sound	std	other				2827010	2			0
+Sound	std	other				2833350	3			0
+Sound	std	other				2840631	2			0
+Sound	deviant_rise	other				2846600	3			0
+Sound	0	other				2858600	3			12000
+Sound	deviant_fall	other				2864950	2			0
+Sound	0	other				2876950	8			12000
+Sound	std	other				2884460	3			0
+Sound	std	other				2891861	2			0
+Sound	std	other				2897631	3			0
+Sound	std	other				2904230	2			0
+Sound	std	other				2911721	3			0
+Sound	std	other				2918262	2			0
+Sound	std	other				2924081	3			0
+Sound	deviant_flat	other				2930920	3			0
+Sound	0	other				2942920	4			12000
+Sound	deviant_flat	other				2949681	3			0
+Sound	0	other				2961681	3			12000
+Sound	std	other				2967670	2			0
+Sound	std	other				2973811	3			0
+Sound	std	other				2980040	2			0
+Sound	std	other				2987060	3			0
+Sound	deviant_flat	other				2992790	2			0
+Sound	0	other				3004790	3			12000
+Sound	deviant_rise	other				3011902	2			0
+Sound	0	other				3023902	2			12000
+Sound	deviant_flat	other				3031370	3			0
+Sound	0	other				3043370	2			12000
+Sound	std	other				3049570	3			0
+Sound	std	other				3055880	3			0
+Sound	std	other				3063430	2			0
+Sound	deviant_rise	other				3070220	3			0
+Sound	0	other				3082220	2			12000
+Sound	std	other				3088720	3			0
+Sound	deviant_rise	other				3095180	2			0
+Sound	0	other				3107180	3			12000
+Sound	deviant_rise	other				3114400	2			0
+Sound	0	other				3126400	3			12000
+Sound	deviant_fall	other				3132950	3			0
+Sound	0	other				3144950	2			12000
+Sound	std	other				3151039	2			0
+Sound	std	other				3158449	2			0
+Sound	std	other				3164710	3			0
+Sound	std	other				3171249	3			0
+Sound	std	other				3177709	2			0
+Sound	std	other				3184899	3			0
+Sound	std	other				3191779	2			0
+Sound	std	other				3198269	2			0
+Sound	std	other				3205389	3			0
+Sound	std	other				3211349	3			0
+Sound	std	other				3218030	2			0
+Sound	std	other				3225270	3			0
+Sound	std	other				3231160	2			0
+Sound	std	other				3238879	3			0
+Sound	std	other				3246459	3			0
+Sound	std	other				3252660	2			0
+Sound	deviant_flat	other				3259120	2			0
+Sound	0	other				3271120	2			12000
+Sound	std	other				3278500	3			0
+Sound	std	other				3286139	2			0
+Sound	std	other				3292939	2			0
+Sound	deviant_rise	other				3299229	2			0
+Sound	0	other				3311229	3			12000
+Sound	std	other				3318559	2			0
+Sound	std	other				3324509	2			0
+Sound	std	other				3331190	3			0
+Sound	std	other				3338260	3			0
+Sound	std	other				3345859	3			0
+Sound	std	other				3351909	2			0
+Sound	std	other				3358189	3			0
+Sound	std	other				3365409	2			0
+Sound	std	other				3371829	2			0
+Sound	std	other				3379409	2			0
+Sound	std	other				3386999	2			0
+Sound	std	other				3393890	3			0
+Sound	std	other				3400239	3			0
+Sound	std	other				3407199	3			0
+Sound	std	other				3414369	3			0
+Sound	std	other				3422010	2			0
+Sound	deviant_fall	other				3429329	3			0
+Sound	0	other				3441329	3			12000
+Sound	std	other				3447749	3			0
+Sound	std	other				3454809	3			0
+Sound	std	other				3461239	3			0
+Sound	std	other				3468299	2			0
+Sound	std	other				3475180	3			0
+Sound	std	other				3481719	3			0
+Sound	std	other				3489380	3			0
+Sound	std	other				3496959	3			0
+Sound	std	other				3504689	3			0
+Sound	std	other				3512289	3			0
+Sound	std	other				3519659	3			0
+Sound	deviant_flat	other				3525709	3			0
+Sound	0	other				3537709	3			12000
+Sound	std	other				3544429	3			0
+Sound	std	other				3552048	3			0
+Sound	deviant_rise	other				3558579	3			0
+Sound	0	other				3570579	3			12000
+Sound	deviant_rise	other				3576339	3			0
+Sound	0	other				3588339	3			12000
+Sound	deviant_flat	other				3595429	2			0
+Sound	0	other				3607429	3			12000
+Sound	std	other				3614828	3			0
+Sound	deviant_flat	other				3621220	3			0
+Sound	0	other				3633220	3			12000
+Sound	std	other				3639089	3			0
+Sound	std	other				3645629	3			0
+Sound	std	other				3653208	3			0
+Sound	std	other				3660479	3			0
+Sound	std	other				3666339	3			0
+Sound	deviant_rise	other				3672109	3			0
+Sound	0	other				3684109	3			12000
+Sound	deviant_fall	other				3690028	3			0
+Sound	0	other				3702028	3			12000
+Sound	std	other				3708450	3			0
+Sound	std	other				3715779	3			0
+Sound	deviant_flat	other				3722668	3			0
+Sound	0	other				3734668	3			12000
+Sound	deviant_flat	other				3742119	2			0
+Sound	0	other				3754119	3			12000
+Sound	deviant_fall	other				3759998	3			0
+Sound	0	other				3771998	3			12000
+Sound	std	other				3778848	3			0
+Sound	std	other				3784999	2			0
+Sound	std	other				3791689	3			0
+Sound	std	other				3798898	3			0
+Sound	std	other				3806449	3			0
+Sound	deviant_rise	other				3812668	3			0
+Sound	0	other				3824668	3			12000
+Sound	std	other				3830459	3			0
+Sound	std	other				3837428	3			0
+Sound	deviant_fall	other				3844608	3			0
+Sound	0	other				3856608	3			12000
+Sound	std	other				3863758	3			0
+Sound	std	other				3870799	3			0
+Sound	deviant_flat	other				3876638	3			0
+Sound	0	other				3888638	3			12000
+Sound	std	other				3894408	3			0
+Sound	std	other				3902023	3			0
+Sound	deviant_flat	other				3909258	3			0
+Sound	0	other				3921258	3			12000
+Sound	std	other				3928028	3			0
+Sound	std	other				3934318	3			0
+Sound	std	other				3941038	3			0
+Sound	deviant_rise	other				3946938	3			0
+Sound	0	other				3958938	3			12000
+Sound	std	other				3965358	3			0
+Sound	std	other				3972218	3			0
+Sound	std	other				3979128	3			0
+Sound	deviant_rise	other				3985168	3			0
+Sound	0	other				3997168	3			12000
+Sound	std	other				4003310	3			0
+Sound	std	other				4010898	3			0
+Sound	deviant_rise	other				4017438	3			0
+Sound	0	other				4029438	3			12000
+Sound	std	other				4036117	3			0
+Sound	deviant_fall	other				4043588	3			0
+Sound	0	other				4055588	3			12000
+Sound	std	other				4063158	3			0
+Sound	std	other				4070598	2			0
+Sound	std	other				4077359	3			0
+Sound	std	other				4084237	3			0
+Sound	std	other				4091688	3			0
+Sound	std	other				4098108	3			0
+Sound	deviant_rise	other				4104107	3			0
+Sound	0	other				4116107	3			12000
+Sound	deviant_fall	other				4123787	3			0
+Sound	0	other				4135787	3			12000
+Sound	std	other				4143308	3			0
+Sound	std	other				4150278	2			0
+Sound	deviant_flat	other				4157468	3			0
+Sound	0	other				4169468	3			12000
+Sound	deviant_flat	other				4176057	3			0
+Sound	0	other				4188057	3			12000
+Sound	std	other				4194007	3			0
+Sound	std	other				4200528	3			0
+Sound	std	other				4207877	3			0
+Sound	std	other				4215357	2			0
+Sound	std	other				4221788	2			0
+Sound	std	other				4227958	3			0
+Sound	std	other				4235187	3			0
+Sound	std	other				4241148	3			0
+Sound	std	other				4248677	3			0
+Sound	std	other				4255007	3			0
+Sound	std	other				4262757	3			0
+Sound	std	other				4269547	2			0
+Sound	std	other				4276747	2			0
+Sound	std	other				4282817	2			0
+Sound	deviant_fall	other				4290317	3			0
+Sound	0	other				4302317	3			12000
+Sound	std	other				4308167	4			0
+Sound	deviant_flat	other				4314087	2			0
+Sound	0	other				4326087	3			12000
+Sound	std	other				4333847	2			0
+Sound	std	other				4340387	2			0
+Sound	std	other				4347907	3			0
+Sound	deviant_fall	other				4355586	3			0
+Sound	0	other				4367586	3			12000
+Sound	std	other				4373567	3			0
+Sound	std	other				4380447	2			0
+Sound	deviant_rise	other				4386426	55			0
+Sound	0	other				4398426	3			12000
+Sound	std	other				4406136	2			0
+Sound	deviant_rise	other				4413167	3			0
+Sound	0	other				4425167	3			12000
+Sound	std	other				4430906	3			0
+Sound	deviant_flat	other				4437096	2			0
+Sound	0	other				4449096	2			12000
+Sound	deviant_flat	other				4455477	2			0
+Sound	0	other				4467477	2			12000
+Sound	std	other				4474156	3			0
+Sound	std	other				4481166	3			0
+Sound	std	other				4486976	2			0
+Sound	std	other				4493486	3			0
+Sound	std	other				4499927	2			0
+Sound	deviant_rise	other				4506356	3			0
+Sound	0	other				4518356	2			12000
+Sound	std	other				4525426	3			0
+Sound	std	other				4531477	3			0
+Sound	deviant_rise	other				4538027	2			0
+Sound	0	other				4550027	38			12000
+Sound	std	other				4556376	3			0
+Sound	deviant_flat	other				4562956	2			0
+Sound	0	other				4574956	2			12000
+Sound	deviant_flat	other				4581066	2			0
+Sound	0	other				4593066	2			12000
+Sound	std	other				4599136	3			0
+Sound	std	other				4606376	2			0
+Sound	deviant_rise	other				4613976	3			0
+Sound	0	other				4625976	2			12000
+Sound	std	other				4632156	3			0
+Sound	std	other				4638896	3			0
+Sound	std	other				4645466	3			0
+Sound	std	other				4651326	2			0
+Sound	std	other				4657129	3			0
+Sound	deviant_flat	other				4663146	2			0
+Sound	0	other				4675146	3			12000
+Sound	deviant_rise	other				4680976	3			0
+Sound	0	other				4692976	4			12000
+Sound	std	other				4699326	2			0
+Sound	std	other				4705446	3			0
+Sound	std	other				4711846	3			0
+Sound	std	other				4719076	3			0
+Sound	deviant_flat	other				4725156	3			0
+Sound	0	other				4737156	2			12000
+Sound	std	other				4744876	3			0
+Sound	std	other				4750805	2			0
+Sound	deviant_fall	other				4758076	2			0
+Sound	0	other				4770076	3			12000
+Sound	std	other				4776616	2			0
+Sound	std	other				4782575	2			0
+Sound	deviant_fall	other				4789466	3			0
+Sound	0	other				4801466	3			12000
+Sound	std	other				4809116	3			0
+Sound	std	other				4816766	3			0
+Sound	std	other				4823696	3			0
+Sound	std	other				4830396	2			0
+Sound	std	other				4836467	3			0
+Sound	std	other				4843246	3			0
+Sound	std	other				4849977	3			0
+Sound	deviant_flat	other				4857146	2			0
+Sound	0	other				4869146	3			12000
+Sound	std	other				4876255	3			0
+Sound	std	other				4883306	3			0
+Sound	std	other				4890096	3			0
+Sound	std	other				4897225	3			0
+Sound	deviant_flat	other				4904856	2			0
+Sound	0	other				4916856	3			12000
+Sound	std	other				4922826	3			0
+Sound	deviant_fall	other				4929046	3			0
+Sound	0	other				4941046	3			12000
+Sound	std	other				4948355	2			0
+Sound	deviant_rise	other				4954466	3			0
+Sound	0	other				4966466	3			12000
+Sound	std	other				4972925	3			0
+Sound	std	other				4980036	3			0
+Sound	std	other				4985855	3			0
+Sound	std	other				4991795	3			0
+Sound	std	other				4998995	3			0
+Sound	std	other				5005736	3			0
+Sound	std	other				5012236	3			0
+Sound	std	other				5018666	3			0
+Sound	std	other				5024705	4			0
+Sound	deviant_fall	other				5031725	3			0
+Sound	0	other				5043725	3			12000
+Sound	std	other				5051316	2			0
+Sound	std	other				5057576	3			0
+Sound	std	other				5065266	3			0
+Sound	std	other				5071456	3			0
+Sound	std	other				5078885	3			0
+Sound	std	other				5085385	2			0
+Sound	deviant_fall	other				5092875	2			0
+Sound	0	other				5104875	2			12000
+Sound	std	other				5111426	3			0
+Sound	std	other				5117996	3			0
+Sound	std	other				5125385	3			0
+Sound	std	other				5131696	2			0
+Sound	std	other				5138865	3			0
+Sound	std	other				5146285	3			0
+Sound	std	other				5152546	5			0
+Sound	std	other				5159355	3			0
+Sound	std	other				5166845	3			0
+Sound	std	other				5173605	3			0
+Sound	std	other				5179475	2			0
+Sound	std	other				5185305	3			0
+Sound	deviant_rise	other				5192265	3			0
+Sound	0	other				5204265	2			12000
+Sound	std	other				5211905	3			0
+Sound	std	other				5219555	3			0
+Sound	std	other				5225462	2			0
+Sound	std	other				5232255	3			0
+Sound	std	other				5239515	3			0
+Sound	std	other				5245685	3			0
+Sound	std	other				5251635	3			0
+Sound	std	other				5257745	3			0
+Sound	std	other				5264695	3			0
+Sound	std	other				5270676	3			0
+Sound	std	other				5276665	3			0
+Sound	std	other				5282475	3			0
+Sound	std	other				5289525	3			0
+Sound	std	other				5296404	3			0
+Sound	std	other				5303785	2			0
+Sound	deviant_rise	other				5310967	3			0
+Sound	0	other				5322967	3			12000
+Sound	deviant_rise	other				5329804	3			0
+Sound	0	other				5341804	3			12000
+Sound	std	other				5348354	3			0
+Sound	std	other				5354295	3			0
+Sound	deviant_rise	other				5360905	3			0
+Sound	0	other				5372905	3			12000
+Sound	std	other				5379754	3			0
+Sound	std	other				5385495	3			0
+Sound	std	other				5391285	3			0
+Sound	std	other				5397655	3			0
+Sound	std	other				5405204	3			0
+Sound	std	other				5411684	3			0
+Sound	std	other				5418884	2			0
+Sound	std	other				5426604	2			0
+Sound	deviant_flat	other				5432895	3			0
+Sound	0	other				5444895	3			12000
+Sound	std	other				5451724	3			0
+Sound	std	other				5458964	3			0
+Sound	deviant_fall	other				5466214	3			0
+Sound	0	other				5478214	3			12000
+Sound	std	other				5485485	3			0
+Sound	std	other				5492094	3			0
+Sound	std	other				5499004	3			0
+Sound	std	other				5506105	3			0
+Sound	std	other				5513545	2			0
+Sound	std	other				5519915	2			0
+Sound	std	other				5526294	3			0
+Sound	std	other				5533874	3			0
+Sound	std	other				5540725	2			0
+Sound	std	other				5546985	3			0
+Sound	std	other				5552944	3			0
+Sound	deviant_flat	other				5559644	3			0
+Sound	0	other				5571644	3			12000
+Sound	std	other				5579074	3			0
+Sound	std	other				5584985	3			0
+Sound	std	other				5591194	3			0
+Sound	std	other				5598734	3			0
+Sound	std	other				5606194	2			0
+Sound	std	other				5612544	2			0
+Sound	deviant_fall	other				5619234	3			0
+Sound	0	other				5631234	3			12000
+Sound	std	other				5638584	3			0
+Sound	std	other				5645524	3			0
+Sound	std	other				5651484	3			0
+Sound	std	other				5658954	3			0
+Sound	std	other				5665924	3			0
+Sound	std	other				5673654	3			0
+Sound	std	other				5680975	3			0
+Sound	std	other				5687994	3			0
+Sound	deviant_fall	other				5694464	3			0
+Sound	0	other				5706464	3			12000
+Sound	std	other				5713074	3			0
+Sound	std	other				5719975	3			0
+Sound	deviant_rise	other				5725854	3			0
+Sound	0	other				5737854	3			12000
+Sound	deviant_fall	other				5744814	2			0
+Sound	0	other				5756814	3			12000
+Sound	std	other				5764054	3			0
+Sound	std	other				5771097	3			0
+Sound	std	other				5778353	3			0
+Sound	std	other				5784484	3			0
+Sound	deviant_rise	other				5792273	3			0
+Sound	0	other				5804273	3			12000
+Sound	deviant_rise	other				5811894	3			0
+Sound	0	other				5823894	3			12000
+Sound	std	other				5830303	3			0
+Sound	std	other				5837054	3			0
+Sound	std	other				5844133	2			0
+Sound	std	other				5850343	3			0
+Sound	deviant_flat	other				5856844	2			0
+Sound	0	other				5868844	3			12000
+Sound	deviant_rise	other				5875544	3			0
+Sound	0	other				5887544	3			12000
+Sound	deviant_flat	other				5894313	3			0
+Sound	0	other				5906313	3			12000
+Sound	std	other				5912233	3			0
+Sound	deviant_rise	other				5919783	3			0
+Sound	0	other				5931783	3			12000
+Sound	std	other				5938923	2			0
+Sound	std	other				5945014	3			0
+Sound	std	other				5951443	3			0
+Sound	std	other				5958903	3			0
+Sound	std	other				5966183	3			0
+Sound	std	other				5973403	3			0
+Sound	std	other				5980043	3			0
+Sound	std	other				5986623	3			0
+Sound	std	other				5992933	3			0
+Sound	std	other				5999013	3			0
+Sound	std	other				6006523	3			0
+Sound	std	other				6012643	3			0
+Sound	deviant_flat	other				6020003	2			0
+Sound	0	other				6032003	3			12000
+Sound	std	other				6038013	2			0
+Sound	std	other				6044152	3			0
+Sound	std	other				6050483	3			0
+Sound	deviant_rise	other				6057743	3			0
+Sound	0	other				6069743	3			12000
+Sound	deviant_flat	other				6076734	3			0
+Sound	0	other				6088734	3			12000
+Sound	deviant_rise	other				6095962	3			0
+Sound	0	other				6107962	3			12000
+Sound	std	other				6114323	3			0
+Sound	std	other				6120293	3			0
+Sound	std	other				6126193	3			0
+Sound	deviant_fall	other				6132163	2			0
+Sound	0	other				6144163	3			12000
+Sound	std	other				6151283	3			0
+Sound	std	other				6157332	3			0
+Sound	std	other				6163542	3			0
+Sound	std	other				6170903	3			0
+Sound	deviant_rise	other				6178153	3			0
+Sound	0	other				6190153	3			12000
+Sound	deviant_fall	other				6197813	3			0
+Sound	0	other				6209813	3			12000
+Sound	std	other				6217503	3			0
+Sound	std	other				6224902	3			0
+Sound	std	other				6231613	3			0
+Sound	std	other				6237832	3			0
+Sound	std	other				6244393	3			0
+Sound	std	other				6250952	3			0
+Sound	std	other				6258613	3			0
+Sound	std	other				6264502	2			0
+Sound	std	other				6271643	3			0
+Sound	std	other				6278833	3			0
+Sound	std	other				6284972	3			0
+Sound	std	other				6290843	3			0
+Sound	std	other				6296782	3			0
+Sound	std	other				6304452	3			0
+Sound	deviant_rise	other				6310362	3			0
+Sound	0	other				6322362	3			12000
+Sound	std	other				6329212	3			0
+Sound	deviant_rise	other				6335242	4			0
+Sound	0	other				6347242	3			12000
+Sound	std	other				6353332	3			0
+Sound	std	other				6360922	3			0
+Sound	deviant_fall	other				6366862	3			0
+Sound	0	other				6378862	3			12000
+Sound	std	other				6385492	3			0
+Sound	deviant_flat	other				6392012	3			0
+Sound	0	other				6404012	3			12000
+Sound	std	other				6410512	2			0
+Sound	std	other				6418072	3			0
+Sound	deviant_flat	other				6424982	3			0
+Sound	0	other				6436982	3			12000
+Sound	std	other				6443012	3			0
+Sound	std	other				6450322	3			0
+Sound	deviant_fall	other				6456942	3			0
+Sound	0	other				6468942	3			12000
+Sound	std	other				6475462	3			0
+Sound	std	other				6481332	3			0
+Sound	std	other				6487773	3			0
+Sound	std	other				6493962	3			0
+Sound	std	other				6500372	3			0
+Sound	std	other				6507772	3			0
+Sound	std	other				6513873	2			0
+Sound	std	other				6521253	3			0
+Sound	std	other				6528322	2			0
+Sound	std	other				6534712	3			0
+Sound	std	other				6541052	2			0
+Sound	std	other				6547622	3			0
+Sound	std	other				6553802	3			0
+Sound	deviant_rise	other				6560051	3			0
+Sound	0	other				6572051	3			12000
+Sound	std	other				6579573	3			0
+Sound	deviant_flat	other				6585542	3			0
+Sound	0	other				6597542	3			12000
+Sound	std	other				6603541	3			0
+Sound	deviant_flat	other				6611003	3			0
+Sound	0	other				6623003	2			12000
+Sound	std	other				6629832	3			0
+Sound	std	other				6636012	3			0
+Sound	deviant_fall	other				6642661	3			0
+Sound	0	other				6654661	2			12000
+Sound	deviant_fall	other				6661262	3			0
+Sound	0	other				6673262	3			12000
+Sound	std	other				6679591	3			0
+Sound	std	other				6686711	3			0
+Sound	std	other				6694011	3			0
+Sound	std	other				6700502	3			0
+Sound	std	other				6707351	3			0
+Sound	std	other				6713611	3			0
+Sound	std	other				6720741	3			0
+Sound	std	other				6727841	2			0
+Sound	std	other				6735021	3			0
+Sound	std	other				6742341	3			0
+Sound	std	other				6748671	3			0
+Sound	std	other				6754571	3			0
+Sound	std	other				6761711	3			0
+Sound	deviant_rise	other				6769411	3			0
+Sound	0	other				6781411	3			12000
+Sound	std	other				6788181	3			0
+Sound	std	other				6794311	3			0
+Sound	std	other				6800491	3			0
+Sound	std	other				6807332	2			0
+Sound	deviant_flat	other				6814542	3			0
+Sound	0	other				6826542	3			12000
+Sound	std	other				6833591	3			0
+Sound	deviant_fall	other				6839862	3			0
+Sound	0	other				6851862	3			12000
+Sound	std	other				6859051	3			0
+Sound	std	other				6865471	3			0
+Sound	std	other				6872551	3			0
+Sound	std	other				6878761	2			0
+Sound	std	other				6886291	3			0
+Sound	deviant_flat	other				6892401	3			0
+Sound	0	other				6904401	3			12000
+Sound	std	other				6911791	3			0
+Sound	deviant_flat	other				6918251	3			0
+Sound	0	other				6930251	3			12000
+Sound	std	other				6936370	3			0
+Sound	deviant_flat	other				6943161	4			0
+Sound	0	other				6955161	3			12000
+Sound	deviant_flat	other				6962650	3			0
+Sound	0	other				6974650	3			12000
+Sound	std	other				6981381	3			0
+Sound	std	other				6988631	3			0
+Sound	std	other				6995290	3			0
+Sound	std	other				7001181	3			0
+Sound	std	other				7008230	3			0
+Sound	deviant_rise	other				7015881	3			0
+Sound	0	other				7027881	3			12000
+Sound	deviant_flat	other				7035281	3			0
+Sound	0	other				7047281	3			12000
+Sound	deviant_flat	other				7053441	63			0
+Sound	0	other				7065441	3			12000
+Sound	std	other				7073101	3			0
+Sound	deviant_fall	other				7080531	3			0
+Sound	0	other				7092531	3			12000
+Sound	std	other				7098350	3			0
+Sound	std	other				7105640	3			0
+Sound	std	other				7112021	3			0
+Sound	std	other				7118520	3			0
+Sound	std	other				7125400	3			0
+Sound	std	other				7132561	3			0
+Sound	deviant_rise	other				7138390	3			0
+Sound	0	other				7150390	3			12000
+Sound	std	other				7158010	3			0
+Sound	std	other				7164460	3			0
+Sound	std	other				7171490	3			0
+Sound	std	other				7179200	3			0
+Sound	std	other				7186420	3			0
+Sound	std	other				7193060	3			0
+Sound	deviant_fall	other				7198800	3			0
+Sound	0	other				7210800	3			12000
+Sound	std	other				7217440	3			0
+Sound	std	other				7223441	3			0
+Sound	std	other				7230821	2			0
+Sound	deviant_fall	other				7238300	3			0
+Sound	0	other				7250300	3			12000
+Sound	std	other				7256820	3			0
+Sound	std	other				7263560	3			0
+Sound	std	other				7271280	3			0
+Sound	deviant_rise	other				7278820	3			0
+Sound	0	other				7290820	3			12000
+Sound	deviant_rise	other				7298130	5			0
+Sound	0	other				7310130	2			12000
+Sound	deviant_rise	other				7316380	3			0
+Sound	0	other				7328380	3			12000
+Sound	std	other				7334270	3			0
+Sound	deviant_rise	other				7341240	3			0
+Sound	0	other				7353240	3			12000
+Sound	deviant_flat	other				7360430	3			0
+Sound	0	other				7372430	3			12000
+Sound	deviant_flat	other				7379899	3			0
+Sound	0	other				7391899	3			12000
+Sound	deviant_flat	other				7398240	3			0
+Sound	0	other				7410240	2			12000
+Sound	deviant_flat	other				7417229	3			0
+Sound	0	other				7429229	3			12000
+Sound	std	other				7436659	3			0
+Sound	std	other				7443990	3			0
+Sound	std	other				7451560	3			0
+Sound	std	other				7457699	3			0
+Sound	deviant_fall	other				7463840	3			0
+Sound	0	other				7475840	3			12000
+Sound	std	other				7481699	3			0
+Sound	std	other				7488909	3			0
+Sound	std	other				7496139	3			0
+Sound	deviant_rise	other				7503239	2			0
+Sound	0	other				7515239	3			12000
+Sound	deviant_fall	other				7521269	3			0
+Sound	0	other				7533269	3			12000
+Sound	std	other				7540309	3			0
+Sound	deviant_flat	other				7547940	3			0
+Sound	0	other				7559940	3			12000
+Sound	std	other				7566049	3			0
+Sound	std	other				7572579	3			0
+Sound	deviant_flat	other				7580380	3			0
+Sound	0	other				7592380	3			12000
+Sound	std	other				7599600	3			0
+Sound	std	other				7607300	3			0
+Sound	std	other				7614250	3			0
+Sound	std	other				7620131	3			0
+Sound	std	other				7627789	3			0
+Sound	std	other				7634990	3			0
+Sound	std	other				7642340	3			0
+Sound	std	other				7648289	3			0
+Sound	std	other				7656029	2			0
+Sound	std	other				7662539	3			0
+Sound	std	other				7668549	3			0
+Sound	std	other				7674489	3			0
+Sound	std	other				7682149	3			0
+Sound	deviant_flat	other				7688719	3			0
+Sound	0	other				7700719	3			12000
+Sound	deviant_rise	other				7706569	3			0
+Sound	0	other				7718569	3			12000
+Sound	deviant_fall	other				7725169	2			0
+Sound	0	other				7737169	3			12000
+Sound	std	other				7743959	2			0
+Sound	std	other				7750340	3			0
+Sound	std	other				7757199	3			0
+Sound	std	other				7763569	3			0
+Sound	std	other				7769619	3			0
+Sound	std	other				7776089	3			0
+Sound	std	other				7782700	3			0
+Sound	std	other				7789549	3			0
+Sound	std	other				7795589	3			0
+Sound	std	other				7801878	3			0
+Sound	std	other				7807709	2			0
+Sound	std	other				7814639	3			0
+Sound	std	other				7820759	3			0
+Sound	deviant_fall	other				7827939	3			0
+Sound	0	other				7839939	3			12000
+Sound	std	other				7847048	3			0
+Sound	std	other				7853928	3			0
+Sound	deviant_fall	other				7861268	3			0
+Sound	0	other				7873268	2			12000
+Sound	deviant_fall	other				7880289	3			0
+Sound	0	other				7892289	3			12000
+Sound	std	other				7899378	3			0
+Sound	std	other				7906848	3			0
+Sound	deviant_fall	other				7913869	3			0
+Sound	0	other				7925869	3			12000
+Sound	std	other				7931599	3			0
+Sound	std	other				7938299	3			0
+Sound	deviant_fall	other				7945798	3			0
+Sound	0	other				7957798	3			12000
+Sound	std	other				7963689	3			0
+Sound	std	other				7971078	3			0
+Sound	std	other				7978238	3			0
+Sound	deviant_rise	other				7985258	3			0
+Sound	0	other				7997258	3			12000
+Sound	std	other				8002978	3			0
+Sound	deviant_flat	other				8008858	3			0
+Sound	0	other				8020858	3			12000
+Sound	std	other				8026908	3			0
+Sound	deviant_flat	other				8033268	3			0
+Sound	0	other				8045268	3			12000
+Sound	deviant_rise	other				8052508	2			0
+Sound	0	other				8064508	3			12000
+Sound	std	other				8071248	3			0
+Sound	std	other				8076989	3			0
+Sound	std	other				8084478	3			0
+Sound	std	other				8091149	3			0
+Sound	std	other				8098790	3			0
+Sound	std	other				8106338	3			0
+Sound	std	other				8112358	3			0
+Sound	std	other				8119478	3			0
+Sound	std	other				8126728	2			0
+Sound	deviant_flat	other				8134397	3			0
+Sound	0	other				8146397	3			12000
+Sound	std	other				8152638	2			0
+Sound	std	other				8160358	3			0
+Sound	std	other				8167618	2			0
+Sound	std	other				8175098	3			0
+Sound	deviant_fall	other				8181358	3			0
+Sound	0	other				8193358	3			12000
+Sound	std	other				8199627	3			0
+Sound	deviant_fall	other				8206228	3			0
+Sound	0	other				8218228	3			12000
+Sound	std	other				8224078	3			0
+Sound	std	other				8231008	3			0
+Sound	std	other				8237098	3			0
+Sound	deviant_rise	other				8244478	3			0
+Sound	0	other				8256478	3			12000
+Sound	std	other				8262867	3			0
+Sound	std	other				8270367	3			0
+Sound	std	other				8276288	3			0
+Sound	std	other				8282407	3			0
+Sound	deviant_rise	other				8288538	3			0
+Sound	0	other				8300538	3			12000
+Sound	std	other				8306887	3			0
+Sound	deviant_rise	other				8314448	3			0
+Sound	0	other				8326448	3			12000
+Sound	std	other				8332557	3			0
+Sound	deviant_fall	other				8339947	3			0
+Sound	0	other				8351947	3			12000
+Sound	std	other				8358107	2			0
+Sound	std	other				8365227	3			0
+Sound	deviant_rise	other				8371747	3			0
+Sound	0	other				8383747	3			12000
+Sound	deviant_flat	other				8391317	3			0
+Sound	0	other				8403317	3			12000
+Sound	std	other				8410597	3			0
+Sound	std	other				8416888	2			0
+Sound	std	other				8422978	3			0
+Sound	std	other				8429137	3			0
+Sound	std	other				8435977	3			0
+Sound	std	other				8442887	2			0
+Sound	std	other				8448798	3			0
+Sound	std	other				8455917	3			0
+Sound	std	other				8463497	3			0
+Sound	std	other				8470147	3			0
+Sound	deviant_fall	other				8476467	3			0
+Sound	0	other				8488467	3			12000
+Sound	std	other				8495737	3			0
+Sound	std	other				8502598	3			0
+Sound	std	other				8510297	3			0
+Sound	std	other				8516376	3			0
+Sound	deviant_fall	other				8523807	3			0
+Sound	0	other				8535807	3			12000
+Sound	std	other				8543547	3			0
+Sound	std	other				8549427	3			0
+Sound	std	other				8556218	2			0
+Sound	std	other				8562097	3			0
+Sound	std	other				8568647	3			0
+Sound	std	other				8574716	3			0
+Sound	std	other				8581117	3			0
+Sound	std	other				8586928	3			0
+Sound	deviant_fall	other				8593227	3			0
+Sound	0	other				8605227	3			12000
+Sound	std	other				8612627	3			0
+Sound	std	other				8620217	3			0
+Sound	std	other				8626827	3			0
+Sound	deviant_flat	other				8634297	3			0
+Sound	0	other				8646297	3			12000
+Sound	std	other				8652117	3			0
+Sound	std	other				8658947	3			0
+Sound	deviant_flat	other				8666006	3			0
+Sound	0	other				8678006	3			12000
+Sound	std	other				8683858	3			0
+Sound	std	other				8690786	3			0
+Sound	std	other				8698276	3			0
+Sound	deviant_fall	other				8705758	6			0
+Sound	0	other				8717758	3			12000
+Sound	deviant_flat	other				8723817	3			0
+Sound	0	other				8735817	6			12000
+Sound	std	other				8743037	3			0
+Sound	std	other				8749346	3			0
+Sound	deviant_fall	other				8755266	3			0
+Sound	0	other				8767266	3			12000
+Sound	std	other				8774216	2			0
+Sound	std	other				8781317	3			0
+Sound	std	other				8788576	2			0
+Sound	std	other				8795016	3			0
+Sound	std	other				8801746	3			0
+Sound	std	other				8809156	3			0
+Sound	std	other				8815907	4			0
+Sound	std	other				8823307	2			0
+Sound	std	other				8830906	2			0
+Sound	deviant_fall	other				8838266	3			0
+Sound	0	other				8850266	3			12000
+Sound	std	other				8857816	3			0
+Sound	std	other				8865296	3			0
+Sound	std	other				8871944	3			0
+Sound	std	other				8879326	3			0
+Sound	std	other				8886166	2			0
+Sound	std	other				8893176	2			0
+Sound	deviant_rise	other				8899916	2			0
+Sound	0	other				8911916	3			12000
+Sound	std	other				8919076	3			0
+Sound	std	other				8926735	3			0
+Sound	deviant_flat	other				8932696	2			0
+Sound	0	other				8944696	2			12000
+Sound	std	other				8951466	3			0
+Sound	std	other				8957215	3			0
+Sound	std	other				8964266	3			0
+Sound	std	other				8970066	3			0
+Sound	std	other				8975986	2			0
+Sound	std	other				8983376	5			0
+Sound	std	other				8990326	2			0
+Sound	std	other				8996236	7			0
+Sound	std	other				9002555	3			0
+Sound	deviant_flat	other				9009915	3			0
+Sound	0	other				9021915	3			12000
+Sound	std	other				9029186	3			0
+Sound	std	other				9036015	3			0
+Sound	std	other				9042395	2			0
+Sound	deviant_flat	other				9049365	2			0
+Sound	0	other				9061365	3			12000
+Sound	deviant_flat	other				9068146	3			0
+Sound	0	other				9080146	2			12000
+Sound	deviant_flat	other				9087216	3			0
+Sound	0	other				9099216	3			12000
+Sound	std	other				9106636	5			0
+Sound	deviant_rise	other				9112736	3			0
+Sound	0	other				9124736	2			12000
+Sound	std	other				9131425	2			0
+Sound	std	other				9139166	2			0
+Sound	std	other				9145525	3			0
+Sound	deviant_flat	other				9151535	2			0
+Sound	0	other				9163535	3			12000
+Sound	std	other				9169775	2			0
+Sound	std	other				9176155	3			0
+Sound	deviant_flat	other				9183428	3			0
+Sound	0	other				9195428	3			12000
+Sound	std	other				9202715	3			0
+Sound	std	other				9209245	3			0
+Sound	deviant_flat	other				9215995	2			0
+Sound	0	other				9227995	3			12000
+Sound	std	other				9235675	2			0
+Sound	deviant_fall	other				9242235	2			0
+Sound	0	other				9254235	3			12000
+Sound	std	other				9260385	2			0
+Sound	std	other				9268125	2			0
+Sound	deviant_rise	other				9275215	3			0
+Sound	0	other				9287215	2			12000
+Sound	std	other				9294445	3			0
+Sound	std	other				9301745	2			0
+Sound	std	other				9308305	2			0
+Sound	std	other				9314475	2			0
+Sound	deviant_fall	other				9321145	2			0
+Sound	0	other				9333145	3			12000
+Sound	std	other				9339135	2			0
+Sound	deviant_fall	other				9346484	2			0
+Sound	0	other				9358484	3			12000
+Sound	deviant_rise	other				9364985	3			0
+Sound	0	other				9376985	5			12000
+Sound	std	other				9383304	2			0

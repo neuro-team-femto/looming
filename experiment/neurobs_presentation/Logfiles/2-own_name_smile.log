@@ -1,0 +1,2395 @@
+Scenario - Own_name
+Logfile written - 09/28/2021 18:04:43
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+2	1	Response	1	187689	187313	4
+2	2	Sound	std	192892	0	2822			0		other	0
+2	3	Sound	std	201594	0	3			0		other	0
+2	4	Sound	std	208775	0	3			0		other	0
+2	5	Sound	std	215945	0	3			0		other	0
+2	6	Sound	std	223404	0	3			0		other	0
+2	7	Sound	std	230144	0	3			0		other	0
+2	8	Sound	std	237285	0	3			0		other	0
+2	9	Sound	std	244655	0	3			0		other	0
+2	10	Sound	std	250885	0	3			0		other	0
+2	11	Sound	std	257075	0	3			0		other	0
+2	12	Sound	std	264024	0	2			0		other	0
+2	13	Sound	std	269985	0	3			0		other	0
+2	14	Sound	std	276724	0	3			0		other	0
+2	15	Sound	std	284484	0	3			0		other	0
+2	16	Sound	deviant_smile	292025	0	2			0		other	0
+2	16	Sound	0	304025	12000	3			12000		other	0
+2	17	Sound	std	311224	0	3			0		other	0
+2	18	Sound	std	317254	0	3			0		other	0
+2	19	Sound	std	324985	0	3			0		other	0
+2	20	Sound	std	331004	0	3			0		other	0
+2	21	Sound	std	337294	0	3			0		other	0
+2	22	Sound	std	343235	0	3			0		other	0
+2	23	Sound	deviant_flat	349224	0	3			0		other	0
+2	23	Sound	0	361224	12000	3			12000		other	0
+2	24	Sound	std	367485	0	3			0		other	0
+2	25	Sound	deviant_flat	373474	0	3			0		other	0
+2	25	Sound	0	385474	12000	3			12000		other	0
+2	26	Sound	std	391764	0	3			0		other	0
+2	27	Sound	std	399405	0	3			0		other	0
+2	28	Sound	std	406344	0	3			0		other	0
+2	29	Sound	std	413664	0	3			0		other	0
+2	30	Sound	std	420523	0	3			0		other	0
+2	31	Sound	deviant_flat	427794	0	3			0		other	0
+2	31	Sound	0	439794	12000	3			12000		other	0
+2	32	Sound	std	445844	0	3			0		other	0
+2	33	Sound	std	453474	0	3			0		other	0
+2	34	Sound	deviant_flat	460656	0	3			0		other	0
+2	34	Sound	0	472656	12000	3			12000		other	0
+2	35	Sound	std	479974	0	3			0		other	0
+2	36	Sound	std	487645	0	3			0		other	0
+2	37	Sound	deviant_rough	493934	0	3			0		other	0
+2	37	Sound	0	505934	12000	3			12000		other	0
+2	38	Sound	std	513204	0	3			0		other	0
+2	39	Sound	std	519045	0	3			0		other	0
+2	40	Sound	deviant_smile	525155	0	3			0		other	0
+2	40	Sound	0	537155	12000	3			12000		other	0
+2	41	Sound	std	543894	0	3			0		other	0
+2	42	Sound	std	550544	0	3			0		other	0
+2	43	Sound	std	557314	0	3			0		other	0
+2	44	Sound	std	564944	0	3			0		other	0
+2	45	Sound	deviant_rough	571225	0	2			0		other	0
+2	45	Sound	0	583225	12000	3			12000		other	0
+2	46	Sound	deviant_smile	589344	0	3			0		other	0
+2	46	Sound	0	601344	12000	3			12000		other	0
+2	47	Sound	std	608593	0	2			0		other	0
+2	48	Sound	std	614364	0	4			0		other	0
+2	49	Sound	deviant_rough	621594	0	3			0		other	0
+2	49	Sound	0	633594	12000	3			12000		other	0
+2	50	Sound	std	641245	0	3			0		other	0
+2	51	Sound	std	648834	0	3			0		other	0
+2	52	Sound	deviant_smile	656034	0	3			0		other	0
+2	52	Sound	0	668034	12000	6			12000		other	0
+2	53	Sound	std	674133	0	3			0		other	0
+2	54	Sound	std	680614	0	3			0		other	0
+2	55	Sound	std	688383	0	3			0		other	0
+2	56	Sound	std	694544	0	2			0		other	0
+2	57	Sound	std	700334	0	3			0		other	0
+2	58	Sound	deviant_smile	707734	0	3			0		other	0
+2	58	Sound	0	719734	12000	3			12000		other	0
+2	59	Sound	std	726910	0	3			0		other	0
+2	60	Sound	std	733954	0	3			0		other	0
+2	61	Sound	std	741026	0	3			0		other	0
+2	62	Sound	std	747454	0	3			0		other	0
+2	63	Sound	std	753644	0	3			0		other	0
+2	64	Sound	std	760723	0	3			0		other	0
+2	65	Sound	std	766724	0	2			0		other	0
+2	66	Sound	std	773205	0	3			0		other	0
+2	67	Sound	std	780873	0	3			0		other	0
+2	68	Sound	std	788393	0	3			0		other	0
+2	69	Sound	deviant_flat	794724	0	3			0		other	0
+2	69	Sound	0	806724	12000	3			12000		other	0
+2	70	Sound	std	813904	0	2			0		other	0
+2	71	Sound	std	819863	0	3			0		other	0
+2	72	Sound	deviant_rough	827455	0	3			0		other	0
+2	72	Sound	0	839455	12000	3			12000		other	0
+2	73	Sound	std	845904	0	3			0		other	0
+2	74	Sound	std	852744	0	3			0		other	0
+2	75	Sound	std	860474	0	3			0		other	0
+2	76	Sound	deviant_rough	867664	0	3			0		other	0
+2	76	Sound	0	879664	12000	3			12000		other	0
+2	77	Sound	std	887374	0	3			0		other	0
+2	78	Sound	std	893564	0	3			0		other	0
+2	79	Sound	std	900234	0	3			0		other	0
+2	80	Sound	deviant_rough	907324	0	3			0		other	0
+2	80	Sound	0	919324	12000	3			12000		other	0
+2	81	Sound	std	926934	0	3			0		other	0
+2	82	Sound	std	933594	0	3			0		other	0
+2	83	Sound	deviant_smile	939394	0	2			0		other	0
+2	83	Sound	0	951394	12000	3			12000		other	0
+2	84	Sound	std	958004	0	3			0		other	0
+2	85	Sound	std	964644	0	3			0		other	0
+2	86	Sound	std	971064	0	2			0		other	0
+2	87	Sound	std	977873	0	3			0		other	0
+2	88	Sound	deviant_smile	984633	0	3			0		other	0
+2	88	Sound	0	996633	12000	4			12000		other	0
+2	89	Sound	std	1003993	0	3			0		other	0
+2	90	Sound	std	1011068	0	6			0		other	0
+2	91	Sound	std	1017394	0	3			0		other	0
+2	92	Sound	std	1024734	0	48			0		other	0
+2	93	Sound	std	1030944	0	3			0		other	0
+2	94	Sound	std	1036963	0	3			0		other	0
+2	95	Sound	std	1043603	0	2			0		other	0
+2	96	Sound	std	1049374	0	3			0		other	0
+2	97	Sound	std	1056703	0	2			0		other	0
+2	98	Sound	std	1063624	0	2			0		other	0
+2	99	Sound	std	1070493	0	3			0		other	0
+2	100	Sound	std	1078026	0	3			0		other	0
+2	101	Sound	std	1084913	0	2			0		other	0
+2	102	Sound	deviant_smile	1092223	0	2			0		other	0
+2	102	Sound	0	1104223	12000	3			12000		other	0
+2	103	Sound	deviant_smile	1111363	0	3			0		other	0
+2	103	Sound	0	1123363	12000	3			12000		other	0
+2	104	Sound	deviant_rough	1131054	0	2			0		other	0
+2	104	Sound	0	1143054	12000	2			12000		other	0
+2	105	Sound	deviant_flat	1150253	0	4			0		other	0
+2	105	Sound	0	1162253	12000	2			12000		other	0
+2	106	Sound	std	1168033	0	3			0		other	0
+2	107	Sound	std	1175632	0	2			0		other	0
+2	108	Sound	deviant_rough	1181843	0	3			0		other	0
+2	108	Sound	0	1193843	12000	3			12000		other	0
+2	109	Sound	std	1200803	0	3			0		other	0
+2	110	Sound	std	1208213	0	3			0		other	0
+2	111	Sound	std	1215913	0	3			0		other	0
+2	112	Sound	std	1222813	0	3			0		other	0
+2	113	Sound	std	1229412	0	4			0		other	0
+2	114	Sound	deviant_flat	1235503	0	2			0		other	0
+2	114	Sound	0	1247503	12000	4			12000		other	0
+2	115	Sound	deviant_smile	1254433	0	3			0		other	0
+2	115	Sound	0	1266433	12000	3			12000		other	0
+2	116	Sound	std	1273904	0	3			0		other	0
+2	117	Sound	std	1279893	0	3			0		other	0
+2	118	Sound	std	1285893	0	3			0		other	0
+2	119	Sound	std	1292653	0	2			0		other	0
+2	120	Sound	std	1299482	0	4			0		other	0
+2	121	Sound	std	1307114	0	3			0		other	0
+2	122	Sound	std	1313423	0	3			0		other	0
+2	123	Sound	deviant_smile	1320503	0	2			0		other	0
+2	123	Sound	0	1332503	12000	3			12000		other	0
+2	124	Sound	deviant_rough	1338492	0	2			0		other	0
+2	124	Sound	0	1350492	12000	3			12000		other	0
+2	125	Sound	std	1357683	0	2			0		other	0
+2	126	Sound	std	1363583	0	2			0		other	0
+2	127	Sound	std	1369373	0	3			0		other	0
+2	128	Sound	std	1375663	0	3			0		other	0
+2	129	Sound	std	1382073	0	3			0		other	0
+2	130	Sound	std	1388393	0	2			0		other	0
+2	131	Sound	std	1394663	0	3			0		other	0
+2	132	Sound	std	1401812	0	2			0		other	0
+2	133	Sound	std	1408372	0	2			0		other	0
+2	134	Sound	std	1415883	0	3			0		other	0
+2	135	Sound	std	1421733	0	3			0		other	0
+2	136	Sound	std	1427732	0	2			0		other	0
+2	137	Sound	deviant_smile	1434133	0	3			0		other	0
+2	137	Sound	0	1446133	12000	2			12000		other	0
+2	138	Sound	std	1452542	0	2			0		other	0
+2	139	Sound	std	1459423	0	2			0		other	0
+2	140	Sound	std	1465272	0	3			0		other	0
+2	141	Sound	deviant_flat	1471842	0	3			0		other	0
+2	141	Sound	0	1483842	12000	3			12000		other	0
+2	142	Sound	std	1491432	0	2			0		other	0
+2	143	Sound	std	1498623	0	2			0		other	0
+2	144	Sound	deviant_flat	1504802	0	3			0		other	0
+2	144	Sound	0	1516802	12000	3			12000		other	0
+2	145	Sound	deviant_rough	1524024	0	3			0		other	0
+2	145	Sound	0	1536024	12000	3			12000		other	0
+2	146	Sound	std	1542133	0	3			0		other	0
+2	147	Sound	deviant_flat	1548443	0	3			0		other	0
+2	147	Sound	0	1560443	12000	3			12000		other	0
+2	148	Sound	std	1567583	0	3			0		other	0
+2	149	Sound	std	1574713	0	2			0		other	0
+2	150	Sound	deviant_smile	1581253	0	3			0		other	0
+2	150	Sound	0	1593253	12000	3			12000		other	0
+2	151	Sound	deviant_rough	1600003	0	3			0		other	0
+2	151	Sound	0	1612003	12000	3			12000		other	0
+2	152	Sound	deviant_smile	1618893	0	3			0		other	0
+2	152	Sound	0	1630893	12000	3			12000		other	0
+2	153	Sound	deviant_smile	1637423	0	3			0		other	0
+2	153	Sound	0	1649423	12000	3			12000		other	0
+2	154	Sound	std	1656712	0	4			0		other	0
+2	155	Sound	deviant_flat	1662922	0	3			0		other	0
+2	155	Sound	0	1674922	12000	3			12000		other	0
+2	156	Sound	std	1681632	0	3			0		other	0
+2	157	Sound	deviant_smile	1688502	0	3			0		other	0
+2	157	Sound	0	1700502	12000	3			12000		other	0
+2	158	Sound	std	1707622	0	3			0		other	0
+2	159	Sound	std	1714253	0	3			0		other	0
+2	160	Sound	std	1721953	0	2			0		other	0
+2	161	Sound	deviant_flat	1728972	0	3			0		other	0
+2	161	Sound	0	1740972	12000	3			12000		other	0
+2	162	Sound	std	1747192	0	4			0		other	0
+2	163	Sound	deviant_rough	1754862	0	3			0		other	0
+2	163	Sound	0	1766862	12000	3			12000		other	0
+2	164	Sound	std	1773962	0	3			0		other	0
+2	165	Sound	deviant_rough	1780924	0	2			0		other	0
+2	165	Sound	0	1792924	12000	3			12000		other	0
+2	166	Sound	std	1800562	0	2			0		other	0
+2	167	Sound	deviant_flat	1806441	0	2			0		other	0
+2	167	Sound	0	1818441	12000	3			12000		other	0
+2	168	Sound	std	1825083	0	3			0		other	0
+2	169	Sound	std	1831563	0	3			0		other	0
+2	170	Sound	std	1837893	0	3			0		other	0
+2	171	Sound	deviant_smile	1845023	0	3			0		other	0
+2	171	Sound	0	1857023	12000	2			12000		other	0
+2	172	Sound	std	1864672	0	3			0		other	0
+2	173	Sound	std	1872313	0	3			0		other	0
+2	174	Sound	deviant_smile	1879122	0	3			0		other	0
+2	174	Sound	0	1891122	12000	2			12000		other	0
+2	175	Sound	std	1897132	0	3			0		other	0
+2	176	Sound	deviant_rough	1904372	0	3			0		other	0
+2	176	Sound	0	1916372	12000	3			12000		other	0
+2	177	Sound	std	1923862	0	3			0		other	0
+2	178	Sound	deviant_rough	1930923	0	3			0		other	0
+2	178	Sound	0	1942923	12000	3			12000		other	0
+2	179	Sound	deviant_smile	1949123	0	2			0		other	0
+2	179	Sound	0	1961123	12000	3			12000		other	0
+2	180	Sound	std	1967371	0	2			0		other	0
+2	181	Sound	std	1974963	0	3			0		other	0
+2	182	Sound	std	1980792	0	2			0		other	0
+2	183	Sound	deviant_flat	1986682	0	3			0		other	0
+2	183	Sound	0	1998682	12000	2			12000		other	0
+2	184	Sound	deviant_rough	2006142	0	3			0		other	0
+2	184	Sound	0	2018142	12000	2			12000		other	0
+2	185	Sound	std	2025613	0	3			0		other	0
+2	186	Sound	std	2032302	0	3			0		other	0
+2	187	Sound	std	2038882	0	3			0		other	0
+2	188	Sound	std	2046243	0	3			0		other	0
+2	189	Sound	std	2053883	0	3			0		other	0
+2	190	Sound	std	2060352	0	3			0		other	0
+2	191	Sound	std	2067752	0	3			0		other	0
+2	192	Sound	std	2074192	0	2			0		other	0
+2	193	Sound	std	2081733	0	3			0		other	0
+2	194	Sound	deviant_rough	2088213	0	3			0		other	0
+2	194	Sound	0	2100213	12000	3			12000		other	0
+2	195	Sound	deviant_rough	2106433	0	3			0		other	0
+2	195	Sound	0	2118433	12000	3			12000		other	0
+2	196	Sound	std	2124811	0	2			0		other	0
+2	197	Sound	deviant_smile	2131313	0	2			0		other	0
+2	197	Sound	0	2143313	12000	3			12000		other	0
+2	198	Sound	std	2150632	0	3			0		other	0
+2	199	Sound	std	2157672	0	3			0		other	0
+2	200	Sound	std	2165052	0	2			0		other	0
+2	201	Sound	std	2171683	0	3			0		other	0
+2	202	Sound	deviant_rough	2177793	0	2			0		other	0
+2	202	Sound	0	2189793	12000	2			12000		other	0
+2	203	Sound	std	2197362	0	3			0		other	0
+2	204	Sound	std	2205012	0	3			0		other	0
+2	205	Sound	std	2212052	0	3			0		other	0
+2	206	Sound	deviant_rough	2219678	0	41			0		other	0
+2	206	Sound	0	2231678	12000	3			12000		other	0
+2	207	Sound	std	2238522	0	3			0		other	0
+2	208	Sound	std	2244912	0	3			0		other	0
+2	209	Sound	deviant_smile	2252082	0	3			0		other	0
+2	209	Sound	0	2264082	12000	3			12000		other	0
+2	210	Sound	std	2271062	0	3			0		other	0
+2	211	Sound	deviant_rough	2277572	0	3			0		other	0
+2	211	Sound	0	2289572	12000	3			12000		other	0
+2	212	Sound	std	2296642	0	3			0		other	0
+2	213	Sound	std	2303742	0	3			0		other	0
+2	214	Sound	std	2309792	0	2			0		other	0
+2	215	Sound	deviant_rough	2315812	0	3			0		other	0
+2	215	Sound	0	2327812	12000	3			12000		other	0
+2	216	Sound	std	2334892	0	3			0		other	0
+2	217	Sound	std	2341942	0	3			0		other	0
+2	218	Sound	std	2347801	0	2			0		other	0
+2	219	Sound	std	2355031	0	3			0		other	0
+2	220	Sound	std	2362622	0	3			0		other	0
+2	221	Sound	std	2369552	0	3			0		other	0
+2	222	Sound	std	2377252	0	3			0		other	0
+2	223	Sound	std	2384872	0	3			0		other	0
+2	224	Sound	deviant_rough	2392541	0	3			0		other	0
+2	224	Sound	0	2404541	12000	2			12000		other	0
+2	225	Sound	std	2410431	0	3			0		other	0
+2	226	Sound	std	2417851	0	2			0		other	0
+2	227	Sound	std	2424402	0	3			0		other	0
+2	228	Sound	std	2431412	0	3			0		other	0
+2	229	Sound	std	2437761	0	4			0		other	0
+2	230	Sound	std	2444182	0	4			0		other	0
+2	231	Sound	deviant_smile	2451161	0	2			0		other	0
+2	231	Sound	0	2463165	12004	7			12000		other	0
+2	232	Sound	std	2469062	0	3			0		other	0
+2	233	Sound	std	2475312	0	4			0		other	0
+2	234	Sound	std	2481812	0	2			0		other	0
+2	235	Sound	std	2488061	0	3			0		other	0
+2	236	Sound	std	2494261	0	4			0		other	0
+2	237	Sound	std	2500773	0	3			0		other	0
+2	238	Sound	std	2508171	0	3			0		other	0
+2	239	Sound	std	2515091	0	3			0		other	0
+2	240	Sound	std	2521731	0	3			0		other	0
+2	241	Sound	std	2528791	0	3			0		other	0
+2	242	Sound	std	2534831	0	3			0		other	0
+2	243	Sound	std	2541261	0	3			0		other	0
+2	244	Sound	std	2547292	0	3			0		other	0
+2	245	Sound	std	2554522	0	3			0		other	0
+2	246	Sound	std	2561802	0	3			0		other	0
+2	247	Sound	deviant_smile	2567961	0	3			0		other	0
+2	247	Sound	0	2579961	12000	3			12000		other	0
+2	248	Sound	std	2586883	0	3			0		other	0
+2	249	Sound	std	2593563	0	3			0		other	0
+2	250	Sound	std	2599462	0	3			0		other	0
+2	251	Sound	std	2607002	0	3			0		other	0
+2	252	Sound	std	2613321	0	3			0		other	0
+2	253	Sound	std	2620422	0	3			0		other	0
+2	254	Sound	std	2626372	0	3			0		other	0
+2	255	Sound	std	2632732	0	3			0		other	0
+2	256	Sound	std	2640242	0	3			0		other	0
+2	257	Sound	std	2646911	0	3			0		other	0
+2	258	Sound	std	2654132	0	3			0		other	0
+2	259	Sound	std	2660531	0	2			0		other	0
+2	260	Sound	std	2667391	0	2			0		other	0
+2	261	Sound	std	2673552	0	3			0		other	0
+2	262	Sound	std	2679831	0	3			0		other	0
+2	263	Sound	std	2687351	0	3			0		other	0
+2	264	Sound	std	2693742	0	3			0		other	0
+2	265	Sound	deviant_rough	2699781	0	8			0		other	0
+2	265	Sound	0	2711781	12000	2			12000		other	0
+2	266	Sound	deviant_flat	2719321	0	3			0		other	0
+2	266	Sound	0	2731321	12000	3			12000		other	0
+2	267	Sound	std	2738922	0	2			0		other	0
+2	268	Sound	deviant_flat	2746422	0	2			0		other	0
+2	268	Sound	0	2758422	12000	3			12000		other	0
+2	269	Sound	deviant_smile	2765881	0	3			0		other	0
+2	269	Sound	0	2777881	12000	2			12000		other	0
+2	270	Sound	std	2785061	0	2			0		other	0
+2	271	Sound	std	2792360	0	2			0		other	0
+2	272	Sound	std	2799941	0	3			0		other	0
+2	273	Sound	std	2807531	0	3			0		other	0
+2	274	Sound	std	2814671	0	3			0		other	0
+2	275	Sound	std	2820821	0	3			0		other	0
+2	276	Sound	std	2827571	0	3			0		other	0
+2	277	Sound	deviant_rough	2834691	0	3			0		other	0
+2	277	Sound	0	2846691	12000	3			12000		other	0
+2	278	Sound	std	2854101	0	2			0		other	0
+2	279	Sound	deviant_smile	2861601	0	3			0		other	0
+2	279	Sound	0	2873601	12000	3			12000		other	0
+2	280	Sound	std	2879321	0	3			0		other	0
+2	281	Sound	std	2885801	0	3			0		other	0
+2	282	Sound	std	2893471	0	3			0		other	0
+2	283	Sound	std	2899551	0	3			0		other	0
+2	284	Sound	deviant_smile	2906371	0	3			0		other	0
+2	284	Sound	0	2918371	12000	3			12000		other	0
+2	285	Sound	deviant_rough	2924371	0	3			0		other	0
+2	285	Sound	0	2936371	12000	3			12000		other	0
+2	286	Sound	std	2943671	0	4			0		other	0
+2	287	Sound	std	2949941	0	2			0		other	0
+2	288	Sound	std	2955940	0	2			0		other	0
+2	289	Sound	std	2963001	0	3			0		other	0
+2	290	Sound	std	2970452	0	3			0		other	0
+2	291	Sound	std	2977321	0	3			0		other	0
+2	292	Sound	deviant_flat	2984051	0	3			0		other	0
+2	292	Sound	0	2996051	12000	3			12000		other	0
+2	293	Sound	std	3003650	0	2			0		other	0
+2	294	Sound	deviant_rough	3011340	0	2			0		other	0
+2	294	Sound	0	3023340	12000	3			12000		other	0
+2	295	Sound	std	3029852	0	3			0		other	0
+2	296	Sound	std	3036981	0	3			0		other	0
+2	297	Sound	std	3044321	0	3			0		other	0
+2	298	Sound	deviant_flat	3052030	0	3			0		other	0
+2	298	Sound	0	3064030	12000	3			12000		other	0
+2	299	Sound	deviant_smile	3070241	0	4			0		other	0
+2	299	Sound	0	3082241	12000	3			12000		other	0
+2	300	Sound	std	3088411	0	2			0		other	0
+2	301	Sound	deviant_rough	3095651	0	3			0		other	0
+2	301	Sound	0	3107651	12000	3			12000		other	0
+2	302	Sound	std	3113881	0	3			0		other	0
+2	303	Sound	std	3119981	0	3			0		other	0
+2	304	Sound	deviant_rough	3126671	0	3			0		other	0
+2	304	Sound	0	3138671	12000	2			12000		other	0
+2	305	Sound	deviant_flat	3145000	0	4			0		other	0
+2	305	Sound	0	3157000	12000	3			12000		other	0
+2	306	Sound	std	3162740	0	2			0		other	0
+2	307	Sound	std	3168910	0	3			0		other	0
+2	308	Sound	deviant_rough	3174891	0	3			0		other	0
+2	308	Sound	0	3186891	12000	3			12000		other	0
+2	309	Sound	std	3192950	0	3			0		other	0
+2	310	Sound	std	3200411	0	3			0		other	0
+2	311	Sound	deviant_rough	3208210	0	3			0		other	0
+2	311	Sound	0	3220210	12000	3			12000		other	0
+2	312	Sound	deviant_smile	3227380	0	3			0		other	0
+2	312	Sound	0	3239380	12000	3			12000		other	0
+2	313	Sound	deviant_rough	3246881	0	3			0		other	0
+2	313	Sound	0	3258881	12000	3			12000		other	0
+2	314	Sound	std	3265870	0	3			0		other	0
+2	315	Sound	deviant_flat	3273451	0	3			0		other	0
+2	315	Sound	0	3285451	12000	2			12000		other	0
+2	316	Sound	std	3292720	0	3			0		other	0
+2	317	Sound	deviant_rough	3298770	0	3			0		other	0
+2	317	Sound	0	3310770	12000	3			12000		other	0
+2	318	Sound	std	3316761	0	3			0		other	0
+2	319	Sound	std	3323700	0	3			0		other	0
+2	320	Sound	std	3330750	0	2			0		other	0
+2	321	Sound	std	3337871	0	3			0		other	0
+2	322	Sound	std	3345451	0	3			0		other	0
+2	323	Sound	std	3352810	0	4			0		other	0
+2	324	Sound	std	3359680	0	3			0		other	0
+2	325	Sound	std	3366361	0	3			0		other	0
+2	326	Sound	std	3374071	0	3			0		other	0
+2	327	Sound	std	3381180	0	3			0		other	0
+2	328	Sound	std	3388890	0	3			0		other	0
+2	329	Sound	deviant_smile	3395440	0	3			0		other	0
+2	329	Sound	0	3407440	12000	3			12000		other	0
+2	330	Sound	deviant_smile	3414361	0	3			0		other	0
+2	330	Sound	0	3426361	12000	3			12000		other	0
+2	331	Sound	std	3432150	0	3			0		other	0
+2	332	Sound	std	3439200	0	2			0		other	0
+2	333	Sound	std	3446250	0	3			0		other	0
+2	334	Sound	std	3453690	0	3			0		other	0
+2	335	Sound	std	3459600	0	3			0		other	0
+2	336	Sound	std	3466420	0	3			0		other	0
+2	337	Sound	std	3472601	0	3			0		other	0
+2	338	Sound	std	3479451	0	3			0		other	0
+2	339	Sound	std	3487171	0	2			0		other	0
+2	340	Sound	std	3494180	0	3			0		other	0
+2	341	Sound	deviant_flat	3501870	0	2			0		other	0
+2	341	Sound	0	3513870	12000	2			12000		other	0
+2	342	Sound	std	3521238	0	3			0		other	0
+2	343	Sound	deviant_rough	3527750	0	3			0		other	0
+2	343	Sound	0	3539750	12000	2			12000		other	0
+2	344	Sound	deviant_flat	3546670	0	3			0		other	0
+2	344	Sound	0	3558670	12000	3			12000		other	0
+2	345	Sound	std	3564570	0	3			0		other	0
+2	346	Sound	deviant_smile	3571461	0	3			0		other	0
+2	346	Sound	0	3583461	12000	3			12000		other	0
+2	347	Sound	std	3589870	0	3			0		other	0
+2	348	Sound	std	3597471	0	3			0		other	0
+2	349	Sound	std	3604090	0	3			0		other	0
+2	350	Sound	std	3609871	0	3			0		other	0
+2	351	Sound	std	3616140	0	3			0		other	0
+2	352	Sound	std	3623899	0	3			0		other	0
+2	353	Sound	deviant_flat	3631100	0	3			0		other	0
+2	353	Sound	0	3643100	12000	3			12000		other	0
+2	354	Sound	std	3649849	0	3			0		other	0
+2	355	Sound	std	3656950	0	3			0		other	0
+2	356	Sound	std	3664691	0	2			0		other	0
+2	357	Sound	deviant_rough	3671900	0	3			0		other	0
+2	357	Sound	0	3683900	12000	3			12000		other	0
+2	358	Sound	deviant_flat	3690919	0	3			0		other	0
+2	358	Sound	0	3702919	12000	3			12000		other	0
+2	359	Sound	std	3710660	0	3			0		other	0
+2	360	Sound	deviant_smile	3718400	0	2			0		other	0
+2	360	Sound	0	3730400	12000	2			12000		other	0
+2	361	Sound	std	3737910	0	3			0		other	0
+2	362	Sound	deviant_flat	3744300	0	3			0		other	0
+2	362	Sound	0	3756300	12000	2			12000		other	0
+2	363	Sound	deviant_flat	3762560	0	3			0		other	0
+2	363	Sound	0	3774560	12000	2			12000		other	0
+2	364	Sound	deviant_smile	3780749	0	3			0		other	0
+2	364	Sound	0	3792749	12000	3			12000		other	0
+2	365	Sound	std	3799010	0	3			0		other	0
+2	366	Sound	deviant_smile	3805480	0	2			0		other	0
+2	366	Sound	0	3817480	12000	2			12000		other	0
+2	367	Sound	std	3823640	0	3			0		other	0
+2	368	Sound	std	3831139	0	2			0		other	0
+2	369	Sound	std	3838169	0	2			0		other	0
+2	370	Sound	std	3844540	0	3			0		other	0
+2	371	Sound	std	3851600	0	3			0		other	0
+2	372	Sound	std	3859010	0	3			0		other	0
+2	373	Sound	std	3866330	0	3			0		other	0
+2	374	Sound	std	3873010	0	3			0		other	0
+2	375	Sound	std	3880080	0	3			0		other	0
+2	376	Sound	deviant_rough	3886370	0	3			0		other	0
+2	376	Sound	0	3898370	12000	3			12000		other	0
+2	377	Sound	deviant_flat	3905990	0	3			0		other	0
+2	377	Sound	0	3917990	12000	3			12000		other	0
+2	378	Sound	std	3924930	0	3			0		other	0
+2	379	Sound	deviant_flat	3930890	0	3			0		other	0
+2	379	Sound	0	3942890	12000	3			12000		other	0
+2	380	Sound	deviant_rough	3950190	0	3			0		other	0
+2	380	Sound	0	3962190	12000	3			12000		other	0
+2	381	Sound	std	3969220	0	3			0		other	0
+2	382	Sound	std	3975860	0	3			0		other	0
+2	383	Sound	std	3983521	0	3			0		other	0
+2	384	Sound	std	3990080	0	3			0		other	0
+2	385	Sound	std	3997149	0	4			0		other	0
+2	386	Sound	std	4003220	0	3			0		other	0
+2	387	Sound	std	4009180	0	3			0		other	0
+2	388	Sound	std	4015211	0	3			0		other	0
+2	389	Sound	std	4023009	0	3			0		other	0
+2	390	Sound	std	4029350	0	3			0		other	0
+2	391	Sound	std	4035519	0	4			0		other	0
+2	392	Sound	std	4041461	0	2			0		other	0
+2	393	Sound	deviant_rough	4048180	0	3			0		other	0
+2	393	Sound	0	4060180	12000	2			12000		other	0
+2	394	Sound	std	4066110	0	3			0		other	0
+2	395	Sound	std	4073649	0	3			0		other	0
+2	396	Sound	std	4081270	0	2			0		other	0
+2	397	Sound	deviant_rough	4088010	0	2			0		other	0
+2	397	Sound	0	4100010	12000	3			12000		other	0
+2	398	Sound	std	4107349	0	3			0		other	0
+2	399	Sound	std	4114679	0	4			0		other	0
+2	400	Sound	std	4121300	0	3			0		other	0
+2	401	Sound	std	4128699	0	2			0		other	0
+2	402	Sound	std	4135649	0	2			0		other	0
+2	403	Sound	deviant_smile	4142010	0	3			0		other	0
+2	403	Sound	0	4154010	12000	2			12000		other	0
+2	404	Sound	std	4159710	0	3			0		other	0
+2	405	Sound	std	4165830	0	3			0		other	0
+2	406	Sound	std	4172870	0	3			0		other	0
+2	407	Sound	std	4178760	0	3			0		other	0
+2	408	Sound	std	4185369	0	3			0		other	0
+2	409	Sound	std	4192929	0	3			0		other	0
+2	410	Sound	std	4199879	0	3			0		other	0
+2	411	Sound	std	4206039	0	3			0		other	0
+2	412	Sound	std	4213599	0	3			0		other	0
+2	413	Sound	std	4219319	0	2			0		other	0
+2	414	Sound	std	4226949	0	3			0		other	0
+2	415	Sound	std	4234239	0	3			0		other	0
+2	416	Sound	std	4241690	0	3			0		other	0
+2	417	Sound	std	4249090	0	3			0		other	0
+2	418	Sound	std	4256550	0	3			0		other	0
+2	419	Sound	std	4264010	0	3			0		other	0
+2	420	Sound	deviant_flat	4270770	0	3			0		other	0
+2	420	Sound	0	4282770	12000	3			12000		other	0
+2	421	Sound	std	4289610	0	3			0		other	0
+2	422	Sound	std	4297250	0	3			0		other	0
+2	423	Sound	std	4304440	0	3			0		other	0
+2	424	Sound	std	4311040	0	3			0		other	0
+2	425	Sound	std	4317630	0	3			0		other	0
+2	426	Sound	std	4323549	0	3			0		other	0
+2	427	Sound	deviant_flat	4329629	0	2			0		other	0
+2	427	Sound	0	4341629	12000	3			12000		other	0
+2	428	Sound	deviant_rough	4349259	0	3			0		other	0
+2	428	Sound	0	4361259	12000	3			12000		other	0
+2	429	Sound	std	4368129	0	3			0		other	0
+2	430	Sound	deviant_flat	4374971	0	3			0		other	0
+2	430	Sound	0	4386971	12000	3			12000		other	0
+2	431	Sound	std	4393630	0	3			0		other	0
+2	432	Sound	std	4400829	0	3			0		other	0
+2	433	Sound	std	4407430	0	3			0		other	0
+2	434	Sound	deviant_smile	4413319	0	3			0		other	0
+2	434	Sound	0	4425319	12000	3			12000		other	0
+2	435	Sound	std	4432850	0	3			0		other	0
+2	436	Sound	deviant_flat	4439519	0	3			0		other	0
+2	436	Sound	0	4451519	12000	3			12000		other	0
+2	437	Sound	deviant_flat	4458169	0	2			0		other	0
+2	437	Sound	0	4470169	12000	2			12000		other	0
+2	438	Sound	deviant_flat	4475999	0	2			0		other	0
+2	438	Sound	0	4487999	12000	3			12000		other	0
+2	439	Sound	std	4493709	0	3			0		other	0
+2	440	Sound	std	4499679	0	3			0		other	0
+2	441	Sound	std	4506939	0	3			0		other	0
+2	442	Sound	deviant_smile	4512909	0	4			0		other	0
+2	442	Sound	0	4524909	12000	3			12000		other	0
+2	443	Sound	std	4530979	0	3			0		other	0
+2	444	Sound	deviant_smile	4536929	0	3			0		other	0
+2	444	Sound	0	4548929	12000	3			12000		other	0
+2	445	Sound	std	4556309	0	4			0		other	0
+2	446	Sound	std	4562189	0	3			0		other	0
+2	447	Sound	std	4568039	0	2			0		other	0
+2	448	Sound	deviant_rough	4575208	0	3			0		other	0
+2	448	Sound	0	4587208	12000	2			12000		other	0
+2	449	Sound	std	4593529	0	3			0		other	0
+2	450	Sound	std	4600519	0	3			0		other	0
+2	451	Sound	std	4606908	0	3			0		other	0
+2	452	Sound	std	4614409	0	2			0		other	0
+2	453	Sound	std	4620359	0	3			0		other	0
+2	454	Sound	std	4626829	0	3			0		other	0
+2	455	Sound	deviant_rough	4632889	0	3			0		other	0
+2	455	Sound	0	4644889	12000	3			12000		other	0
+2	456	Sound	std	4652099	0	3			0		other	0
+2	457	Sound	std	4658101	0	3			0		other	0
+2	458	Sound	std	4665509	0	3			0		other	0
+2	459	Sound	std	4672059	0	3			0		other	0
+2	460	Sound	std	4678830	0	2			0		other	0
+2	461	Sound	deviant_smile	4686529	0	3			0		other	0
+2	461	Sound	0	4698529	12000	3			12000		other	0
+2	462	Sound	std	4706109	0	3			0		other	0
+2	463	Sound	std	4713689	0	3			0		other	0
+2	464	Sound	std	4719449	0	3			0		other	0
+2	465	Sound	deviant_flat	4726969	0	3			0		other	0
+2	465	Sound	0	4738969	12000	3			12000		other	0
+2	466	Sound	std	4744710	0	3			0		other	0
+2	467	Sound	deviant_flat	4750589	0	3			0		other	0
+2	467	Sound	0	4762589	12000	3			12000		other	0
+2	468	Sound	deviant_smile	4768519	0	3			0		other	0
+2	468	Sound	0	4780519	12000	3			12000		other	0
+2	469	Sound	std	4787749	0	3			0		other	0
+2	470	Sound	std	4794959	0	3			0		other	0
+2	471	Sound	std	4801099	0	3			0		other	0
+2	472	Sound	std	4807959	0	3			0		other	0
+2	473	Sound	deviant_rough	4814049	0	3			0		other	0
+2	473	Sound	0	4826049	12000	3			12000		other	0
+2	474	Sound	std	4832119	0	3			0		other	0
+2	475	Sound	deviant_smile	4838159	0	3			0		other	0
+2	475	Sound	0	4850159	12000	3			12000		other	0
+2	476	Sound	std	4857018	0	3			0		other	0
+2	477	Sound	std	4863538	0	3			0		other	0
+2	478	Sound	std	4870329	0	3			0		other	0
+2	479	Sound	std	4877358	0	3			0		other	0
+2	480	Sound	std	4885089	0	3			0		other	0
+2	481	Sound	std	4891559	0	3			0		other	0
+2	482	Sound	std	4897359	0	3			0		other	0
+2	483	Sound	std	4904119	0	3			0		other	0
+2	484	Sound	std	4909929	0	3			0		other	0
+2	485	Sound	std	4916558	0	3			0		other	0
+2	486	Sound	std	4923879	0	3			0		other	0
+2	487	Sound	std	4930639	0	3			0		other	0
+2	488	Sound	deviant_flat	4937061	0	3			0		other	0
+2	488	Sound	0	4949061	12000	3			12000		other	0
+2	489	Sound	std	4955868	0	3			0		other	0
+2	490	Sound	std	4962858	0	3			0		other	0
+2	491	Sound	std	4969579	0	3			0		other	0
+2	492	Sound	std	4975549	0	3			0		other	0
+2	493	Sound	std	4981868	0	3			0		other	0
+2	494	Sound	std	4989419	0	3			0		other	0
+2	495	Sound	std	4995398	0	3			0		other	0
+2	496	Sound	std	5001358	0	3			0		other	0
+2	497	Sound	std	5008059	0	3			0		other	0
+2	498	Sound	std	5015459	0	3			0		other	0
+2	499	Sound	std	5021519	0	3			0		other	0
+2	500	Sound	deviant_flat	5028529	0	3			0		other	0
+2	500	Sound	0	5040529	12000	3			12000		other	0
+2	501	Sound	std	5046309	0	3			0		other	0
+2	502	Sound	deviant_rough	5052335	0	3			0		other	0
+2	502	Sound	0	5064335	12000	3			12000		other	0
+2	503	Sound	deviant_flat	5070648	0	3			0		other	0
+2	503	Sound	0	5082648	12000	3			12000		other	0
+2	504	Sound	std	5089028	0	2			0		other	0
+2	505	Sound	std	5095968	0	3			0		other	0
+2	506	Sound	std	5102079	0	3			0		other	0
+2	507	Sound	deviant_flat	5108770	0	2			0		other	0
+2	507	Sound	0	5120770	12000	3			12000		other	0
+2	508	Sound	std	5128008	0	3			0		other	0
+2	509	Sound	std	5135738	0	3			0		other	0
+2	510	Sound	deviant_flat	5142649	0	3			0		other	0
+2	510	Sound	0	5154649	12000	3			12000		other	0
+2	511	Sound	std	5162178	0	3			0		other	0
+2	512	Sound	std	5168759	0	3			0		other	0
+2	513	Sound	deviant_smile	5176258	0	3			0		other	0
+2	513	Sound	0	5188258	12000	3			12000		other	0
+2	514	Sound	std	5194229	0	3			0		other	0
+2	515	Sound	std	5200379	0	3			0		other	0
+2	516	Sound	std	5207958	0	3			0		other	0
+2	517	Sound	deviant_rough	5213959	0	2			0		other	0
+2	517	Sound	0	5225959	12000	2			12000		other	0
+2	518	Sound	std	5232578	0	3			0		other	0
+2	519	Sound	std	5239498	0	3			0		other	0
+2	520	Sound	deviant_flat	5246358	0	3			0		other	0
+2	520	Sound	0	5258358	12000	3			12000		other	0
+2	521	Sound	std	5264218	0	3			0		other	0
+2	522	Sound	std	5270789	0	2			0		other	0
+2	523	Sound	std	5278428	0	3			0		other	0
+2	524	Sound	std	5285788	0	4			0		other	0
+2	525	Sound	deviant_smile	5292148	0	2			0		other	0
+2	525	Sound	0	5304148	12000	3			12000		other	0
+2	526	Sound	std	5311469	0	3			0		other	0
+2	527	Sound	std	5318288	0	3			0		other	0
+2	528	Sound	std	5324209	0	2			0		other	0
+2	529	Sound	std	5330660	0	3			0		other	0
+2	530	Sound	std	5337928	0	3			0		other	0
+2	531	Sound	std	5344939	0	3			0		other	0
+2	532	Sound	std	5351438	0	31			0		other	0
+2	533	Sound	std	5358709	0	2			0		other	0
+2	534	Sound	std	5364938	0	4			0		other	0
+2	535	Sound	std	5371358	0	3			0		other	0
+2	536	Sound	std	5378658	0	3			0		other	0
+2	537	Sound	deviant_flat	5386318	0	3			0		other	0
+2	537	Sound	0	5398318	12000	3			12000		other	0
+2	538	Sound	deviant_smile	5404868	0	2			0		other	0
+2	538	Sound	0	5416868	12000	3			12000		other	0
+2	539	Sound	std	5422878	0	2			0		other	0
+2	540	Sound	deviant_flat	5428798	0	2			0		other	0
+2	540	Sound	0	5440798	12000	3			12000		other	0
+2	541	Sound	std	5447168	0	2			0		other	0
+2	542	Sound	deviant_smile	5453727	0	3			0		other	0
+2	542	Sound	0	5465727	12000	3			12000		other	0
+2	543	Sound	std	5472938	0	3			0		other	0
+2	544	Sound	std	5478899	0	3			0		other	0
+2	545	Sound	deviant_rough	5485558	0	2			0		other	0
+2	545	Sound	0	5497558	12000	13			12000		other	0
+2	546	Sound	std	5503537	0	2			0		other	0
+2	547	Sound	std	5510138	0	2			0		other	0
+2	548	Sound	deviant_flat	5516108	0	3			0		other	0
+2	548	Sound	0	5528108	12000	3			12000		other	0
+2	549	Sound	deviant_rough	5535218	0	3			0		other	0
+2	549	Sound	0	5547218	12000	2			12000		other	0
+2	550	Sound	deviant_rough	5553028	0	3			0		other	0
+2	550	Sound	0	5565028	12000	3			12000		other	0
+2	551	Sound	std	5571798	0	2			0		other	0
+2	552	Sound	std	5578448	0	2			0		other	0
+2	553	Sound	std	5585018	0	3			0		other	0
+2	554	Sound	std	5591898	0	3			0		other	0
+2	555	Sound	std	5597907	0	3			0		other	0
+2	556	Sound	std	5604388	0	4			0		other	0
+2	557	Sound	std	5610578	0	2			0		other	0
+2	558	Sound	std	5617767	0	2			0		other	0
+2	559	Sound	std	5624698	0	3			0		other	0
+2	560	Sound	std	5631488	0	3			0		other	0
+2	561	Sound	std	5638108	0	3			0		other	0
+2	562	Sound	std	5644038	0	3			0		other	0
+2	563	Sound	std	5650528	0	3			0		other	0
+2	564	Sound	std	5657267	0	2			0		other	0
+2	565	Sound	std	5664029	0	3			0		other	0
+2	566	Sound	std	5671778	0	3			0		other	0
+2	567	Sound	deviant_flat	5678279	0	2			0		other	0
+2	567	Sound	0	5690279	12000	2			12000		other	0
+2	568	Sound	std	5697718	0	3			0		other	0
+2	569	Sound	std	5703788	0	3			0		other	0
+2	570	Sound	deviant_rough	5710397	0	2			0		other	0
+2	570	Sound	0	5722397	12000	3			12000		other	0
+2	571	Sound	std	5728257	0	4			0		other	0
+2	572	Sound	deviant_rough	5735269	0	2			0		other	0
+2	572	Sound	0	5747269	12000	3			12000		other	0
+2	573	Sound	std	5753349	0	3			0		other	0
+2	574	Sound	deviant_flat	5760218	0	3			0		other	0
+2	574	Sound	0	5772218	12000	3			12000		other	0
+2	575	Sound	deviant_smile	5778667	0	3			0		other	0
+2	575	Sound	0	5790667	12000	3			12000		other	0
+2	576	Sound	std	5797237	0	3			0		other	0
+2	577	Sound	std	5804777	0	3			0		other	0
+2	578	Sound	std	5811148	0	4			0		other	0
+2	579	Sound	deviant_rough	5817968	0	2			0		other	0
+2	579	Sound	0	5829968	12000	3			12000		other	0
+2	580	Sound	deviant_smile	5837708	0	4			0		other	0
+2	580	Sound	0	5849708	12000	3			12000		other	0
+2	581	Sound	std	5855957	0	2			0		other	0
+2	582	Sound	std	5862148	0	3			0		other	0
+2	583	Sound	std	5869438	0	3			0		other	0
+2	584	Sound	deviant_smile	5875707	0	3			0		other	0
+2	584	Sound	0	5887707	12000	3			12000		other	0
+2	585	Sound	std	5895118	0	3			0		other	0
+2	586	Sound	std	5900968	0	2			0		other	0
+2	587	Sound	std	5907507	0	4			0		other	0
+2	588	Sound	std	5914807	0	3			0		other	0
+2	589	Sound	std	5921448	0	3			0		other	0
+2	590	Sound	std	5928638	0	2			0		other	0
+2	591	Sound	deviant_rough	5935867	0	3			0		other	0
+2	591	Sound	0	5947867	12000	2			12000		other	0
+2	592	Sound	deviant_flat	5955287	0	3			0		other	0
+2	592	Sound	0	5967287	12000	3			12000		other	0
+2	593	Sound	std	5973167	0	2			0		other	0
+2	594	Sound	std	5979898	0	3			0		other	0
+2	595	Sound	std	5986777	0	3			0		other	0
+2	596	Sound	deviant_flat	5994208	0	3			0		other	0
+2	596	Sound	0	6006208	12000	2			12000		other	0
+2	597	Sound	std	6012668	0	3			0		other	0
+2	598	Sound	deviant_smile	6019657	0	3			0		other	0
+2	598	Sound	0	6031657	12000	3			12000		other	0
+2	599	Sound	std	6037527	0	3			0		other	0
+2	600	Sound	deviant_flat	6044537	0	3			0		other	0
+2	600	Sound	0	6056537	12000	2			12000		other	0
+2	601	Sound	std	6062967	0	3			0		other	0
+2	602	Sound	deviant_flat	6069477	0	2			0		other	0
+2	602	Sound	0	6081477	12000	3			12000		other	0
+2	603	Sound	std	6088267	0	3			0		other	0
+2	604	Sound	std	6095867	0	3			0		other	0
+2	605	Sound	deviant_flat	6102018	0	3			0		other	0
+2	605	Sound	0	6114018	12000	2			12000		other	0
+2	606	Sound	deviant_smile	6120767	0	2			0		other	0
+2	606	Sound	0	6132767	12000	3			12000		other	0
+2	607	Sound	std	6138997	0	2			0		other	0
+2	608	Sound	std	6144867	0	3			0		other	0
+2	609	Sound	deviant_smile	6151937	0	3			0		other	0
+2	609	Sound	0	6163937	12000	3			12000		other	0
+2	610	Sound	deviant_rough	6170257	0	3			0		other	0
+2	610	Sound	0	6182257	12000	3			12000		other	0
+2	611	Sound	std	6189868	0	2			0		other	0
+2	612	Sound	std	6196297	0	3			0		other	0
+2	613	Sound	std	6202717	0	2			0		other	0
+2	614	Sound	deviant_flat	6210497	0	2			0		other	0
+2	614	Sound	0	6222497	12000	3			12000		other	0
+2	615	Sound	std	6228348	0	3			0		other	0
+2	616	Sound	deviant_rough	6234807	0	3			0		other	0
+2	616	Sound	0	6246807	12000	3			12000		other	0
+2	617	Sound	std	6254607	0	3			0		other	0
+2	618	Sound	std	6260727	0	3			0		other	0
+2	619	Sound	std	6267208	0	3			0		other	0
+2	620	Sound	std	6273877	0	3			0		other	0
+2	621	Sound	deviant_smile	6279787	0	3			0		other	0
+2	621	Sound	0	6291787	12000	3			12000		other	0
+2	622	Sound	std	6299188	0	3			0		other	0
+2	623	Sound	std	6306797	0	3			0		other	0
+2	624	Sound	std	6313336	0	3			0		other	0
+2	625	Sound	std	6319708	0	3			0		other	0
+2	626	Sound	deviant_smile	6326077	0	3			0		other	0
+2	626	Sound	0	6338077	12000	3			12000		other	0
+2	627	Sound	std	6345147	0	3			0		other	0
+2	628	Sound	deviant_smile	6352647	0	4			0		other	0
+2	628	Sound	0	6364647	12000	3			12000		other	0
+2	629	Sound	deviant_rough	6370858	0	2			0		other	0
+2	629	Sound	0	6382858	12000	2			12000		other	0
+2	630	Sound	std	6389447	0	4			0		other	0
+2	631	Sound	std	6396657	0	3			0		other	0
+2	632	Sound	deviant_flat	6404187	0	3			0		other	0
+2	632	Sound	0	6416187	12000	3			12000		other	0
+2	633	Sound	std	6423507	0	3			0		other	0
+2	634	Sound	std	6429557	0	3			0		other	0
+2	635	Sound	std	6436777	0	2			0		other	0
+2	636	Sound	std	6442927	0	3			0		other	0
+2	637	Sound	std	6449597	0	3			0		other	0
+2	638	Sound	std	6455977	0	3			0		other	0
+2	639	Sound	std	6461818	0	3			0		other	0
+2	640	Sound	deviant_rough	6469278	0	3			0		other	0
+2	640	Sound	0	6481278	12000	3			12000		other	0
+2	641	Sound	std	6487387	0	3			0		other	0
+2	642	Sound	std	6493698	0	3			0		other	0
+2	643	Sound	std	6501286	0	3			0		other	0
+2	644	Sound	std	6507887	0	3			0		other	0
+2	645	Sound	deviant_smile	6514840	0	3			0		other	0
+2	645	Sound	0	6526840	12000	3			12000		other	0
+2	646	Sound	std	6534107	0	3			0		other	0
+2	647	Sound	deviant_flat	6540956	0	4			0		other	0
+2	647	Sound	0	6552956	12000	3			12000		other	0
+2	648	Sound	std	6560666	0	3			0		other	0
+2	649	Sound	std	6568327	0	3			0		other	0
+2	650	Sound	std	6574897	0	3			0		other	0
+2	651	Sound	std	6581801	0	3			0		other	0
+2	652	Sound	std	6588139	0	3			0		other	0
+2	653	Sound	std	6593926	0	3			0		other	0
+2	654	Sound	std	6600037	0	3			0		other	0
+2	655	Sound	std	6607237	0	3			0		other	0
+2	656	Sound	std	6614147	0	3			0		other	0
+2	657	Sound	std	6620097	0	3			0		other	0
+2	658	Sound	std	6625947	0	4			0		other	0
+2	659	Sound	std	6632738	0	3			0		other	0
+2	660	Sound	std	6638597	0	3			0		other	0
+2	661	Sound	std	6644509	0	3			0		other	0
+2	662	Sound	deviant_smile	6651857	0	3			0		other	0
+2	662	Sound	0	6663857	12000	3			12000		other	0
+2	663	Sound	deviant_flat	6669867	0	3			0		other	0
+2	663	Sound	0	6681867	12000	3			12000		other	0
+2	664	Sound	std	6689407	0	4			0		other	0
+2	665	Sound	std	6695697	0	3			0		other	0
+2	666	Sound	std	6703286	0	3			0		other	0
+2	667	Sound	std	6710646	0	4			0		other	0
+2	668	Sound	std	6718177	0	7			0		other	0
+2	669	Sound	std	6724637	0	3			0		other	0
+2	670	Sound	std	6730917	0	3			0		other	0
+2	671	Sound	deviant_rough	6737237	0	3			0		other	0
+2	671	Sound	0	6749237	12000	3			12000		other	0
+2	672	Sound	std	6756946	0	3			0		other	0
+2	673	Sound	std	6763086	0	3			0		other	0
+2	674	Sound	deviant_smile	6770627	0	3			0		other	0
+2	674	Sound	0	6782627	12000	3			12000		other	0
+2	675	Sound	deviant_flat	6788986	0	3			0		other	0
+2	675	Sound	0	6800986	12000	3			12000		other	0
+2	676	Sound	std	6807317	0	3			0		other	0
+2	677	Sound	std	6814127	0	3			0		other	0
+2	678	Sound	std	6820398	0	3			0		other	0
+2	679	Sound	deviant_flat	6826527	0	3			0		other	0
+2	679	Sound	0	6838527	12000	3			12000		other	0
+2	680	Sound	std	6844666	0	3			0		other	0
+2	681	Sound	deviant_rough	6851207	0	3			0		other	0
+2	681	Sound	0	6863207	12000	3			12000		other	0
+2	682	Sound	std	6870256	0	3			0		other	0
+2	683	Sound	std	6876406	0	3			0		other	0
+2	684	Sound	std	6882386	0	3			0		other	0
+2	685	Sound	std	6889927	0	3			0		other	0
+2	686	Sound	deviant_rough	6896667	0	3			0		other	0
+2	686	Sound	0	6908667	12000	3			12000		other	0
+2	687	Sound	std	6914956	0	3			0		other	0
+2	688	Sound	std	6922226	0	3			0		other	0
+2	689	Sound	std	6928717	0	3			0		other	0
+2	690	Sound	std	6934715	0	3			0		other	0
+2	691	Sound	std	6940537	0	3			0		other	0
+2	692	Sound	std	6947697	0	3			0		other	0
+2	693	Sound	std	6955376	0	3			0		other	0
+2	694	Sound	std	6962486	0	3			0		other	0
+2	695	Sound	std	6969366	0	3			0		other	0
+2	696	Sound	std	6976256	0	2			0		other	0
+2	697	Sound	std	6983087	0	3			0		other	0
+2	698	Sound	deviant_flat	6989026	0	3			0		other	0
+2	698	Sound	0	7001026	12000	3			12000		other	0
+2	699	Sound	deviant_flat	7007606	0	3			0		other	0
+2	699	Sound	0	7019606	12000	3			12000		other	0
+2	700	Sound	std	7027086	0	3			0		other	0
+2	701	Sound	std	7034636	0	3			0		other	0
+2	702	Sound	std	7041726	0	3			0		other	0
+2	703	Sound	std	7048907	0	3			0		other	0
+2	704	Sound	std	7054726	0	3			0		other	0
+2	705	Sound	std	7061437	0	3			0		other	0
+2	706	Sound	std	7068008	0	3			0		other	0
+2	707	Sound	std	7073967	0	3			0		other	0
+2	708	Sound	std	7080246	0	3			0		other	0
+2	709	Sound	std	7087436	0	3			0		other	0
+2	710	Sound	std	7094287	0	3			0		other	0
+2	711	Sound	std	7101016	0	3			0		other	0
+2	712	Sound	std	7108736	0	3			0		other	0
+2	713	Sound	std	7115846	0	2			0		other	0
+2	714	Sound	deviant_rough	7122006	0	3			0		other	0
+2	714	Sound	0	7134006	12000	3			12000		other	0
+2	715	Sound	std	7140596	0	3			0		other	0
+2	716	Sound	std	7147476	0	2			0		other	0
+2	717	Sound	deviant_flat	7154788	0	3			0		other	0
+2	717	Sound	0	7166788	12000	2			12000		other	0
+2	718	Sound	std	7174130	0	3			0		other	0
+2	719	Sound	std	7181336	0	3			0		other	0
+2	720	Sound	deviant_rough	7188976	0	3			0		other	0
+2	720	Sound	0	7200976	12000	3			12000		other	0
+2	721	Sound	deviant_smile	7208396	0	3			0		other	0
+2	721	Sound	0	7220396	12000	2			12000		other	0
+2	722	Sound	std	7227976	0	3			0		other	0
+2	723	Sound	std	7235187	0	2			0		other	0
+2	724	Sound	deviant_smile	7242746	0	3			0		other	0
+2	724	Sound	0	7254746	12000	3			12000		other	0
+2	725	Sound	deviant_smile	7260825	0	3			0		other	0
+2	725	Sound	0	7272825	12000	3			12000		other	0
+2	726	Sound	std	7279506	0	18			0		other	0
+2	727	Sound	std	7286336	0	2			0		other	0
+2	728	Sound	std	7292936	0	3			0		other	0
+2	729	Sound	std	7300026	0	3			0		other	0
+2	730	Sound	std	7307636	0	3			0		other	0
+2	731	Sound	std	7315226	0	3			0		other	0
+2	732	Sound	std	7322555	0	3			0		other	0
+2	733	Sound	deviant_smile	7329176	0	3			0		other	0
+2	733	Sound	0	7341176	12000	3			12000		other	0
+2	734	Sound	std	7347125	0	4			0		other	0
+2	735	Sound	std	7353025	0	3			0		other	0
+2	736	Sound	std	7359146	0	3			0		other	0
+2	737	Sound	std	7365435	0	2			0		other	0
+2	738	Sound	std	7373066	0	3			0		other	0
+2	739	Sound	std	7379115	0	3			0		other	0
+2	740	Sound	std	7385596	0	3			0		other	0
+2	741	Sound	deviant_smile	7392486	0	2			0		other	0
+2	741	Sound	0	7404486	12000	3			12000		other	0
+2	742	Sound	deviant_flat	7411216	0	3			0		other	0
+2	742	Sound	0	7423216	12000	3			12000		other	0
+2	743	Sound	std	7429446	0	3			0		other	0
+2	744	Sound	std	7435256	0	2			0		other	0
+2	745	Sound	std	7442405	0	3			0		other	0
+2	746	Sound	deviant_rough	7448595	0	3			0		other	0
+2	746	Sound	0	7460595	12000	13			12000		other	0
+2	747	Sound	std	7467155	0	3			0		other	0
+2	748	Sound	deviant_flat	7474616	0	2			0		other	0
+2	748	Sound	0	7486616	12000	3			12000		other	0
+2	749	Sound	deviant_rough	7494255	0	3			0		other	0
+2	749	Sound	0	7506255	12000	3			12000		other	0
+2	750	Sound	std	7513546	0	2			0		other	0
+2	751	Sound	std	7521135	0	3			0		other	0
+2	752	Sound	std	7528655	0	3			0		other	0
+2	753	Sound	std	7534565	0	3			0		other	0
+2	754	Sound	std	7540496	0	3			0		other	0
+2	755	Sound	std	7546646	0	3			0		other	0
+2	756	Sound	deviant_flat	7553785	0	3			0		other	0
+2	756	Sound	0	7565785	12000	3			12000		other	0
+2	757	Sound	std	7571545	0	3			0		other	0
+2	758	Sound	std	7577795	0	3			0		other	0
+2	759	Sound	std	7584765	0	3			0		other	0
+2	760	Sound	std	7592467	0	2			0		other	0
+2	761	Sound	std	7599536	0	2			0		other	0
+2	762	Sound	std	7606157	0	3			0		other	0
+2	763	Sound	std	7612530	0	2			0		other	0
+2	764	Sound	deviant_flat	7618946	0	3			0		other	0
+2	764	Sound	0	7630946	12000	3			12000		other	0
+2	765	Sound	deviant_flat	7638695	0	4			0		other	0
+2	765	Sound	0	7650695	12000	2			12000		other	0
+2	766	Sound	std	7657748	0	5			0		other	0
+2	767	Sound	deviant_smile	7663875	0	4			0		other	0
+2	767	Sound	0	7675875	12000	3			12000		other	0
+2	768	Sound	std	7683376	0	3			0		other	0
+2	769	Sound	deviant_smile	7690065	0	3			0		other	0
+2	769	Sound	0	7702065	12000	3			12000		other	0
+2	770	Sound	std	7709345	0	3			0		other	0
+2	771	Sound	deviant_rough	7716045	0	2			0		other	0
+2	771	Sound	0	7728045	12000	2			12000		other	0
+2	772	Sound	std	7734775	0	3			0		other	0
+2	773	Sound	std	7741586	0	3			0		other	0
+2	774	Sound	deviant_rough	7748925	0	3			0		other	0
+2	774	Sound	0	7760925	12000	3			12000		other	0
+2	775	Sound	deviant_smile	7768625	0	3			0		other	0
+2	775	Sound	0	7780625	12000	3			12000		other	0
+2	776	Sound	deviant_flat	7787545	0	3			0		other	0
+2	776	Sound	0	7799545	12000	3			12000		other	0
+2	777	Sound	std	7806296	0	3			0		other	0
+2	778	Sound	std	7813635	0	3			0		other	0
+2	779	Sound	std	7821254	0	3			0		other	0
+2	780	Sound	std	7828377	0	3			0		other	0
+2	781	Sound	std	7836095	0	3			0		other	0
+2	782	Sound	deviant_rough	7843355	0	3			0		other	0
+2	782	Sound	0	7855355	12000	3			12000		other	0
+2	783	Sound	std	7862095	0	3			0		other	0
+2	784	Sound	std	7869256	0	3			0		other	0
+2	785	Sound	std	7875278	0	3			0		other	0
+2	786	Sound	std	7881595	0	3			0		other	0
+2	787	Sound	deviant_smile	7888696	0	3			0		other	0
+2	787	Sound	0	7900696	12000	3			12000		other	0
+2	788	Sound	std	7907215	0	3			0		other	0
+2	789	Sound	std	7913515	0	3			0		other	0
+2	790	Sound	std	7919985	0	2			0		other	0
+2	791	Sound	std	7926935	0	4			0		other	0
+2	792	Sound	std	7933556	0	3			0		other	0
+2	793	Sound	deviant_flat	7939625	0	3			0		other	0
+2	793	Sound	0	7951625	12000	2			12000		other	0
+2	794	Sound	std	7958566	0	3			0		other	0
+2	795	Sound	std	7964595	0	3			0		other	0
+2	796	Sound	std	7971355	0	3			0		other	0
+2	797	Sound	std	7977225	0	3			0		other	0
+2	798	Sound	std	7984275	0	3			0		other	0
+2	799	Sound	deviant_rough	7990665	0	3			0		other	0
+2	799	Sound	0	8002665	12000	3			12000		other	0
+2	800	Sound	std	8010385	0	3			0		other	0
+2	801	Sound	std	8018035	0	3			0		other	0
+2	802	Sound	deviant_rough	8024005	0	3			0		other	0
+2	802	Sound	0	8036005	12000	3			12000		other	0
+2	803	Sound	std	8043295	0	2			0		other	0
+2	804	Sound	std	8049735	0	3			0		other	0
+2	805	Sound	deviant_flat	8057068	0	3			0		other	0
+2	805	Sound	0	8069068	12000	2			12000		other	0
+2	806	Sound	std	8074825	0	2			0		other	0
+2	807	Sound	deviant_flat	8082145	0	3			0		other	0
+2	807	Sound	0	8094145	12000	3			12000		other	0
+2	808	Sound	std	8101805	0	3			0		other	0
+2	809	Sound	deviant_smile	8108854	0	3			0		other	0
+2	809	Sound	0	8120854	12000	3			12000		other	0
+2	810	Sound	std	8126665	0	3			0		other	0
+2	811	Sound	std	8133945	0	3			0		other	0
+2	812	Sound	std	8140335	0	3			0		other	0
+2	813	Sound	std	8146804	0	2			0		other	0
+2	814	Sound	std	8154104	0	3			0		other	0
+2	815	Sound	std	8160314	0	3			0		other	0
+2	816	Sound	std	8166965	0	2			0		other	0
+2	817	Sound	std	8174615	0	3			0		other	0
+2	818	Sound	std	8181144	0	3			0		other	0
+2	819	Sound	deviant_rough	8187574	0	3			0		other	0
+2	819	Sound	0	8199574	12000	4			12000		other	0
+2	820	Sound	std	8207055	0	3			0		other	0
+2	821	Sound	std	8213055	0	3			0		other	0
+2	822	Sound	std	8219804	0	5			0		other	0
+2	823	Sound	std	8227445	0	3			0		other	0
+2	824	Sound	deviant_smile	8233625	0	3			0		other	0
+2	824	Sound	0	8245625	12000	3			12000		other	0
+2	825	Sound	std	8251848	0	3			0		other	0
+2	826	Sound	std	8258584	0	3			0		other	0
+2	827	Sound	std	8264574	0	3			0		other	0
+2	828	Sound	std	8270994	0	3			0		other	0
+2	829	Sound	std	8278006	0	3			0		other	0
+2	830	Sound	std	8285075	0	2			0		other	0
+2	831	Sound	std	8292455	0	3			0		other	0
+2	832	Sound	std	8299444	0	2			0		other	0
+2	833	Sound	std	8305654	0	2			0		other	0
+2	834	Sound	deviant_smile	8313016	0	3			0		other	0
+2	834	Sound	0	8325016	12000	2			12000		other	0
+2	835	Sound	deviant_flat	8332794	0	2			0		other	0
+2	835	Sound	0	8344794	12000	3			12000		other	0
+2	836	Sound	std	8351785	0	2			0		other	0
+2	837	Sound	std	8358996	0	2			0		other	0
+2	838	Sound	std	8365874	0	3			0		other	0
+2	839	Sound	std	8372704	0	3			0		other	0
+2	840	Sound	std	8378995	0	3			0		other	0
+2	841	Sound	std	8385884	0	4			0		other	0
+2	842	Sound	std	8393444	0	3			0		other	0
+2	843	Sound	deviant_smile	8400394	0	3			0		other	0
+2	843	Sound	0	8412394	12000	3			12000		other	0
+2	844	Sound	deviant_flat	8419824	0	3			0		other	0
+2	844	Sound	0	8431824	12000	3			12000		other	0
+2	845	Sound	deviant_flat	8439415	0	2			0		other	0
+2	845	Sound	0	8451415	12000	3			12000		other	0
+2	846	Sound	std	8458155	0	3			0		other	0
+2	847	Sound	std	8464705	0	3			0		other	0
+2	848	Sound	std	8470796	0	3			0		other	0
+2	849	Sound	std	8478474	0	3			0		other	0
+2	850	Sound	std	8485055	0	3			0		other	0
+2	851	Sound	std	8491155	0	3			0		other	0
+2	852	Sound	deviant_rough	8497495	0	3			0		other	0
+2	852	Sound	0	8509495	12000	3			12000		other	0
+2	853	Sound	std	8515634	0	3			0		other	0
+2	854	Sound	std	8521495	0	3			0		other	0
+2	855	Sound	deviant_rough	8527355	0	3			0		other	0
+2	855	Sound	0	8539355	12000	3			12000		other	0
+2	856	Sound	std	8545214	0	3			0		other	0
+2	857	Sound	std	8552844	0	3			0		other	0
+2	858	Sound	deviant_smile	8559515	0	3			0		other	0
+2	858	Sound	0	8571515	12000	2			12000		other	0
+2	859	Sound	std	8579044	0	3			0		other	0
+2	860	Sound	std	8586605	0	2			0		other	0
+2	861	Sound	deviant_rough	8593254	0	3			0		other	0
+2	861	Sound	0	8605254	12000	3			12000		other	0
+2	862	Sound	std	8612594	0	3			0		other	0
+2	863	Sound	std	8619904	0	3			0		other	0
+2	864	Sound	std	8626384	0	2			0		other	0
+2	865	Sound	std	8633545	0	3			0		other	0
+2	866	Sound	std	8641304	0	3			0		other	0
+2	867	Sound	std	8648844	0	2			0		other	0
+2	868	Sound	deviant_flat	8656134	0	3			0		other	0
+2	868	Sound	0	8668134	12000	3			12000		other	0
+2	869	Sound	std	8674254	0	3			0		other	0
+2	870	Sound	deviant_flat	8681325	0	3			0		other	0
+2	870	Sound	0	8693325	12000	3			12000		other	0
+2	871	Sound	std	8700224	0	3			0		other	0
+2	872	Sound	deviant_smile	8707614	0	3			0		other	0
+2	872	Sound	0	8719614	12000	3			12000		other	0
+2	873	Sound	std	8726274	0	2			0		other	0
+2	874	Sound	std	8732274	0	3			0		other	0
+2	875	Sound	deviant_smile	8739854	0	3			0		other	0
+2	875	Sound	0	8751854	12000	3			12000		other	0
+2	876	Sound	std	8759314	0	3			0		other	0
+2	877	Sound	std	8766585	0	3			0		other	0
+2	878	Sound	deviant_smile	8774214	0	3			0		other	0
+2	878	Sound	0	8786214	12000	3			12000		other	0
+2	879	Sound	std	8793384	0	3			0		other	0
+2	880	Sound	std	8800444	0	3			0		other	0
+2	881	Sound	std	8807205	0	2			0		other	0
+2	882	Sound	deviant_rough	8813895	0	3			0		other	0
+2	882	Sound	0	8825895	12000	3			12000		other	0
+2	883	Sound	deviant_rough	8833024	0	3			0		other	0
+2	883	Sound	0	8845024	12000	2			12000		other	0
+2	884	Sound	std	8850874	0	3			0		other	0
+2	885	Sound	std	8856774	0	3			0		other	0
+2	886	Sound	deviant_smile	8862894	0	3			0		other	0
+2	886	Sound	0	8874894	12000	3			12000		other	0
+2	887	Sound	std	8882134	0	3			0		other	0
+2	888	Sound	std	8888335	0	3			0		other	0
+2	889	Sound	std	8894824	0	3			0		other	0
+2	890	Sound	std	8901424	0	3			0		other	0
+2	891	Sound	std	8908254	0	3			0		other	0
+2	892	Sound	std	8914354	0	3			0		other	0
+2	893	Sound	deviant_rough	8921924	0	3			0		other	0
+2	893	Sound	0	8933924	12000	3			12000		other	0
+2	894	Sound	std	8940183	0	3			0		other	0
+2	895	Sound	std	8946995	0	3			0		other	0
+2	896	Sound	std	8952704	0	3			0		other	0
+2	897	Sound	std	8959865	0	3			0		other	0
+2	898	Sound	std	8966824	0	3			0		other	0
+2	899	Sound	deviant_rough	8972725	0	3			0		other	0
+2	899	Sound	0	8984725	12000	3			12000		other	0
+2	900	Sound	std	8990814	0	3			0		other	0
+2	901	Sound	std	8998353	0	3			0		other	0
+2	902	Sound	deviant_flat	9004323	0	3			0		other	0
+2	902	Sound	0	9016323	12000	3			12000		other	0
+2	903	Sound	deviant_rough	9023283	0	3			0		other	0
+2	903	Sound	0	9035283	12000	3			12000		other	0
+2	904	Sound	std	9041504	0	3			0		other	0
+2	905	Sound	std	9048464	0	3			0		other	0
+2	906	Sound	std	9055794	0	3			0		other	0
+2	907	Sound	std	9063435	0	3			0		other	0
+2	908	Sound	std	9070004	0	3			0		other	0
+2	909	Sound	std	9075914	0	3			0		other	0
+2	910	Sound	std	9081814	0	3			0		other	0
+2	911	Sound	std	9089194	0	3			0		other	0
+2	912	Sound	deviant_smile	9096324	0	3			0		other	0
+2	912	Sound	0	9108324	12000	3			12000		other	0
+2	913	Sound	std	9115564	0	3			0		other	0
+2	914	Sound	std	9123014	0	3			0		other	0
+2	915	Sound	std	9130013	0	3			0		other	0
+2	916	Sound	std	9135956	0	3			0		other	0
+2	917	Sound	deviant_rough	9142934	0	3			0		other	0
+2	917	Sound	0	9154934	12000	3			12000		other	0
+2	918	Sound	std	9162114	0	3			0		other	0
+2	919	Sound	std	9169003	0	4			0		other	0
+2	920	Sound	std	9175644	0	3			0		other	0
+2	921	Sound	deviant_flat	9181455	0	3			0		other	0
+2	921	Sound	0	9193455	12000	3			12000		other	0
+2	922	Sound	std	9199924	0	3			0		other	0
+2	923	Sound	std	9206333	0	3			0		other	0
+2	924	Sound	std	9213724	0	3			0		other	0
+2	925	Sound	std	9219974	0	3			0		other	0
+2	926	Sound	deviant_smile	9226283	0	3			0		other	0
+2	926	Sound	0	9238283	12000	3			12000		other	0
+2	927	Sound	deviant_flat	9244034	0	3			0		other	0
+2	927	Sound	0	9256034	12000	3			12000		other	0
+2	928	Sound	std	9263683	0	3			0		other	0
+2	929	Sound	std	9271063	0	3			0		other	0
+2	930	Sound	std	9278623	0	3			0		other	0
+2	931	Sound	std	9285583	0	3			0		other	0
+2	932	Sound	std	9291784	0	3			0		other	0
+2	933	Sound	std	9299224	0	3			0		other	0
+2	934	Sound	std	9306303	0	3			0		other	0
+2	935	Sound	std	9313384	0	3			0		other	0
+2	936	Sound	std	9321064	0	3			0		other	0
+2	937	Sound	std	9327663	0	3			0		other	0
+2	938	Sound	std	9334854	0	3			0		other	0
+2	939	Sound	std	9341673	0	3			0		other	0
+2	940	Sound	std	9347924	0	3			0		other	0
+2	941	Sound	std	9353774	0	2			0		other	0
+2	942	Sound	std	9360314	0	3			0		other	0
+2	943	Sound	std	9366354	0	3			0		other	0
+2	944	Sound	std	9372703	0	3			0		other	0
+2	945	Sound	std	9379954	0	3			0		other	0
+2	946	Sound	deviant_smile	9387544	0	3			0		other	0
+2	946	Sound	0	9399544	12000	3			12000		other	0
+2	947	Sound	std	9406913	0	2			0		other	0
+2	948	Sound	deviant_flat	9414343	0	3			0		other	0
+2	948	Sound	0	9426343	12000	3			12000		other	0
+2	949	Sound	std	9432883	0	4			0		other	0
+2	950	Sound	std	9439867	0	3			0		other	0
+2	951	Sound	std	9445634	0	3			0		other	0
+2	952	Sound	deviant_smile	9451473	0	3			0		other	0
+2	952	Sound	0	9463473	12000	3			12000		other	0
+2	953	Sound	deviant_rough	9469943	0	3			0		other	0
+2	953	Sound	0	9481943	12000	3			12000		other	0
+2	954	Sound	std	9487724	0	3			0		other	0
+2	955	Sound	std	9494384	0	8			0		other	0
+2	956	Sound	std	9501524	0	3			0		other	0
+2	957	Response	1	17900416	8397773	2
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Sound	std	other				192892	2822			0
+Sound	std	other				201594	3			0
+Sound	std	other				208775	3			0
+Sound	std	other				215945	3			0
+Sound	std	other				223404	3			0
+Sound	std	other				230144	3			0
+Sound	std	other				237285	3			0
+Sound	std	other				244655	3			0
+Sound	std	other				250885	3			0
+Sound	std	other				257075	3			0
+Sound	std	other				264024	2			0
+Sound	std	other				269985	3			0
+Sound	std	other				276724	3			0
+Sound	std	other				284484	3			0
+Sound	deviant_smile	other				292025	2			0
+Sound	0	other				304025	3			12000
+Sound	std	other				311224	3			0
+Sound	std	other				317254	3			0
+Sound	std	other				324985	3			0
+Sound	std	other				331004	3			0
+Sound	std	other				337294	3			0
+Sound	std	other				343235	3			0
+Sound	deviant_flat	other				349224	3			0
+Sound	0	other				361224	3			12000
+Sound	std	other				367485	3			0
+Sound	deviant_flat	other				373474	3			0
+Sound	0	other				385474	3			12000
+Sound	std	other				391764	3			0
+Sound	std	other				399405	3			0
+Sound	std	other				406344	3			0
+Sound	std	other				413664	3			0
+Sound	std	other				420523	3			0
+Sound	deviant_flat	other				427794	3			0
+Sound	0	other				439794	3			12000
+Sound	std	other				445844	3			0
+Sound	std	other				453474	3			0
+Sound	deviant_flat	other				460656	3			0
+Sound	0	other				472656	3			12000
+Sound	std	other				479974	3			0
+Sound	std	other				487645	3			0
+Sound	deviant_rough	other				493934	3			0
+Sound	0	other				505934	3			12000
+Sound	std	other				513204	3			0
+Sound	std	other				519045	3			0
+Sound	deviant_smile	other				525155	3			0
+Sound	0	other				537155	3			12000
+Sound	std	other				543894	3			0
+Sound	std	other				550544	3			0
+Sound	std	other				557314	3			0
+Sound	std	other				564944	3			0
+Sound	deviant_rough	other				571225	2			0
+Sound	0	other				583225	3			12000
+Sound	deviant_smile	other				589344	3			0
+Sound	0	other				601344	3			12000
+Sound	std	other				608593	2			0
+Sound	std	other				614364	4			0
+Sound	deviant_rough	other				621594	3			0
+Sound	0	other				633594	3			12000
+Sound	std	other				641245	3			0
+Sound	std	other				648834	3			0
+Sound	deviant_smile	other				656034	3			0
+Sound	0	other				668034	6			12000
+Sound	std	other				674133	3			0
+Sound	std	other				680614	3			0
+Sound	std	other				688383	3			0
+Sound	std	other				694544	2			0
+Sound	std	other				700334	3			0
+Sound	deviant_smile	other				707734	3			0
+Sound	0	other				719734	3			12000
+Sound	std	other				726910	3			0
+Sound	std	other				733954	3			0
+Sound	std	other				741026	3			0
+Sound	std	other				747454	3			0
+Sound	std	other				753644	3			0
+Sound	std	other				760723	3			0
+Sound	std	other				766724	2			0
+Sound	std	other				773205	3			0
+Sound	std	other				780873	3			0
+Sound	std	other				788393	3			0
+Sound	deviant_flat	other				794724	3			0
+Sound	0	other				806724	3			12000
+Sound	std	other				813904	2			0
+Sound	std	other				819863	3			0
+Sound	deviant_rough	other				827455	3			0
+Sound	0	other				839455	3			12000
+Sound	std	other				845904	3			0
+Sound	std	other				852744	3			0
+Sound	std	other				860474	3			0
+Sound	deviant_rough	other				867664	3			0
+Sound	0	other				879664	3			12000
+Sound	std	other				887374	3			0
+Sound	std	other				893564	3			0
+Sound	std	other				900234	3			0
+Sound	deviant_rough	other				907324	3			0
+Sound	0	other				919324	3			12000
+Sound	std	other				926934	3			0
+Sound	std	other				933594	3			0
+Sound	deviant_smile	other				939394	2			0
+Sound	0	other				951394	3			12000
+Sound	std	other				958004	3			0
+Sound	std	other				964644	3			0
+Sound	std	other				971064	2			0
+Sound	std	other				977873	3			0
+Sound	deviant_smile	other				984633	3			0
+Sound	0	other				996633	4			12000
+Sound	std	other				1003993	3			0
+Sound	std	other				1011068	6			0
+Sound	std	other				1017394	3			0
+Sound	std	other				1024734	48			0
+Sound	std	other				1030944	3			0
+Sound	std	other				1036963	3			0
+Sound	std	other				1043603	2			0
+Sound	std	other				1049374	3			0
+Sound	std	other				1056703	2			0
+Sound	std	other				1063624	2			0
+Sound	std	other				1070493	3			0
+Sound	std	other				1078026	3			0
+Sound	std	other				1084913	2			0
+Sound	deviant_smile	other				1092223	2			0
+Sound	0	other				1104223	3			12000
+Sound	deviant_smile	other				1111363	3			0
+Sound	0	other				1123363	3			12000
+Sound	deviant_rough	other				1131054	2			0
+Sound	0	other				1143054	2			12000
+Sound	deviant_flat	other				1150253	4			0
+Sound	0	other				1162253	2			12000
+Sound	std	other				1168033	3			0
+Sound	std	other				1175632	2			0
+Sound	deviant_rough	other				1181843	3			0
+Sound	0	other				1193843	3			12000
+Sound	std	other				1200803	3			0
+Sound	std	other				1208213	3			0
+Sound	std	other				1215913	3			0
+Sound	std	other				1222813	3			0
+Sound	std	other				1229412	4			0
+Sound	deviant_flat	other				1235503	2			0
+Sound	0	other				1247503	4			12000
+Sound	deviant_smile	other				1254433	3			0
+Sound	0	other				1266433	3			12000
+Sound	std	other				1273904	3			0
+Sound	std	other				1279893	3			0
+Sound	std	other				1285893	3			0
+Sound	std	other				1292653	2			0
+Sound	std	other				1299482	4			0
+Sound	std	other				1307114	3			0
+Sound	std	other				1313423	3			0
+Sound	deviant_smile	other				1320503	2			0
+Sound	0	other				1332503	3			12000
+Sound	deviant_rough	other				1338492	2			0
+Sound	0	other				1350492	3			12000
+Sound	std	other				1357683	2			0
+Sound	std	other				1363583	2			0
+Sound	std	other				1369373	3			0
+Sound	std	other				1375663	3			0
+Sound	std	other				1382073	3			0
+Sound	std	other				1388393	2			0
+Sound	std	other				1394663	3			0
+Sound	std	other				1401812	2			0
+Sound	std	other				1408372	2			0
+Sound	std	other				1415883	3			0
+Sound	std	other				1421733	3			0
+Sound	std	other				1427732	2			0
+Sound	deviant_smile	other				1434133	3			0
+Sound	0	other				1446133	2			12000
+Sound	std	other				1452542	2			0
+Sound	std	other				1459423	2			0
+Sound	std	other				1465272	3			0
+Sound	deviant_flat	other				1471842	3			0
+Sound	0	other				1483842	3			12000
+Sound	std	other				1491432	2			0
+Sound	std	other				1498623	2			0
+Sound	deviant_flat	other				1504802	3			0
+Sound	0	other				1516802	3			12000
+Sound	deviant_rough	other				1524024	3			0
+Sound	0	other				1536024	3			12000
+Sound	std	other				1542133	3			0
+Sound	deviant_flat	other				1548443	3			0
+Sound	0	other				1560443	3			12000
+Sound	std	other				1567583	3			0
+Sound	std	other				1574713	2			0
+Sound	deviant_smile	other				1581253	3			0
+Sound	0	other				1593253	3			12000
+Sound	deviant_rough	other				1600003	3			0
+Sound	0	other				1612003	3			12000
+Sound	deviant_smile	other				1618893	3			0
+Sound	0	other				1630893	3			12000
+Sound	deviant_smile	other				1637423	3			0
+Sound	0	other				1649423	3			12000
+Sound	std	other				1656712	4			0
+Sound	deviant_flat	other				1662922	3			0
+Sound	0	other				1674922	3			12000
+Sound	std	other				1681632	3			0
+Sound	deviant_smile	other				1688502	3			0
+Sound	0	other				1700502	3			12000
+Sound	std	other				1707622	3			0
+Sound	std	other				1714253	3			0
+Sound	std	other				1721953	2			0
+Sound	deviant_flat	other				1728972	3			0
+Sound	0	other				1740972	3			12000
+Sound	std	other				1747192	4			0
+Sound	deviant_rough	other				1754862	3			0
+Sound	0	other				1766862	3			12000
+Sound	std	other				1773962	3			0
+Sound	deviant_rough	other				1780924	2			0
+Sound	0	other				1792924	3			12000
+Sound	std	other				1800562	2			0
+Sound	deviant_flat	other				1806441	2			0
+Sound	0	other				1818441	3			12000
+Sound	std	other				1825083	3			0
+Sound	std	other				1831563	3			0
+Sound	std	other				1837893	3			0
+Sound	deviant_smile	other				1845023	3			0
+Sound	0	other				1857023	2			12000
+Sound	std	other				1864672	3			0
+Sound	std	other				1872313	3			0
+Sound	deviant_smile	other				1879122	3			0
+Sound	0	other				1891122	2			12000
+Sound	std	other				1897132	3			0
+Sound	deviant_rough	other				1904372	3			0
+Sound	0	other				1916372	3			12000
+Sound	std	other				1923862	3			0
+Sound	deviant_rough	other				1930923	3			0
+Sound	0	other				1942923	3			12000
+Sound	deviant_smile	other				1949123	2			0
+Sound	0	other				1961123	3			12000
+Sound	std	other				1967371	2			0
+Sound	std	other				1974963	3			0
+Sound	std	other				1980792	2			0
+Sound	deviant_flat	other				1986682	3			0
+Sound	0	other				1998682	2			12000
+Sound	deviant_rough	other				2006142	3			0
+Sound	0	other				2018142	2			12000
+Sound	std	other				2025613	3			0
+Sound	std	other				2032302	3			0
+Sound	std	other				2038882	3			0
+Sound	std	other				2046243	3			0
+Sound	std	other				2053883	3			0
+Sound	std	other				2060352	3			0
+Sound	std	other				2067752	3			0
+Sound	std	other				2074192	2			0
+Sound	std	other				2081733	3			0
+Sound	deviant_rough	other				2088213	3			0
+Sound	0	other				2100213	3			12000
+Sound	deviant_rough	other				2106433	3			0
+Sound	0	other				2118433	3			12000
+Sound	std	other				2124811	2			0
+Sound	deviant_smile	other				2131313	2			0
+Sound	0	other				2143313	3			12000
+Sound	std	other				2150632	3			0
+Sound	std	other				2157672	3			0
+Sound	std	other				2165052	2			0
+Sound	std	other				2171683	3			0
+Sound	deviant_rough	other				2177793	2			0
+Sound	0	other				2189793	2			12000
+Sound	std	other				2197362	3			0
+Sound	std	other				2205012	3			0
+Sound	std	other				2212052	3			0
+Sound	deviant_rough	other				2219678	41			0
+Sound	0	other				2231678	3			12000
+Sound	std	other				2238522	3			0
+Sound	std	other				2244912	3			0
+Sound	deviant_smile	other				2252082	3			0
+Sound	0	other				2264082	3			12000
+Sound	std	other				2271062	3			0
+Sound	deviant_rough	other				2277572	3			0
+Sound	0	other				2289572	3			12000
+Sound	std	other				2296642	3			0
+Sound	std	other				2303742	3			0
+Sound	std	other				2309792	2			0
+Sound	deviant_rough	other				2315812	3			0
+Sound	0	other				2327812	3			12000
+Sound	std	other				2334892	3			0
+Sound	std	other				2341942	3			0
+Sound	std	other				2347801	2			0
+Sound	std	other				2355031	3			0
+Sound	std	other				2362622	3			0
+Sound	std	other				2369552	3			0
+Sound	std	other				2377252	3			0
+Sound	std	other				2384872	3			0
+Sound	deviant_rough	other				2392541	3			0
+Sound	0	other				2404541	2			12000
+Sound	std	other				2410431	3			0
+Sound	std	other				2417851	2			0
+Sound	std	other				2424402	3			0
+Sound	std	other				2431412	3			0
+Sound	std	other				2437761	4			0
+Sound	std	other				2444182	4			0
+Sound	deviant_smile	other				2451161	2			0
+Sound	0	other				2463165	7			12000
+Sound	std	other				2469062	3			0
+Sound	std	other				2475312	4			0
+Sound	std	other				2481812	2			0
+Sound	std	other				2488061	3			0
+Sound	std	other				2494261	4			0
+Sound	std	other				2500773	3			0
+Sound	std	other				2508171	3			0
+Sound	std	other				2515091	3			0
+Sound	std	other				2521731	3			0
+Sound	std	other				2528791	3			0
+Sound	std	other				2534831	3			0
+Sound	std	other				2541261	3			0
+Sound	std	other				2547292	3			0
+Sound	std	other				2554522	3			0
+Sound	std	other				2561802	3			0
+Sound	deviant_smile	other				2567961	3			0
+Sound	0	other				2579961	3			12000
+Sound	std	other				2586883	3			0
+Sound	std	other				2593563	3			0
+Sound	std	other				2599462	3			0
+Sound	std	other				2607002	3			0
+Sound	std	other				2613321	3			0
+Sound	std	other				2620422	3			0
+Sound	std	other				2626372	3			0
+Sound	std	other				2632732	3			0
+Sound	std	other				2640242	3			0
+Sound	std	other				2646911	3			0
+Sound	std	other				2654132	3			0
+Sound	std	other				2660531	2			0
+Sound	std	other				2667391	2			0
+Sound	std	other				2673552	3			0
+Sound	std	other				2679831	3			0
+Sound	std	other				2687351	3			0
+Sound	std	other				2693742	3			0
+Sound	deviant_rough	other				2699781	8			0
+Sound	0	other				2711781	2			12000
+Sound	deviant_flat	other				2719321	3			0
+Sound	0	other				2731321	3			12000
+Sound	std	other				2738922	2			0
+Sound	deviant_flat	other				2746422	2			0
+Sound	0	other				2758422	3			12000
+Sound	deviant_smile	other				2765881	3			0
+Sound	0	other				2777881	2			12000
+Sound	std	other				2785061	2			0
+Sound	std	other				2792360	2			0
+Sound	std	other				2799941	3			0
+Sound	std	other				2807531	3			0
+Sound	std	other				2814671	3			0
+Sound	std	other				2820821	3			0
+Sound	std	other				2827571	3			0
+Sound	deviant_rough	other				2834691	3			0
+Sound	0	other				2846691	3			12000
+Sound	std	other				2854101	2			0
+Sound	deviant_smile	other				2861601	3			0
+Sound	0	other				2873601	3			12000
+Sound	std	other				2879321	3			0
+Sound	std	other				2885801	3			0
+Sound	std	other				2893471	3			0
+Sound	std	other				2899551	3			0
+Sound	deviant_smile	other				2906371	3			0
+Sound	0	other				2918371	3			12000
+Sound	deviant_rough	other				2924371	3			0
+Sound	0	other				2936371	3			12000
+Sound	std	other				2943671	4			0
+Sound	std	other				2949941	2			0
+Sound	std	other				2955940	2			0
+Sound	std	other				2963001	3			0
+Sound	std	other				2970452	3			0
+Sound	std	other				2977321	3			0
+Sound	deviant_flat	other				2984051	3			0
+Sound	0	other				2996051	3			12000
+Sound	std	other				3003650	2			0
+Sound	deviant_rough	other				3011340	2			0
+Sound	0	other				3023340	3			12000
+Sound	std	other				3029852	3			0
+Sound	std	other				3036981	3			0
+Sound	std	other				3044321	3			0
+Sound	deviant_flat	other				3052030	3			0
+Sound	0	other				3064030	3			12000
+Sound	deviant_smile	other				3070241	4			0
+Sound	0	other				3082241	3			12000
+Sound	std	other				3088411	2			0
+Sound	deviant_rough	other				3095651	3			0
+Sound	0	other				3107651	3			12000
+Sound	std	other				3113881	3			0
+Sound	std	other				3119981	3			0
+Sound	deviant_rough	other				3126671	3			0
+Sound	0	other				3138671	2			12000
+Sound	deviant_flat	other				3145000	4			0
+Sound	0	other				3157000	3			12000
+Sound	std	other				3162740	2			0
+Sound	std	other				3168910	3			0
+Sound	deviant_rough	other				3174891	3			0
+Sound	0	other				3186891	3			12000
+Sound	std	other				3192950	3			0
+Sound	std	other				3200411	3			0
+Sound	deviant_rough	other				3208210	3			0
+Sound	0	other				3220210	3			12000
+Sound	deviant_smile	other				3227380	3			0
+Sound	0	other				3239380	3			12000
+Sound	deviant_rough	other				3246881	3			0
+Sound	0	other				3258881	3			12000
+Sound	std	other				3265870	3			0
+Sound	deviant_flat	other				3273451	3			0
+Sound	0	other				3285451	2			12000
+Sound	std	other				3292720	3			0
+Sound	deviant_rough	other				3298770	3			0
+Sound	0	other				3310770	3			12000
+Sound	std	other				3316761	3			0
+Sound	std	other				3323700	3			0
+Sound	std	other				3330750	2			0
+Sound	std	other				3337871	3			0
+Sound	std	other				3345451	3			0
+Sound	std	other				3352810	4			0
+Sound	std	other				3359680	3			0
+Sound	std	other				3366361	3			0
+Sound	std	other				3374071	3			0
+Sound	std	other				3381180	3			0
+Sound	std	other				3388890	3			0
+Sound	deviant_smile	other				3395440	3			0
+Sound	0	other				3407440	3			12000
+Sound	deviant_smile	other				3414361	3			0
+Sound	0	other				3426361	3			12000
+Sound	std	other				3432150	3			0
+Sound	std	other				3439200	2			0
+Sound	std	other				3446250	3			0
+Sound	std	other				3453690	3			0
+Sound	std	other				3459600	3			0
+Sound	std	other				3466420	3			0
+Sound	std	other				3472601	3			0
+Sound	std	other				3479451	3			0
+Sound	std	other				3487171	2			0
+Sound	std	other				3494180	3			0
+Sound	deviant_flat	other				3501870	2			0
+Sound	0	other				3513870	2			12000
+Sound	std	other				3521238	3			0
+Sound	deviant_rough	other				3527750	3			0
+Sound	0	other				3539750	2			12000
+Sound	deviant_flat	other				3546670	3			0
+Sound	0	other				3558670	3			12000
+Sound	std	other				3564570	3			0
+Sound	deviant_smile	other				3571461	3			0
+Sound	0	other				3583461	3			12000
+Sound	std	other				3589870	3			0
+Sound	std	other				3597471	3			0
+Sound	std	other				3604090	3			0
+Sound	std	other				3609871	3			0
+Sound	std	other				3616140	3			0
+Sound	std	other				3623899	3			0
+Sound	deviant_flat	other				3631100	3			0
+Sound	0	other				3643100	3			12000
+Sound	std	other				3649849	3			0
+Sound	std	other				3656950	3			0
+Sound	std	other				3664691	2			0
+Sound	deviant_rough	other				3671900	3			0
+Sound	0	other				3683900	3			12000
+Sound	deviant_flat	other				3690919	3			0
+Sound	0	other				3702919	3			12000
+Sound	std	other				3710660	3			0
+Sound	deviant_smile	other				3718400	2			0
+Sound	0	other				3730400	2			12000
+Sound	std	other				3737910	3			0
+Sound	deviant_flat	other				3744300	3			0
+Sound	0	other				3756300	2			12000
+Sound	deviant_flat	other				3762560	3			0
+Sound	0	other				3774560	2			12000
+Sound	deviant_smile	other				3780749	3			0
+Sound	0	other				3792749	3			12000
+Sound	std	other				3799010	3			0
+Sound	deviant_smile	other				3805480	2			0
+Sound	0	other				3817480	2			12000
+Sound	std	other				3823640	3			0
+Sound	std	other				3831139	2			0
+Sound	std	other				3838169	2			0
+Sound	std	other				3844540	3			0
+Sound	std	other				3851600	3			0
+Sound	std	other				3859010	3			0
+Sound	std	other				3866330	3			0
+Sound	std	other				3873010	3			0
+Sound	std	other				3880080	3			0
+Sound	deviant_rough	other				3886370	3			0
+Sound	0	other				3898370	3			12000
+Sound	deviant_flat	other				3905990	3			0
+Sound	0	other				3917990	3			12000
+Sound	std	other				3924930	3			0
+Sound	deviant_flat	other				3930890	3			0
+Sound	0	other				3942890	3			12000
+Sound	deviant_rough	other				3950190	3			0
+Sound	0	other				3962190	3			12000
+Sound	std	other				3969220	3			0
+Sound	std	other				3975860	3			0
+Sound	std	other				3983521	3			0
+Sound	std	other				3990080	3			0
+Sound	std	other				3997149	4			0
+Sound	std	other				4003220	3			0
+Sound	std	other				4009180	3			0
+Sound	std	other				4015211	3			0
+Sound	std	other				4023009	3			0
+Sound	std	other				4029350	3			0
+Sound	std	other				4035519	4			0
+Sound	std	other				4041461	2			0
+Sound	deviant_rough	other				4048180	3			0
+Sound	0	other				4060180	2			12000
+Sound	std	other				4066110	3			0
+Sound	std	other				4073649	3			0
+Sound	std	other				4081270	2			0
+Sound	deviant_rough	other				4088010	2			0
+Sound	0	other				4100010	3			12000
+Sound	std	other				4107349	3			0
+Sound	std	other				4114679	4			0
+Sound	std	other				4121300	3			0
+Sound	std	other				4128699	2			0
+Sound	std	other				4135649	2			0
+Sound	deviant_smile	other				4142010	3			0
+Sound	0	other				4154010	2			12000
+Sound	std	other				4159710	3			0
+Sound	std	other				4165830	3			0
+Sound	std	other				4172870	3			0
+Sound	std	other				4178760	3			0
+Sound	std	other				4185369	3			0
+Sound	std	other				4192929	3			0
+Sound	std	other				4199879	3			0
+Sound	std	other				4206039	3			0
+Sound	std	other				4213599	3			0
+Sound	std	other				4219319	2			0
+Sound	std	other				4226949	3			0
+Sound	std	other				4234239	3			0
+Sound	std	other				4241690	3			0
+Sound	std	other				4249090	3			0
+Sound	std	other				4256550	3			0
+Sound	std	other				4264010	3			0
+Sound	deviant_flat	other				4270770	3			0
+Sound	0	other				4282770	3			12000
+Sound	std	other				4289610	3			0
+Sound	std	other				4297250	3			0
+Sound	std	other				4304440	3			0
+Sound	std	other				4311040	3			0
+Sound	std	other				4317630	3			0
+Sound	std	other				4323549	3			0
+Sound	deviant_flat	other				4329629	2			0
+Sound	0	other				4341629	3			12000
+Sound	deviant_rough	other				4349259	3			0
+Sound	0	other				4361259	3			12000
+Sound	std	other				4368129	3			0
+Sound	deviant_flat	other				4374971	3			0
+Sound	0	other				4386971	3			12000
+Sound	std	other				4393630	3			0
+Sound	std	other				4400829	3			0
+Sound	std	other				4407430	3			0
+Sound	deviant_smile	other				4413319	3			0
+Sound	0	other				4425319	3			12000
+Sound	std	other				4432850	3			0
+Sound	deviant_flat	other				4439519	3			0
+Sound	0	other				4451519	3			12000
+Sound	deviant_flat	other				4458169	2			0
+Sound	0	other				4470169	2			12000
+Sound	deviant_flat	other				4475999	2			0
+Sound	0	other				4487999	3			12000
+Sound	std	other				4493709	3			0
+Sound	std	other				4499679	3			0
+Sound	std	other				4506939	3			0
+Sound	deviant_smile	other				4512909	4			0
+Sound	0	other				4524909	3			12000
+Sound	std	other				4530979	3			0
+Sound	deviant_smile	other				4536929	3			0
+Sound	0	other				4548929	3			12000
+Sound	std	other				4556309	4			0
+Sound	std	other				4562189	3			0
+Sound	std	other				4568039	2			0
+Sound	deviant_rough	other				4575208	3			0
+Sound	0	other				4587208	2			12000
+Sound	std	other				4593529	3			0
+Sound	std	other				4600519	3			0
+Sound	std	other				4606908	3			0
+Sound	std	other				4614409	2			0
+Sound	std	other				4620359	3			0
+Sound	std	other				4626829	3			0
+Sound	deviant_rough	other				4632889	3			0
+Sound	0	other				4644889	3			12000
+Sound	std	other				4652099	3			0
+Sound	std	other				4658101	3			0
+Sound	std	other				4665509	3			0
+Sound	std	other				4672059	3			0
+Sound	std	other				4678830	2			0
+Sound	deviant_smile	other				4686529	3			0
+Sound	0	other				4698529	3			12000
+Sound	std	other				4706109	3			0
+Sound	std	other				4713689	3			0
+Sound	std	other				4719449	3			0
+Sound	deviant_flat	other				4726969	3			0
+Sound	0	other				4738969	3			12000
+Sound	std	other				4744710	3			0
+Sound	deviant_flat	other				4750589	3			0
+Sound	0	other				4762589	3			12000
+Sound	deviant_smile	other				4768519	3			0
+Sound	0	other				4780519	3			12000
+Sound	std	other				4787749	3			0
+Sound	std	other				4794959	3			0
+Sound	std	other				4801099	3			0
+Sound	std	other				4807959	3			0
+Sound	deviant_rough	other				4814049	3			0
+Sound	0	other				4826049	3			12000
+Sound	std	other				4832119	3			0
+Sound	deviant_smile	other				4838159	3			0
+Sound	0	other				4850159	3			12000
+Sound	std	other				4857018	3			0
+Sound	std	other				4863538	3			0
+Sound	std	other				4870329	3			0
+Sound	std	other				4877358	3			0
+Sound	std	other				4885089	3			0
+Sound	std	other				4891559	3			0
+Sound	std	other				4897359	3			0
+Sound	std	other				4904119	3			0
+Sound	std	other				4909929	3			0
+Sound	std	other				4916558	3			0
+Sound	std	other				4923879	3			0
+Sound	std	other				4930639	3			0
+Sound	deviant_flat	other				4937061	3			0
+Sound	0	other				4949061	3			12000
+Sound	std	other				4955868	3			0
+Sound	std	other				4962858	3			0
+Sound	std	other				4969579	3			0
+Sound	std	other				4975549	3			0
+Sound	std	other				4981868	3			0
+Sound	std	other				4989419	3			0
+Sound	std	other				4995398	3			0
+Sound	std	other				5001358	3			0
+Sound	std	other				5008059	3			0
+Sound	std	other				5015459	3			0
+Sound	std	other				5021519	3			0
+Sound	deviant_flat	other				5028529	3			0
+Sound	0	other				5040529	3			12000
+Sound	std	other				5046309	3			0
+Sound	deviant_rough	other				5052335	3			0
+Sound	0	other				5064335	3			12000
+Sound	deviant_flat	other				5070648	3			0
+Sound	0	other				5082648	3			12000
+Sound	std	other				5089028	2			0
+Sound	std	other				5095968	3			0
+Sound	std	other				5102079	3			0
+Sound	deviant_flat	other				5108770	2			0
+Sound	0	other				5120770	3			12000
+Sound	std	other				5128008	3			0
+Sound	std	other				5135738	3			0
+Sound	deviant_flat	other				5142649	3			0
+Sound	0	other				5154649	3			12000
+Sound	std	other				5162178	3			0
+Sound	std	other				5168759	3			0
+Sound	deviant_smile	other				5176258	3			0
+Sound	0	other				5188258	3			12000
+Sound	std	other				5194229	3			0
+Sound	std	other				5200379	3			0
+Sound	std	other				5207958	3			0
+Sound	deviant_rough	other				5213959	2			0
+Sound	0	other				5225959	2			12000
+Sound	std	other				5232578	3			0
+Sound	std	other				5239498	3			0
+Sound	deviant_flat	other				5246358	3			0
+Sound	0	other				5258358	3			12000
+Sound	std	other				5264218	3			0
+Sound	std	other				5270789	2			0
+Sound	std	other				5278428	3			0
+Sound	std	other				5285788	4			0
+Sound	deviant_smile	other				5292148	2			0
+Sound	0	other				5304148	3			12000
+Sound	std	other				5311469	3			0
+Sound	std	other				5318288	3			0
+Sound	std	other				5324209	2			0
+Sound	std	other				5330660	3			0
+Sound	std	other				5337928	3			0
+Sound	std	other				5344939	3			0
+Sound	std	other				5351438	31			0
+Sound	std	other				5358709	2			0
+Sound	std	other				5364938	4			0
+Sound	std	other				5371358	3			0
+Sound	std	other				5378658	3			0
+Sound	deviant_flat	other				5386318	3			0
+Sound	0	other				5398318	3			12000
+Sound	deviant_smile	other				5404868	2			0
+Sound	0	other				5416868	3			12000
+Sound	std	other				5422878	2			0
+Sound	deviant_flat	other				5428798	2			0
+Sound	0	other				5440798	3			12000
+Sound	std	other				5447168	2			0
+Sound	deviant_smile	other				5453727	3			0
+Sound	0	other				5465727	3			12000
+Sound	std	other				5472938	3			0
+Sound	std	other				5478899	3			0
+Sound	deviant_rough	other				5485558	2			0
+Sound	0	other				5497558	13			12000
+Sound	std	other				5503537	2			0
+Sound	std	other				5510138	2			0
+Sound	deviant_flat	other				5516108	3			0
+Sound	0	other				5528108	3			12000
+Sound	deviant_rough	other				5535218	3			0
+Sound	0	other				5547218	2			12000
+Sound	deviant_rough	other				5553028	3			0
+Sound	0	other				5565028	3			12000
+Sound	std	other				5571798	2			0
+Sound	std	other				5578448	2			0
+Sound	std	other				5585018	3			0
+Sound	std	other				5591898	3			0
+Sound	std	other				5597907	3			0
+Sound	std	other				5604388	4			0
+Sound	std	other				5610578	2			0
+Sound	std	other				5617767	2			0
+Sound	std	other				5624698	3			0
+Sound	std	other				5631488	3			0
+Sound	std	other				5638108	3			0
+Sound	std	other				5644038	3			0
+Sound	std	other				5650528	3			0
+Sound	std	other				5657267	2			0
+Sound	std	other				5664029	3			0
+Sound	std	other				5671778	3			0
+Sound	deviant_flat	other				5678279	2			0
+Sound	0	other				5690279	2			12000
+Sound	std	other				5697718	3			0
+Sound	std	other				5703788	3			0
+Sound	deviant_rough	other				5710397	2			0
+Sound	0	other				5722397	3			12000
+Sound	std	other				5728257	4			0
+Sound	deviant_rough	other				5735269	2			0
+Sound	0	other				5747269	3			12000
+Sound	std	other				5753349	3			0
+Sound	deviant_flat	other				5760218	3			0
+Sound	0	other				5772218	3			12000
+Sound	deviant_smile	other				5778667	3			0
+Sound	0	other				5790667	3			12000
+Sound	std	other				5797237	3			0
+Sound	std	other				5804777	3			0
+Sound	std	other				5811148	4			0
+Sound	deviant_rough	other				5817968	2			0
+Sound	0	other				5829968	3			12000
+Sound	deviant_smile	other				5837708	4			0
+Sound	0	other				5849708	3			12000
+Sound	std	other				5855957	2			0
+Sound	std	other				5862148	3			0
+Sound	std	other				5869438	3			0
+Sound	deviant_smile	other				5875707	3			0
+Sound	0	other				5887707	3			12000
+Sound	std	other				5895118	3			0
+Sound	std	other				5900968	2			0
+Sound	std	other				5907507	4			0
+Sound	std	other				5914807	3			0
+Sound	std	other				5921448	3			0
+Sound	std	other				5928638	2			0
+Sound	deviant_rough	other				5935867	3			0
+Sound	0	other				5947867	2			12000
+Sound	deviant_flat	other				5955287	3			0
+Sound	0	other				5967287	3			12000
+Sound	std	other				5973167	2			0
+Sound	std	other				5979898	3			0
+Sound	std	other				5986777	3			0
+Sound	deviant_flat	other				5994208	3			0
+Sound	0	other				6006208	2			12000
+Sound	std	other				6012668	3			0
+Sound	deviant_smile	other				6019657	3			0
+Sound	0	other				6031657	3			12000
+Sound	std	other				6037527	3			0
+Sound	deviant_flat	other				6044537	3			0
+Sound	0	other				6056537	2			12000
+Sound	std	other				6062967	3			0
+Sound	deviant_flat	other				6069477	2			0
+Sound	0	other				6081477	3			12000
+Sound	std	other				6088267	3			0
+Sound	std	other				6095867	3			0
+Sound	deviant_flat	other				6102018	3			0
+Sound	0	other				6114018	2			12000
+Sound	deviant_smile	other				6120767	2			0
+Sound	0	other				6132767	3			12000
+Sound	std	other				6138997	2			0
+Sound	std	other				6144867	3			0
+Sound	deviant_smile	other				6151937	3			0
+Sound	0	other				6163937	3			12000
+Sound	deviant_rough	other				6170257	3			0
+Sound	0	other				6182257	3			12000
+Sound	std	other				6189868	2			0
+Sound	std	other				6196297	3			0
+Sound	std	other				6202717	2			0
+Sound	deviant_flat	other				6210497	2			0
+Sound	0	other				6222497	3			12000
+Sound	std	other				6228348	3			0
+Sound	deviant_rough	other				6234807	3			0
+Sound	0	other				6246807	3			12000
+Sound	std	other				6254607	3			0
+Sound	std	other				6260727	3			0
+Sound	std	other				6267208	3			0
+Sound	std	other				6273877	3			0
+Sound	deviant_smile	other				6279787	3			0
+Sound	0	other				6291787	3			12000
+Sound	std	other				6299188	3			0
+Sound	std	other				6306797	3			0
+Sound	std	other				6313336	3			0
+Sound	std	other				6319708	3			0
+Sound	deviant_smile	other				6326077	3			0
+Sound	0	other				6338077	3			12000
+Sound	std	other				6345147	3			0
+Sound	deviant_smile	other				6352647	4			0
+Sound	0	other				6364647	3			12000
+Sound	deviant_rough	other				6370858	2			0
+Sound	0	other				6382858	2			12000
+Sound	std	other				6389447	4			0
+Sound	std	other				6396657	3			0
+Sound	deviant_flat	other				6404187	3			0
+Sound	0	other				6416187	3			12000
+Sound	std	other				6423507	3			0
+Sound	std	other				6429557	3			0
+Sound	std	other				6436777	2			0
+Sound	std	other				6442927	3			0
+Sound	std	other				6449597	3			0
+Sound	std	other				6455977	3			0
+Sound	std	other				6461818	3			0
+Sound	deviant_rough	other				6469278	3			0
+Sound	0	other				6481278	3			12000
+Sound	std	other				6487387	3			0
+Sound	std	other				6493698	3			0
+Sound	std	other				6501286	3			0
+Sound	std	other				6507887	3			0
+Sound	deviant_smile	other				6514840	3			0
+Sound	0	other				6526840	3			12000
+Sound	std	other				6534107	3			0
+Sound	deviant_flat	other				6540956	4			0
+Sound	0	other				6552956	3			12000
+Sound	std	other				6560666	3			0
+Sound	std	other				6568327	3			0
+Sound	std	other				6574897	3			0
+Sound	std	other				6581801	3			0
+Sound	std	other				6588139	3			0
+Sound	std	other				6593926	3			0
+Sound	std	other				6600037	3			0
+Sound	std	other				6607237	3			0
+Sound	std	other				6614147	3			0
+Sound	std	other				6620097	3			0
+Sound	std	other				6625947	4			0
+Sound	std	other				6632738	3			0
+Sound	std	other				6638597	3			0
+Sound	std	other				6644509	3			0
+Sound	deviant_smile	other				6651857	3			0
+Sound	0	other				6663857	3			12000
+Sound	deviant_flat	other				6669867	3			0
+Sound	0	other				6681867	3			12000
+Sound	std	other				6689407	4			0
+Sound	std	other				6695697	3			0
+Sound	std	other				6703286	3			0
+Sound	std	other				6710646	4			0
+Sound	std	other				6718177	7			0
+Sound	std	other				6724637	3			0
+Sound	std	other				6730917	3			0
+Sound	deviant_rough	other				6737237	3			0
+Sound	0	other				6749237	3			12000
+Sound	std	other				6756946	3			0
+Sound	std	other				6763086	3			0
+Sound	deviant_smile	other				6770627	3			0
+Sound	0	other				6782627	3			12000
+Sound	deviant_flat	other				6788986	3			0
+Sound	0	other				6800986	3			12000
+Sound	std	other				6807317	3			0
+Sound	std	other				6814127	3			0
+Sound	std	other				6820398	3			0
+Sound	deviant_flat	other				6826527	3			0
+Sound	0	other				6838527	3			12000
+Sound	std	other				6844666	3			0
+Sound	deviant_rough	other				6851207	3			0
+Sound	0	other				6863207	3			12000
+Sound	std	other				6870256	3			0
+Sound	std	other				6876406	3			0
+Sound	std	other				6882386	3			0
+Sound	std	other				6889927	3			0
+Sound	deviant_rough	other				6896667	3			0
+Sound	0	other				6908667	3			12000
+Sound	std	other				6914956	3			0
+Sound	std	other				6922226	3			0
+Sound	std	other				6928717	3			0
+Sound	std	other				6934715	3			0
+Sound	std	other				6940537	3			0
+Sound	std	other				6947697	3			0
+Sound	std	other				6955376	3			0
+Sound	std	other				6962486	3			0
+Sound	std	other				6969366	3			0
+Sound	std	other				6976256	2			0
+Sound	std	other				6983087	3			0
+Sound	deviant_flat	other				6989026	3			0
+Sound	0	other				7001026	3			12000
+Sound	deviant_flat	other				7007606	3			0
+Sound	0	other				7019606	3			12000
+Sound	std	other				7027086	3			0
+Sound	std	other				7034636	3			0
+Sound	std	other				7041726	3			0
+Sound	std	other				7048907	3			0
+Sound	std	other				7054726	3			0
+Sound	std	other				7061437	3			0
+Sound	std	other				7068008	3			0
+Sound	std	other				7073967	3			0
+Sound	std	other				7080246	3			0
+Sound	std	other				7087436	3			0
+Sound	std	other				7094287	3			0
+Sound	std	other				7101016	3			0
+Sound	std	other				7108736	3			0
+Sound	std	other				7115846	2			0
+Sound	deviant_rough	other				7122006	3			0
+Sound	0	other				7134006	3			12000
+Sound	std	other				7140596	3			0
+Sound	std	other				7147476	2			0
+Sound	deviant_flat	other				7154788	3			0
+Sound	0	other				7166788	2			12000
+Sound	std	other				7174130	3			0
+Sound	std	other				7181336	3			0
+Sound	deviant_rough	other				7188976	3			0
+Sound	0	other				7200976	3			12000
+Sound	deviant_smile	other				7208396	3			0
+Sound	0	other				7220396	2			12000
+Sound	std	other				7227976	3			0
+Sound	std	other				7235187	2			0
+Sound	deviant_smile	other				7242746	3			0
+Sound	0	other				7254746	3			12000
+Sound	deviant_smile	other				7260825	3			0
+Sound	0	other				7272825	3			12000
+Sound	std	other				7279506	18			0
+Sound	std	other				7286336	2			0
+Sound	std	other				7292936	3			0
+Sound	std	other				7300026	3			0
+Sound	std	other				7307636	3			0
+Sound	std	other				7315226	3			0
+Sound	std	other				7322555	3			0
+Sound	deviant_smile	other				7329176	3			0
+Sound	0	other				7341176	3			12000
+Sound	std	other				7347125	4			0
+Sound	std	other				7353025	3			0
+Sound	std	other				7359146	3			0
+Sound	std	other				7365435	2			0
+Sound	std	other				7373066	3			0
+Sound	std	other				7379115	3			0
+Sound	std	other				7385596	3			0
+Sound	deviant_smile	other				7392486	2			0
+Sound	0	other				7404486	3			12000
+Sound	deviant_flat	other				7411216	3			0
+Sound	0	other				7423216	3			12000
+Sound	std	other				7429446	3			0
+Sound	std	other				7435256	2			0
+Sound	std	other				7442405	3			0
+Sound	deviant_rough	other				7448595	3			0
+Sound	0	other				7460595	13			12000
+Sound	std	other				7467155	3			0
+Sound	deviant_flat	other				7474616	2			0
+Sound	0	other				7486616	3			12000
+Sound	deviant_rough	other				7494255	3			0
+Sound	0	other				7506255	3			12000
+Sound	std	other				7513546	2			0
+Sound	std	other				7521135	3			0
+Sound	std	other				7528655	3			0
+Sound	std	other				7534565	3			0
+Sound	std	other				7540496	3			0
+Sound	std	other				7546646	3			0
+Sound	deviant_flat	other				7553785	3			0
+Sound	0	other				7565785	3			12000
+Sound	std	other				7571545	3			0
+Sound	std	other				7577795	3			0
+Sound	std	other				7584765	3			0
+Sound	std	other				7592467	2			0
+Sound	std	other				7599536	2			0
+Sound	std	other				7606157	3			0
+Sound	std	other				7612530	2			0
+Sound	deviant_flat	other				7618946	3			0
+Sound	0	other				7630946	3			12000
+Sound	deviant_flat	other				7638695	4			0
+Sound	0	other				7650695	2			12000
+Sound	std	other				7657748	5			0
+Sound	deviant_smile	other				7663875	4			0
+Sound	0	other				7675875	3			12000
+Sound	std	other				7683376	3			0
+Sound	deviant_smile	other				7690065	3			0
+Sound	0	other				7702065	3			12000
+Sound	std	other				7709345	3			0
+Sound	deviant_rough	other				7716045	2			0
+Sound	0	other				7728045	2			12000
+Sound	std	other				7734775	3			0
+Sound	std	other				7741586	3			0
+Sound	deviant_rough	other				7748925	3			0
+Sound	0	other				7760925	3			12000
+Sound	deviant_smile	other				7768625	3			0
+Sound	0	other				7780625	3			12000
+Sound	deviant_flat	other				7787545	3			0
+Sound	0	other				7799545	3			12000
+Sound	std	other				7806296	3			0
+Sound	std	other				7813635	3			0
+Sound	std	other				7821254	3			0
+Sound	std	other				7828377	3			0
+Sound	std	other				7836095	3			0
+Sound	deviant_rough	other				7843355	3			0
+Sound	0	other				7855355	3			12000
+Sound	std	other				7862095	3			0
+Sound	std	other				7869256	3			0
+Sound	std	other				7875278	3			0
+Sound	std	other				7881595	3			0
+Sound	deviant_smile	other				7888696	3			0
+Sound	0	other				7900696	3			12000
+Sound	std	other				7907215	3			0
+Sound	std	other				7913515	3			0
+Sound	std	other				7919985	2			0
+Sound	std	other				7926935	4			0
+Sound	std	other				7933556	3			0
+Sound	deviant_flat	other				7939625	3			0
+Sound	0	other				7951625	2			12000
+Sound	std	other				7958566	3			0
+Sound	std	other				7964595	3			0
+Sound	std	other				7971355	3			0
+Sound	std	other				7977225	3			0
+Sound	std	other				7984275	3			0
+Sound	deviant_rough	other				7990665	3			0
+Sound	0	other				8002665	3			12000
+Sound	std	other				8010385	3			0
+Sound	std	other				8018035	3			0
+Sound	deviant_rough	other				8024005	3			0
+Sound	0	other				8036005	3			12000
+Sound	std	other				8043295	2			0
+Sound	std	other				8049735	3			0
+Sound	deviant_flat	other				8057068	3			0
+Sound	0	other				8069068	2			12000
+Sound	std	other				8074825	2			0
+Sound	deviant_flat	other				8082145	3			0
+Sound	0	other				8094145	3			12000
+Sound	std	other				8101805	3			0
+Sound	deviant_smile	other				8108854	3			0
+Sound	0	other				8120854	3			12000
+Sound	std	other				8126665	3			0
+Sound	std	other				8133945	3			0
+Sound	std	other				8140335	3			0
+Sound	std	other				8146804	2			0
+Sound	std	other				8154104	3			0
+Sound	std	other				8160314	3			0
+Sound	std	other				8166965	2			0
+Sound	std	other				8174615	3			0
+Sound	std	other				8181144	3			0
+Sound	deviant_rough	other				8187574	3			0
+Sound	0	other				8199574	4			12000
+Sound	std	other				8207055	3			0
+Sound	std	other				8213055	3			0
+Sound	std	other				8219804	5			0
+Sound	std	other				8227445	3			0
+Sound	deviant_smile	other				8233625	3			0
+Sound	0	other				8245625	3			12000
+Sound	std	other				8251848	3			0
+Sound	std	other				8258584	3			0
+Sound	std	other				8264574	3			0
+Sound	std	other				8270994	3			0
+Sound	std	other				8278006	3			0
+Sound	std	other				8285075	2			0
+Sound	std	other				8292455	3			0
+Sound	std	other				8299444	2			0
+Sound	std	other				8305654	2			0
+Sound	deviant_smile	other				8313016	3			0
+Sound	0	other				8325016	2			12000
+Sound	deviant_flat	other				8332794	2			0
+Sound	0	other				8344794	3			12000
+Sound	std	other				8351785	2			0
+Sound	std	other				8358996	2			0
+Sound	std	other				8365874	3			0
+Sound	std	other				8372704	3			0
+Sound	std	other				8378995	3			0
+Sound	std	other				8385884	4			0
+Sound	std	other				8393444	3			0
+Sound	deviant_smile	other				8400394	3			0
+Sound	0	other				8412394	3			12000
+Sound	deviant_flat	other				8419824	3			0
+Sound	0	other				8431824	3			12000
+Sound	deviant_flat	other				8439415	2			0
+Sound	0	other				8451415	3			12000
+Sound	std	other				8458155	3			0
+Sound	std	other				8464705	3			0
+Sound	std	other				8470796	3			0
+Sound	std	other				8478474	3			0
+Sound	std	other				8485055	3			0
+Sound	std	other				8491155	3			0
+Sound	deviant_rough	other				8497495	3			0
+Sound	0	other				8509495	3			12000
+Sound	std	other				8515634	3			0
+Sound	std	other				8521495	3			0
+Sound	deviant_rough	other				8527355	3			0
+Sound	0	other				8539355	3			12000
+Sound	std	other				8545214	3			0
+Sound	std	other				8552844	3			0
+Sound	deviant_smile	other				8559515	3			0
+Sound	0	other				8571515	2			12000
+Sound	std	other				8579044	3			0
+Sound	std	other				8586605	2			0
+Sound	deviant_rough	other				8593254	3			0
+Sound	0	other				8605254	3			12000
+Sound	std	other				8612594	3			0
+Sound	std	other				8619904	3			0
+Sound	std	other				8626384	2			0
+Sound	std	other				8633545	3			0
+Sound	std	other				8641304	3			0
+Sound	std	other				8648844	2			0
+Sound	deviant_flat	other				8656134	3			0
+Sound	0	other				8668134	3			12000
+Sound	std	other				8674254	3			0
+Sound	deviant_flat	other				8681325	3			0
+Sound	0	other				8693325	3			12000
+Sound	std	other				8700224	3			0
+Sound	deviant_smile	other				8707614	3			0
+Sound	0	other				8719614	3			12000
+Sound	std	other				8726274	2			0
+Sound	std	other				8732274	3			0
+Sound	deviant_smile	other				8739854	3			0
+Sound	0	other				8751854	3			12000
+Sound	std	other				8759314	3			0
+Sound	std	other				8766585	3			0
+Sound	deviant_smile	other				8774214	3			0
+Sound	0	other				8786214	3			12000
+Sound	std	other				8793384	3			0
+Sound	std	other				8800444	3			0
+Sound	std	other				8807205	2			0
+Sound	deviant_rough	other				8813895	3			0
+Sound	0	other				8825895	3			12000
+Sound	deviant_rough	other				8833024	3			0
+Sound	0	other				8845024	2			12000
+Sound	std	other				8850874	3			0
+Sound	std	other				8856774	3			0
+Sound	deviant_smile	other				8862894	3			0
+Sound	0	other				8874894	3			12000
+Sound	std	other				8882134	3			0
+Sound	std	other				8888335	3			0
+Sound	std	other				8894824	3			0
+Sound	std	other				8901424	3			0
+Sound	std	other				8908254	3			0
+Sound	std	other				8914354	3			0
+Sound	deviant_rough	other				8921924	3			0
+Sound	0	other				8933924	3			12000
+Sound	std	other				8940183	3			0
+Sound	std	other				8946995	3			0
+Sound	std	other				8952704	3			0
+Sound	std	other				8959865	3			0
+Sound	std	other				8966824	3			0
+Sound	deviant_rough	other				8972725	3			0
+Sound	0	other				8984725	3			12000
+Sound	std	other				8990814	3			0
+Sound	std	other				8998353	3			0
+Sound	deviant_flat	other				9004323	3			0
+Sound	0	other				9016323	3			12000
+Sound	deviant_rough	other				9023283	3			0
+Sound	0	other				9035283	3			12000
+Sound	std	other				9041504	3			0
+Sound	std	other				9048464	3			0
+Sound	std	other				9055794	3			0
+Sound	std	other				9063435	3			0
+Sound	std	other				9070004	3			0
+Sound	std	other				9075914	3			0
+Sound	std	other				9081814	3			0
+Sound	std	other				9089194	3			0
+Sound	deviant_smile	other				9096324	3			0
+Sound	0	other				9108324	3			12000
+Sound	std	other				9115564	3			0
+Sound	std	other				9123014	3			0
+Sound	std	other				9130013	3			0
+Sound	std	other				9135956	3			0
+Sound	deviant_rough	other				9142934	3			0
+Sound	0	other				9154934	3			12000
+Sound	std	other				9162114	3			0
+Sound	std	other				9169003	4			0
+Sound	std	other				9175644	3			0
+Sound	deviant_flat	other				9181455	3			0
+Sound	0	other				9193455	3			12000
+Sound	std	other				9199924	3			0
+Sound	std	other				9206333	3			0
+Sound	std	other				9213724	3			0
+Sound	std	other				9219974	3			0
+Sound	deviant_smile	other				9226283	3			0
+Sound	0	other				9238283	3			12000
+Sound	deviant_flat	other				9244034	3			0
+Sound	0	other				9256034	3			12000
+Sound	std	other				9263683	3			0
+Sound	std	other				9271063	3			0
+Sound	std	other				9278623	3			0
+Sound	std	other				9285583	3			0
+Sound	std	other				9291784	3			0
+Sound	std	other				9299224	3			0
+Sound	std	other				9306303	3			0
+Sound	std	other				9313384	3			0
+Sound	std	other				9321064	3			0
+Sound	std	other				9327663	3			0
+Sound	std	other				9334854	3			0
+Sound	std	other				9341673	3			0
+Sound	std	other				9347924	3			0
+Sound	std	other				9353774	2			0
+Sound	std	other				9360314	3			0
+Sound	std	other				9366354	3			0
+Sound	std	other				9372703	3			0
+Sound	std	other				9379954	3			0
+Sound	deviant_smile	other				9387544	3			0
+Sound	0	other				9399544	3			12000
+Sound	std	other				9406913	2			0
+Sound	deviant_flat	other				9414343	3			0
+Sound	0	other				9426343	3			12000
+Sound	std	other				9432883	4			0
+Sound	std	other				9439867	3			0
+Sound	std	other				9445634	3			0
+Sound	deviant_smile	other				9451473	3			0
+Sound	0	other				9463473	3			12000
+Sound	deviant_rough	other				9469943	3			0
+Sound	0	other				9481943	3			12000
+Sound	std	other				9487724	3			0
+Sound	std	other				9494384	8			0
+Sound	std	other				9501524	3			0
