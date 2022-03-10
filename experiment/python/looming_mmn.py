@@ -36,7 +36,7 @@ def get_stim_info(file_name, folder):
             info.append(row)
     return info
     
-def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_stims=400, n_stims_total=1200, deviant_proportion=0.2, initial_standard=10, minimum_standard = 1):
+def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_stims=400, n_stims_total=1200, deviant_proportion=0.2, initial_standard=5, minimum_standard = 3):
 # generates n_block trial files per subject
 # each block contains n_stim trials, randomized from folder which name is inferred from subject_number
 # returns an array of n_block file names
@@ -44,10 +44,14 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     condition_folder = PARAMS[condition]['folder']
 
     # glob all deviant files in stim folder
-    deviant_folder = root_path+'/sounds/%s/subj%d'%(condition_folder,subject_number)
-    deviant_files = ['sounds/%s/subj%d/'%(condition_folder,subject_number)+os.path.basename(x) for x in glob.glob(deviant_folder+'/*.wav')]
-    n_deviants = len(deviant_files) # normally 3 (neutral, smile, rough)
+    sound_folder = root_path+'/sounds/%s/'%(condition_folder)
+    deviant_files = ['sounds/%s/'%(condition_folder)+os.path.basename(x) for x in glob.glob(sound_folder+'/deviant_*.wav')]
+    n_deviants = len(deviant_files) # normally 2 (looming, receding)
 
+    # glob standard files in stim folder
+    standard_files = ['sounds/%s/'%(condition_folder)+os.path.basename(x) for x in glob.glob(sound_folder+'/standard_*.wav')]
+    standard_file = standard_files[0]
+    
     # generate list of deviants containing of n_total_stims * deviant_proportion stims
     if (n_stims_total * deviant_proportion < n_deviants): # if we need less deviant than n_deviant, do nothing 
         deviant_file_list = deviant_files
@@ -56,8 +60,8 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     random.shuffle(deviant_file_list)
     
     # generate list of trials, with the constraint that each deviant is preceded by at least "minimum_standard" standards
-    standard_file = 'sounds/%s/standard.wav'%condition_folder
-    stim_list = [ [standard_file,dev] for dev in deviant_file_list ] 
+    stim_list = [ [standard_file]*minimum_standard+[dev] for dev in deviant_file_list ] 
+    print(stim_list)
    
     # add the rest of standards (with the exception of the first initial_standards, to be added later)
     n_trials_so_far = len([trial for trial_pair in stim_list for trial in trial_pair])
@@ -69,6 +73,8 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     
     # add beginning initial_standards
     stim_list = [ [standard_file] ]*initial_standard + stim_list
+
+    # flatten list
     stim_list = [trial for trial_pair in stim_list for trial in trial_pair]
     
     # write trials by blocks of n_stims
@@ -208,38 +214,26 @@ def send_marker(device, marker_code):
 ###      
 ###########################################################################################
 
-root_path = './' #D:/WORKPOSTDOC/own-name-NSR/experiment/'
+root_path = './'
 N_STIMS_TOTAL = 1200 # total nb of stimuli (dev + std)
 DEVIANT_PROPORTION = 0.2
 N_BLOCKS = 1
 ISI = .6 # in sec
 JITTER = .05 # in sec.
-SEND_MARKERS = True
+SEND_MARKERS = False
 
-RISE_PARAMS = {'condition':'rise',
+LOOMING_PARAMS = {'condition':'looming',
                'fixation_cross_color':'deepskyblue',
-               'folder':'rise',
-               'deviants' : ['neutral','rise','fall'],
+               'folder':'looming',
+               'deviants' : ['looming','receding'], 
                'markers_codes': {'block_begin':11,
                                   'standard':1,
-                                  'neutral':2,
-                                  'rise':3,
-                                  'fall':4}
+                                  'looming':2,
+                                  'receding':3}
                 }
 
-SMILE_PARAMS = {'condition':'smile',
-                'fixation_cross_color':'green',
-                'folder':'smile',
-                'deviants' : ['neutral','smile','rough'],
-                'markers_codes': {'block_begin':11,
-                                  'standard':1,
-                                  'neutral':2,
-                                  'smile':3,
-                                  'rough':4}
-                }
 
-PARAMS = {'rise':RISE_PARAMS,
-            'smile':SMILE_PARAMS}
+PARAMS = {'looming':LOOMING_PARAMS}
 
 ###########################################################################################
 
@@ -254,7 +248,7 @@ if(SEND_MARKERS):
     
 
 # get participant nb, age, sex 
-subject_info = {u'number':1, u'name':'Bobby', u'age':20, u'sex': u'f/m', u'handedness':'right', u'condition': u'smile/rise'}
+subject_info = {u'number':1, u'name':'Bobby', u'age':20, u'sex': u'f/m', u'handedness':'right', u'condition': u'looming'}
 dlg = gui.DlgFromDict(subject_info, title=u'Own-name')
 if dlg.OK:
     subject_number = subject_info[u'number']
@@ -274,9 +268,9 @@ if not condition in PARAMS:
 params = PARAMS[condition]
 
 # check if stimulus folder exists
-stimulus_folder = root_path + 'sounds/%s/subj%s/'%(params['folder'],subject_number)
+stimulus_folder = root_path + 'sounds/%s/'%(params['folder'])
 if not os.path.exists(stimulus_folder):
-    raise AssertionError("Can't find stimulus folder %s for subj %s: "%(stimulus_folder,subject_number))
+    raise AssertionError("Can't find stimulus folder: %s "%(stimulus_folder))
 
 # create psychopy black window where to show instructions
 win = visual.Window(np.array([1920,1080]),fullscr=False,color='black', units='norm')
@@ -308,7 +302,7 @@ for block_count, trial_file in enumerate(trial_files):
         row = [subject_number, subject_name, subject_age, subject_sex, subject_handedness, date, condition, block_count+1, trial_count+1]
         sound = root_path+trial   
         
-        # find stim stype         
+        # find stim stype from stimulus filename        
         if 'standard' in trial:
             stim_type = 'standard'
         else:
