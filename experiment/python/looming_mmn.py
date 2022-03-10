@@ -24,6 +24,7 @@ import numpy as np
 from math import ceil, floor
 import shutil
 import pyxid2
+import vlc
 
 def get_stim_info(file_name, folder):
 # read stimulus information stored in same folder as file_name, with a .txt extension
@@ -140,12 +141,22 @@ def show_text_and_wait(file_name = None, message = None):
         text_object.draw()
         win.flip()
         
-def show_fixation_cross(file_name = None, message = '+', color = 'deepskyblue'):
+def show_fixation_cross(message = '+', color = 'deepskyblue'):
     event.clearEvents()
     text_object = visual.TextStim(win, text = message, color = color)
     text_object.height = 0.2
     text_object.draw()
     win.flip()
+
+def show_video(file = 'sounds/video.avi'):
+
+    # startup vlc to play fullscreen
+    #media_player = vlc.MediaPlayer()
+    #media_player.toggle_fullscreen()
+    #media = vlc.Media(file)
+    #media_player.set_media(media)
+    #media_player.play()
+  
 
 def play_sound(sound):
     #play sound
@@ -225,7 +236,7 @@ SEND_MARKERS = False
 LOOMING_PARAMS = {'condition':'looming',
                'fixation_cross_color':'deepskyblue',
                'folder':'looming',
-               'deviants' : ['looming','receding'], 
+               'deviants' : ['looming','receding'],  
                'markers_codes': {'block_begin':11,
                                   'standard':1,
                                   'looming':2,
@@ -292,7 +303,8 @@ n_blocks = len(trial_files)
 for block_count, trial_file in enumerate(trial_files):
 
     show_fixation_cross(message='+', color=params['fixation_cross_color'])
-    
+    #show_video()
+
     block_trials = read_trials(trial_file)
     if(SEND_MARKERS):
         # send_marker(stim_tracker, 'block_begin')
