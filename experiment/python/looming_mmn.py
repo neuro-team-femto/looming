@@ -24,7 +24,7 @@ import numpy as np
 from math import ceil, floor
 import shutil
 import pyxid2
-import vlc
+#import vlc
 
 def get_stim_info(file_name, folder):
 # read stimulus information stored in same folder as file_name, with a .txt extension
@@ -148,7 +148,7 @@ def show_fixation_cross(message = '+', color = 'deepskyblue'):
     text_object.draw()
     win.flip()
 
-def show_video(file = 'sounds/video.avi'):
+#def show_video(file = 'sounds/video.avi'):
 
     # startup vlc to play fullscreen
     #media_player = vlc.MediaPlayer()
