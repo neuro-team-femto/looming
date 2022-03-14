@@ -24,7 +24,6 @@ import numpy as np
 from math import ceil, floor
 import shutil
 import pyxid2
-#import vlc
 
 def get_stim_info(file_name, folder):
 # read stimulus information stored in same folder as file_name, with a .txt extension
@@ -47,10 +46,12 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     # glob all deviant files in stim folder
     sound_folder = root_path+'/sounds/%s/'%(condition_folder)
     deviant_files = ['sounds/%s/'%(condition_folder)+os.path.basename(x) for x in glob.glob(sound_folder+'/deviant_*.wav')]
-    n_deviants = len(deviant_files) # normally 2 (looming, receding)
+    n_deviants = len(deviant_files) # normally 3 (standard, looming, receding)
+    print("Found %d types of deviants"%(n_deviants))
 
     # glob standard files in stim folder
     standard_files = ['sounds/%s/'%(condition_folder)+os.path.basename(x) for x in glob.glob(sound_folder+'/standard_*.wav')]
+    print("Found %d type(s) of standard(s) (expected: 1)"%(len(standard_files)))
     standard_file = standard_files[0]
     
     # generate list of deviants containing of n_total_stims * deviant_proportion stims
@@ -62,8 +63,7 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     
     # generate list of trials, with the constraint that each deviant is preceded by at least "minimum_standard" standards
     stim_list = [ [standard_file]*minimum_standard+[dev] for dev in deviant_file_list ] 
-    print(stim_list)
-   
+    
     # add the rest of standards (with the exception of the first initial_standards, to be added later)
     n_trials_so_far = len([trial for trial_pair in stim_list for trial in trial_pair])
     if (n_stims_total > n_trials_so_far + initial_standard): 
@@ -92,7 +92,8 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
             for item in block: 
                 writer.writerow([item])
     return trial_files, standard_file
-        
+
+
 def blockify(x,n_stims):
     # generator to cut a signal into non-overlapping frames
     # returns all complete frames, but a last frame with any trailing samples
@@ -148,15 +149,6 @@ def show_fixation_cross(message = '+', color = 'deepskyblue'):
     text_object.draw()
     win.flip()
 
-#def show_video(file = 'sounds/video.avi'):
-
-    # startup vlc to play fullscreen
-    #media_player = vlc.MediaPlayer()
-    #media_player.toggle_fullscreen()
-    #media = vlc.Media(file)
-    #media_player.set_media(media)
-    #media_player.play()
-  
 
 def play_sound(sound):
     #play sound
@@ -182,7 +174,7 @@ def play_sound(sound):
 import numpy as np
 def convert_marker_code_to_lines (marker_code, separate_digits = False):
 
-    LINES = np.array([2,1,5,4])
+    LINES = np.array([2,1,5,4]) # these are the TTL lines available for triggers
     lines = []
     if not separate_digits: 
         # convert digit in 4-bit word
@@ -205,7 +197,7 @@ def convert_marker_code_to_lines (marker_code, separate_digits = False):
 
 def send_marker(device, marker_code):
 
-    # (if Laura is correct) markers are coded as 4-bit binary words, correspondind to lines [2,1,5,4]
+    # markers are coded as 4-bit binary words, correspondind to lines [2,1,5,4]
     # eg. number 1 = binary 0001 = send 1 to line 4
     # eg. number 3 = binary 0011 = send 1 to line 4 and 1 to line 5
     # eg. number 8 = binary 1000 = send 1 to line 2, etc. 
@@ -226,7 +218,7 @@ def send_marker(device, marker_code):
 ###########################################################################################
 
 root_path = './'
-N_STIMS_TOTAL = 1200 # total nb of stimuli (dev + std)
+N_STIMS_TOTAL = 2000 # total nb of stimuli (dev + std)
 DEVIANT_PROPORTION = 0.2
 N_BLOCKS = 1
 ISI = .6 # in sec
@@ -238,9 +230,10 @@ LOOMING_PARAMS = {'condition':'looming',
                'folder':'looming',
                'deviants' : ['looming','receding'],  
                'markers_codes': {'block_begin':11,
-                                  'standard':1,
-                                  'looming':2,
-                                  'receding':3}
+                                  'standard':1, # standard, roughly 80% of time
+                                  'looming':2, # one of 3 types of deviants, with amplitude ramping up
+                                  'receding':3, # one of 3 types of deviants, with amplitude ramping down
+                                  'flat':4} # one of 3 types of deviants, same as standard with longer duration
                 }
 
 
