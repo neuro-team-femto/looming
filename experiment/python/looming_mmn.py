@@ -254,7 +254,7 @@ N_BLOCKS = 20
 ISI = .6 # in sec
 JITTER = .05 # in sec.
 BLOCK_WAIT = 10 # in sec.
-SEND_MARKERS = False
+SEND_MARKERS = True
 
 LOOMING_PARAMS = {'condition':'looming',
                'fixation_cross_color':'deepskyblue',
