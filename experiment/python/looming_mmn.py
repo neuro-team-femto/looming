@@ -58,7 +58,7 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     if (n_stims_total * deviant_proportion < n_deviants): # if we need less deviant than n_deviant, do nothing 
         deviant_file_list = deviant_files
     else: # duplicate the nb of deviants
-        deviant_file_list = deviant_files * (floor(n_stims_total* deviant_proportion/ n_deviants))
+        deviant_file_list = deviant_files * (floor(n_stims_total* deviant_proportion/ n_deviants)) # this ensures that we have the same proportion of all deviants
     random.shuffle(deviant_file_list)
     
     # generate list of trials, with the constraint that each deviant is preceded by at least "minimum_standard" standards
@@ -77,6 +77,8 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
 
     # flatten list
     stim_list = [trial for trial_pair in stim_list for trial in trial_pair]
+
+    sequence_analytics(stim_list, isi = 0.6)
     
     # write trials by blocks of n_stims
     trial_files = []
@@ -92,6 +94,31 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
             for item in block: 
                 writer.writerow([item])
     return trial_files, standard_file
+
+
+def sequence_analytics(stim_list, isi = 0.6): 
+    # provides analytics about the sequence: how many stims of each type, and estimate total duration
+    print("*******************************************")
+    print("Sequence analytics")
+    print("*******************************************")
+        
+    print("Sequence of size %d"%len(stim_list))
+    stims = np.unique(stim_list)
+    print("Contains %d stimulus types: "%len(stims))
+    duration = 0
+    stims, counts = np.unique(stim_list, return_counts=True)
+    for [stim,count] in zip(stims,counts): 
+        print("- %d : %s"%(count,os.path.basename(stim)))
+        duration += count * (get_stimulus_duration(stim) + isi)
+    
+    print("Estimated duration: %s "%str(datetime.timedelta(seconds=duration)))
+    print("*******************************************")
+    
+
+def get_stimulus_duration(stim):
+    # returns wavfile duration in sec.
+    sr, data = wav.read(stim)
+    return len(data)/sr
 
 
 def blockify(x,n_stims):
@@ -218,7 +245,7 @@ def send_marker(device, marker_code):
 ###########################################################################################
 
 root_path = './'
-N_STIMS_TOTAL = 2000 # total nb of stimuli (dev + std)
+N_STIMS_TOTAL = 3000 # total nb of stimuli (dev + std)
 DEVIANT_PROPORTION = 0.2
 N_BLOCKS = 1
 ISI = .6 # in sec
