@@ -78,7 +78,7 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     # flatten list
     stim_list = [trial for trial_pair in stim_list for trial in trial_pair]
 
-    sequence_analytics(stim_list, isi = 0.6)
+    sequence_analytics(stim_list, isi = 0.6, n_blocks=n_blocks, block_wait = 10)
     
     # write trials by blocks of n_stims
     trial_files = []
@@ -96,7 +96,7 @@ def generate_trial_files(condition = 'rise', subject_number=1, n_blocks=3, n_sti
     return trial_files, standard_file
 
 
-def sequence_analytics(stim_list, isi = 0.6): 
+def sequence_analytics(stim_list, isi = 0.6, n_blocks = 1, block_wait = 20): 
     # provides analytics about the sequence: how many stims of each type, and estimate total duration
     print("*******************************************")
     print("Sequence analytics")
@@ -110,6 +110,9 @@ def sequence_analytics(stim_list, isi = 0.6):
     for [stim,count] in zip(stims,counts): 
         print("- %d : %s"%(count,os.path.basename(stim)))
         duration += count * (get_stimulus_duration(stim) + isi)
+
+    print("In %d blocks"%n_blocks)
+    duration += (n_blocks-1) * block_wait
     
     print("Estimated duration: %s "%str(datetime.timedelta(seconds=duration)))
     print("*******************************************")
@@ -247,9 +250,10 @@ def send_marker(device, marker_code):
 root_path = './'
 N_STIMS_TOTAL = 3000 # total nb of stimuli (dev + std)
 DEVIANT_PROPORTION = 0.2
-N_BLOCKS = 1
+N_BLOCKS = 20
 ISI = .6 # in sec
 JITTER = .05 # in sec.
+BLOCK_WAIT = 10 # in sec.
 SEND_MARKERS = False
 
 LOOMING_PARAMS = {'condition':'looming',
@@ -308,7 +312,7 @@ win = visual.Window(np.array([1920,1080]),fullscr=False,color='black', units='no
 
 # generate data files
 result_file = generate_result_file(condition, subject_number) # renvoie 1 filename en csv
-n_stims = round(N_STIMS_TOTAL/N_BLOCKS) # nb trials per block
+#n_stims = round(N_STIMS_TOTAL/N_BLOCKS) # nb trials per block
 trial_files, standard_file = generate_trial_files(condition=condition,
                                                 subject_number=subject_number,
                                                 n_blocks=N_BLOCKS,
@@ -365,8 +369,10 @@ for block_count, trial_file in enumerate(trial_files):
         trial_count += 1
         
     # pause at the end of subsequent blocks 
-    if block_count < n_blocks-1: 
-        show_text_and_wait(message = "Vous avez fait "+str(Fraction(block_count+1, n_blocks))+ " de l'experience. \n Nous vous proposons de faire une pause. \n\n (Veuillez attendre l'experimentateur pour reprendre l'experience).")      
+    if block_count < n_blocks-1:
+        print("<<< BLOCK WAIT >>>") 
+        core.wait(BLOCK_WAIT)
+        #show_text_and_wait(message = "Vous avez fait "+str(Fraction(block_count+1, n_blocks))+ " de l'experience. \n Nous vous proposons de faire une pause. \n\n (Veuillez attendre l'experimentateur pour reprendre l'experience).")      
         
         
 #End of experiment
