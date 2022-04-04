@@ -248,7 +248,7 @@ def send_marker(device, marker_code):
 ###########################################################################################
 
 root_path = './'
-N_STIMS_TOTAL = 3000 # total nb of stimuli (dev + std)
+N_STIMS_TOTAL = 2000 # total nb of stimuli (dev + std)
 DEVIANT_PROPORTION = 0.2
 N_BLOCKS = 20
 ISI = .6 # in sec
