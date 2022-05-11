@@ -259,7 +259,7 @@ SEND_MARKERS = True
 LOOMING_PARAMS = {'condition':'looming',
                'fixation_cross_color':'deepskyblue',
                'folder':'looming',
-               'deviants' : ['looming','receding'],  
+               'deviants' : ['looming','receding', 'flat'],  
                'markers_codes': {'block_begin':11,
                                   'standard':1, # standard, roughly 80% of time
                                   'looming':2, # one of 3 types of deviants, with amplitude ramping up
